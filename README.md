@@ -14,7 +14,13 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-- [ ] Example item
+- [ ] See project comments - there is a longer title
+    - [ ] Use in the book itself?
+    - [ ] Use in submission to PG?
+- [ ] On 135 and 136, P1 entered Greek characters which were reverted in F1
+    - [ ] Can fetch 135 from P2 (P2 made an update, which P3 preserved)
+    - [ ] Can fetch 136 from P1 (was preserved through P3)
+- [ ] 348 - a question about a diacritical. See forum for more discussion.
 
 ### Project manager notes ###
 
@@ -24,9 +30,24 @@ The Provincial Letters, originally published in the 17th century, was banned for
 
 This is an old text. The pages are stained, there is some blotching on the scans. The orthography is old. Ask questions in the project thread. 
 
-
-
 ### Forum notes ###
+
+135, 136: Discussion of Greek transliteration - added to revisit section. A
+later round reverted to transliteration unfortunately.
+
+348: Discussion of a questionable diacritical - added to revisit section for
+review. It is probably marked as a proofer note.
+
+One poster is using an [alternate edition][1] with much better scans. Although
+this should be used only cautiously in case they differ. (The poster believed
+they didn't differ other than in pagination).
+
+201: Discussion of something that looked like a footnote marker, without a
+footnote to accompany it. Also a few pages prior to that. PM notes it is a
+printer's mark, and another appears on 217.
+
+One poster notes the punctuation in the footnotes is "very sketchy", even
+after consulting TIA.
 
 ### General notes ###
 
@@ -41,3 +62,6 @@ This is an old text. The pages are stained, there is some blotching on the scans
 ### Transcriber's notes ###
 
 ### Smooth Reading ###
+
+
+[1]: https://books.google.co.za/books?id=dIU9AAAAYAAJ
