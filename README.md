@@ -21,6 +21,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
     - [ ] Can fetch 135 from P2 (P2 made an update, which P3 preserved)
     - [ ] Can fetch 136 from P1 (was preserved through P3)
 - [ ] 348 - a question about a diacritical. See forum for more discussion.
+- [ ] No cover image was provided
 
 ### Project manager notes ###
 
@@ -52,6 +53,9 @@ after consulting TIA.
 ### General notes ###
 
 ### Illustrations ###
+
+- [ ] A cover will need to be fabricated
+- [ ] 393 through 404: these are publisher's ads and have decorative borders
 
 ### Proofer's notes ###
 
