@@ -394,19 +394,22 @@
  'Pg393' => {'offset' => '16170.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg394' => {'offset' => '16240.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg395' => {'offset' => '16311.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg396' => {'offset' => '16387.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg397' => {'offset' => '16469.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg398' => {'offset' => '16543.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg399' => {'offset' => '16634.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg400' => {'offset' => '16690.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg401' => {'offset' => '16840.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg402' => {'offset' => '16928.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg403' => {'offset' => '17009.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg404' => {'offset' => '17093.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg396' => {'offset' => '16385.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg397' => {'offset' => '16464.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg398' => {'offset' => '16538.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg399' => {'offset' => '16629.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg400' => {'offset' => '16685.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg401' => {'offset' => '16834.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg402' => {'offset' => '16927.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg403' => {'offset' => '17008.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg404' => {'offset' => '17092.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
 );
 
 
-$::bookmarks[0] = '16.3';
+$::bookmarks[0] = '6056.30';
+$::bookmarks[1] = '7186.30';
+$::bookmarks[2] = '7188.37';
+$::bookmarks[3] = '7188.60';
 
 $::pngspath = '/Users/dan/dp/pp/pascal/pngs/';
 
