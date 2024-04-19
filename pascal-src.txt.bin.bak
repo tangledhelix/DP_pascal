@@ -380,7 +380,7 @@
  'Pg379' => {'offset' => '15610.0', 'label' => 'Pg 379', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg380' => {'offset' => '15650.0', 'label' => 'Pg 380', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg381' => {'offset' => '15694.0', 'label' => 'Pg 381', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg382' => {'offset' => '15737.0', 'label' => 'Pg 382', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg382' => {'offset' => '15732.0', 'label' => 'Pg 382', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg383' => {'offset' => '15776.0', 'label' => 'Pg 383', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg384' => {'offset' => '15816.0', 'label' => 'Pg 384', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg385' => {'offset' => '15857.0', 'label' => 'Pg 385', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -406,7 +406,7 @@
 );
 
 
-$::bookmarks[0] = '15500.81';
+$::bookmarks[0] = '16854.49';
 $::bookmarks[1] = '7171.30';
 $::bookmarks[2] = '7173.37';
 $::bookmarks[3] = '7173.60';

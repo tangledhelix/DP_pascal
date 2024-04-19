@@ -5,8 +5,6 @@
 // Project ID : 61524e807a9ac
 
 .dt The provincial letters of Blaise Pascal | Project Gutenberg
-
-
 -----File: 001.png---------------------------------------------------------
 
 
@@ -4054,7 +4052,7 @@ with a doctor of my acquaintance this very morning,
 on being asked by him where lay the point of difference
 in dispute, and if one would no longer be allowed to say
 what the fathers had said before him, made the following exquisite
-reply: "This proposition would be orthodox in the
+reply: 'This proposition would be orthodox in the
 mouth of any other--it is only as coming from M. Arnauld
 that the Sorbonne have condemned it!' You must now be
 prepared to admire the machinery of Molinism, which can
@@ -4228,7 +4226,7 @@ added he. "Here is the book of Father Annat.[121] It is the
 last that he wrote against M. Arnauld. Turn up to page
 34, where there is a dog's ear, and read the lines which I
 have marked with pencil--they ought to be written in letters
-of gold. I then read these words: "He that has no thought
+of gold.[**"?] I then read these words: "He that has no thought
 of God, nor of his sins, nor any apprehension (that is, as he
 explained it, any knowledge) of his obligation to exercise the
 acts of love to God or contrition, has no actual grace for
@@ -8836,7 +8834,7 @@ and he ought not to absolve those whom Jesus Christ condemns.'"
 
 "They are the words of our father Filiutius," he replied.
 
-"You astonish me," said I; " I took them to be a quotation
+"You astonish me," said I; "I took them to be a quotation
 from one of the fathers of the Church. At all events,
 -----File: 211.png---------------------------------------------------------
 sir, that passage ought to make an impression on the confessors,
@@ -16536,7 +16534,7 @@ he commemorates."--<i>Puritan Recorder.</i>
 #/
 
 
-*Memoirs of John M. Mason, D.D.
+* Memoirs of John M. Mason, D.D.
 
 By Dr. Van Vechten. 8vo. $2 00.
 
@@ -16843,8 +16841,8 @@ The Truth and Life.
 
 /#
 "We have seldom met with a more admirable volume of Sermons than the one
-now lying before us. * * * The subjects are varied, but in all there is the
-same clearness, and fullness of Gospel truth. * * * We can assure our readers
+now lying before us. *\_*\_* The subjects are varied, but in all there is the
+same clearness, and fullness of Gospel truth. *\_*\_* We can assure our readers
 that there is a freshness and power pervading the work, which is most delightful
 to find in this age of flimsy sentiment and idealistic abstractions."--<i>Banner.</i>
 #/
@@ -16877,7 +16875,7 @@ Columbia, S. C. 12mo. $1.
 "The Ethics are of the loftiest standard, breathing a pure theology, and informed
 by a sound psychology, and presented in a form of compacted logic. It is a
 tonic for both mind and heart to read these able expositions of the moral system
-of Christianity. * * * To those who <i>think</i>, it will be found a dish of strong
+of Christianity. *\_*\_* To those who <i>think</i>, it will be found a dish of strong
 meat, the inward digestion of which will give vigor to both the mental and
 spiritual man."--<i>Watchman and Observer.</i>
 #/
@@ -16977,7 +16975,7 @@ could never have been the production of any other than a master-mind."--<i>Purit
 Recorder.</i>
 
 "As one of the impregnable defences of the historical verity of the facts of Christianity,
-the work of Paley stands unrivaled and complete. * * * The notes
+the work of Paley stands unrivaled and complete. *\_*\_* The notes
 and additions of Prof. Nairne make it more valuable than any edition hitherto
 published. The labors of Chalmers, Hill, Wardlaw, Campbell, Alexander, Hitchcock,
 Miller, Birks, and many others, are here put under contribution."--<i>Presbyterian
@@ -17088,7 +17086,7 @@ Preces Paulinæ; or, Devotions of the Apostle Paul.
 16mo. 75 cents.
 
 /#
-"A gem of no ordinary worth. * * * We may briefly describe it, and this
+"A gem of no ordinary worth. *\_*\_* We may briefly describe it, and this
 because we think its title fails to do so, as a Treatise on Prayer, founded on the
 instances of prayer recorded of, and by, the Apostle Paul. It is searching, devotional,
 practical, and profitable."--<i>Christian Annotator.</i>

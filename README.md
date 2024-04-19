@@ -36,6 +36,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
     - [x] 204: `duæ [**duœ?]` Latin?
     - [X] 347: `M. de l aLane[**P2 la Lane?]` French? proper name?
 - [ ] 238: An "H" with a cross symbol above. How to render that? image?
+- [ ] 103: Missing `"` in 4th line? Look at other sources
 
 ### Project manager notes ###
 
