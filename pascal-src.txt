@@ -5503,7 +5503,7 @@ the monk. "Their names are, Villabolos, Conink, Llamas,
 Achokier, Dealkozer, Dellacrux, Veracruz, Ugolin, Tambourin,
 Fernandez, Martinez, Suarez, Henriquez, Vasquez, Lopez,
 Gomez, Sanchez, De Vechis, De Grassis, De Grassalis,
-De Pitigianis, De Graphœis, Squilanti, Bizozeri, Barcola, De
+De Pitigianis, De Graphæis, Squilanti, Bizozeri, Barcola, De
 Bobadilla, Simancha, Perez de Lara, Aldretta, Lorca, De
 Scarcia, Quaranta, Scophra, Pedezza, Cabrezza, Bisbe, Dias,
 De Clavasis, Villagut, Adam à Manden, Iribarne, Binsfeld,
@@ -10128,7 +10128,7 @@ to which your maxims lead deserves another sort of
 consideration; and it becomes us to ask, with the same ancient
 writer, "Whether ought we to laugh at their folly, or
 deplore their blindness?--<i>Rideam vanitatem, an exprobrem
-cœcitatem</i>?" My humble opinion is, that one may either
+cæcitatem</i>?" My humble opinion is, that one may either
 laugh at them or weep over them, as one is in the humor.
 <i>Hæc tolerabilius vel ridentur, vel flentur</i>, as St. Augustine
 says. The Scripture tells us that "there is a time to laugh,

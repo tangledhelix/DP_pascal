@@ -406,8 +406,8 @@
 );
 
 
-$::bookmarks[0] = '9256.33';
-$::bookmarks[1] = '7171.30';
+$::bookmarks[0] = '5853.49';
+$::bookmarks[1] = '4780.55';
 $::bookmarks[2] = '7173.37';
 $::bookmarks[3] = '7173.60';
 
