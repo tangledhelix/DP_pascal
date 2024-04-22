@@ -7779,7 +7779,7 @@ classes, and thus you will have gone through a complete
 course of instruction.”--So saying, the monk took his leave
 of me.--I am, &c.
 
-<tb>
+.tb
 
 <i>P. S.</i>--I have always forgot to tell you that there are different
 editions of Escobar. Should you think of purchasing
@@ -8606,7 +8606,7 @@ With these words we parted, so that our next conversation,
 I presume, will, turn on the policy of the Society.--I
 am, &c.
 
-<tb>
+.tb
 
 <i>P. S.</i>--Since writing the above, I have seen “Paradise
 Opened by a Hundred Devotions easily Practised,” by Father
@@ -10149,7 +10149,7 @@ for the sentiments which they refuse to disavow.]
 
 [Footnote 239: Prov. xxix. 9.]
 
-<tb>
+.tb
 
 <i>P. S.</i>--On finishing this letter, there was put in my hands
 one of your publications, in which you accuse me of falsification,
@@ -12204,7 +12204,7 @@ and that of all crimes, murder is the only one which involves
 in a common destruction the Church and the state, nature
 and religion.
 
-<tb>
+.tb
 
 I have just seen the answer of your apologist to my Thirteenth
 Letter; but if he has nothing better to produce in the
@@ -14045,7 +14045,7 @@ answers. You have done well, therefore, to change your
 plan; but I am afraid that you will get no credit for it, and
 that people will say it was done for fear of the Benedictines.
 
-<tb>
+.tb
 
 I have just come to learn that the person who was generally
 reported to be the author of your Apologies, disclaims
@@ -15053,7 +15053,7 @@ man is not a Catholic; it is enough, in all conscience, if a
 person, without charging error upon anybody else, succeed
 in discharging himself.
 
-<tb>
+.tb
 
 Reverend father,--If you have found any difficulty in deciphering
 this letter, which is certainly not printed in the
@@ -16121,7 +16121,7 @@ once, their guide and their support! I have, in fine, seen
 them maintaining a character of Christian piety, whose
 power....
 
-<tb>
+.tb
 
 I found them surrounded by their friends, who had hastened
 to impart those counsels which they deemed the most fitting
@@ -16139,7 +16139,7 @@ the penalties they would draw upon themselves by their refusal
 to sign the Constitution, and the scandal it might cause
 in the Church, their reply was....
 
-<tb>
+.tb
 
 
 THE END
@@ -16774,7 +16774,7 @@ WALTER BINNING.
 WINGS AND STINGS.
 */
 
-<tb>
+.tb
 
 
 JUVENILE LIBRARY.
@@ -16796,7 +16796,7 @@ LIMED TWIGS.
 NEW COBWEBS.
 */
 
-<tb>
+.tb
 
 /*
 ANNIE’S FIRST BOOK. 85 cents.
