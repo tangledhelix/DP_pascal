@@ -36,7 +36,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
     - [x] 204: `duæ [**duœ?]` Latin?
     - [X] 347: `M. de l aLane[**P2 la Lane?]` French? proper name?
 - [ ] 238: An "H" with a cross symbol above. How to render that? image?
-- [ ] 103: Missing `"` in 4th line? Look at other sources
+- [x] 103: Missing `"` in 4th line? Look at other sources
 
 ### Project manager notes ###
 
@@ -107,20 +107,28 @@ usual disclaimer... many unusual spellings were left as-is
 
 (insert list markup here)
 
-- p. ix: changed "Protestanism" to "Protestantism" (Protestantism, like the primitive Church,)
+- p. ix: changed “Protestanism” to “Protestantism” (Protestantism, like the primitive Church,)
 - p. xxxiii:
-    - changed "Sarbonne" to "Sorbonne" (Expelled from the Sorbonne,)
-    - changed "be" to "he" (for the eucharist, he insinuated)
-    - changed "Sarbonne" to "Sorbonne" (expulsion from the Sorbonne,)
-- p. xxxv: changed "Sarbonne" to "Sorbonne" (before the Sorbonne was in dependence,)
-- p. 94: changed "perfeet" to "perfect" (the most perfect harmony)
-- p. 104: changed "terrribly" to "terribly" (I am terribly afraid)
-- p. 110: changed "nnmber" to "number" (the number of our offences)
-- p. 168: changed "sylllogism" to "syllogism" (a syllogism in due form,)
-- p. 209: inserted missing opening quote mark ('if the confessor imposes) based on context as well as 1847 John Johnstone edition, 1875 & 1898 Chatto & Windus editions
-- p. 211: changed "was" to "has" (who has probed this question)
-- p. 286: changed "surmont" to "surmount" (to surmount external obstacles)
-- p. 347: changed "M. de l aLane" to "M. de la Lane" based on 1890 Houghton, Osgood And Company edition.
+    - changed “Sarbonne” to “Sorbonne” (Expelled from the Sorbonne,)
+    - changed “be” to “he” (for the eucharist, he insinuated)
+    - changed “Sarbonne” to “Sorbonne” (expulsion from the Sorbonne,)
+- p. xxxv: changed “Sarbonne” to “Sorbonne” (before the Sorbonne was in dependence,)
+- p. 94: changed “perfeet” to “perfect” (the most perfect harmony)
+- p. 103: added missing quote mark based on context and 1875 Chatto & Windus edition (written in letters of gold.”)
+- p. 104: changed “terrribly” to “terribly” (I am terribly afraid)
+- p. 110: changed “nnmber” to “number” (the number of our offences)
+- p. 146: added missing quote mark based on context and 1875 Chatto & Windus edition (gone into desuetude’)
+- p. 168: changed “sylllogism” to “syllogism” (a syllogism in due form,)
+- p. 204: added missing quote mark based on context and 1875 Chatto & Windus edition (than to live well.’)
+- p. 209: inserted missing opening quote mark (‘if the confessor imposes) based on context as well as 1847 John Johnstone edition, 1875 & 1898 Chatto & Windus editions
+- p. 211: changed “was” to “has” (who has probed this question)
+- p. 218: added missing quote mark based on context (sufficient with the sacrament.’)
+- p. 286: changed “surmont” to “surmount” (to surmount external obstacles)
+- p. 322: removed extraneous closing quote mark based on context and 1875 Chatto & Windus edition (adored in the sanctuary)
+- p. 340: removed extraneous closing quote mark based on context and 1875 Chatto & Windus edition (you may profit by my example.)
+- p. 345: removed extraneous closing quote mark based on context and 1875 Chatto & Windus edition (any more than his book?)
+- p. 347: changed “M. de l aLane” to “M. de la Lane” based on 1890 Houghton, Osgood And Company edition.
+- p. 349: added missing closing quote based on context and 1875 Chatto & Windus edition (purgare, sed facere”.)
 
 ### Smooth Reading ###
 
