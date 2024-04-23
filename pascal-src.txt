@@ -5,8 +5,8 @@
 // Project ID : 61524e807a9ac
 
 .dt The provincial letters of Blaise Pascal | Project Gutenberg
------File: 001.png---------------------------------------------------------
-
+.bn 001.png
+.pn i
 
 
 
@@ -38,8 +38,10 @@ No. 530 BROADWAY.
 
 1856.
 */
------File: 002.png---------------------------------------------------------
------File: 003.png---------------------------------------------------------
+.bn 002.png
+.pn +1
+.bn 003.png
+.pn +1
 
 
 
@@ -90,7 +92,8 @@ severe ones—Reason of this difference—Explanation of the doctrine
 of probabilism—A multitude of modern and unknown authors
 substituted in the place of the holy fathers—Escobar,          116
 */
------File: 004.png---------------------------------------------------------
+.bn 004.png
+.pn +1
 /*
 
 
@@ -146,7 +149,8 @@ LETTER XII.
 The quirks and chicaneries of the Jesuits on the subjects of alms-giving
 and simony,          243
 */
------File: 005.png---------------------------------------------------------
+.bn 005.png
+.pn +1
 /*
 
 
@@ -196,8 +200,10 @@ LETTER XIX.
 Fragment of a nineteenth Provincial Letter, addressed to Père
 Annat,           391
 */
------File: 006.png---------------------------------------------------------
------File: 007.png---------------------------------------------------------
+.bn 006.png
+.pn +1
+.bn 007.png
+.pn +1
 
 
 
@@ -249,7 +255,8 @@ of want of acquaintance with the religious controversies of the time;
 in consequence of which, the sense and spirit of the original have been
 either entirely lost, or so imperfectly developed, as to render its perusal
 exceedingly tantalizing and unsatisfactory.
------File: 008.png---------------------------------------------------------
+.bn 008.png
+.pn +1
 
 It remains for the public to judge how far the present version may
 have succeeded in giving a more readable and faithful transcript of the
@@ -281,7 +288,8 @@ hitherto uncollected, and borrowed from a variety of authorities not
 generally accessible, illustrating the history of the Letters, and the parties
 concerned in them, with a vindication of Pascal from the charges
 which this work has provoked from so many quarters against him.
------File: 009.png---------------------------------------------------------
+.bn 009.png
+.pn +1
 
 
 
@@ -320,7 +328,8 @@ Uninviting as they may now appear, the disputes about
 grace, in which the last mentioned parties were involved, gave
 occasion to the Provincial Letters. The origin of these disputes
 must be traced as far back as the days of Augustine
------File: 010.png---------------------------------------------------------
+.bn 010.png
+.pn +1
 and the Pelagian controversy of the fifth century. The motto
 of Pelagius was free-will; that of Augustine was efficacious
 grace. The former held that, notwithstanding the fall, the
@@ -361,7 +370,8 @@ thou wilt.” It would be easy to show that, in recoiling from
 the odious picture of the orthodox doctrine, drawn by his
 own fancy, he fell into the very consequences which he was
 so eager to avoid. The deity of Pelagius being subjected
------File: 011.png---------------------------------------------------------
+.bn 011.png
+.pn +1
 to the changeable will of the creature, all things were left to
 the direction of blind chance or unthinking destiny; while
 man, being represented as created with concupiscence, to
@@ -402,7 +412,8 @@ vague allegiance to it, by adhering to the views of Thomas
 Aquinas, “the angelic doctor” of the schools, from whom
 they were termed Thomists; while the Franciscans, who opposed
 them, under the auspices of Duns Scotus, from whom
------File: 012.png---------------------------------------------------------
+.bn 012.png
+.pn +1
 they were termed Scotists, leaned to the views of Pelagius.
 The Scotists, like the modern advocates of free-will, inveighed
 against their opponents as fatalists, and charged them with
@@ -441,7 +452,8 @@ these two, which he termed <i>scientia media</i>, or middle
 knowledge, he foresaw what <i>might</i> have happened under
 certain circumstances or conditions, though it never may take
 place. All men, according to Molina, are favored with a
------File: 013.png---------------------------------------------------------
+.bn 013.png
+.pn +1
 general grace, sufficient to work out their salvation, if they
 choose to improve it; but when God designs to convert a
 sinner, he vouchsafes that measure of grace which he foresees,
@@ -489,7 +501,8 @@ ever.”]
 
 But this interminable dispute was destined to assume a
 more popular form, and lead to more practical results. In
------File: 014.png---------------------------------------------------------
+.bn 014.png
+.pn +1
 1604, two young men entered, as fellow-students, the university
 of Louvain, which had been distinguished for its hostility
 to Molinism. Widely differing in natural temperament
@@ -524,7 +537,8 @@ may have made a more decided and consistent profession of
 them. The first supposition derives countenance from the
 private correspondence between him and his friend St. Cyran,
 which shows some dread of persecution;[8] the second is confirmed
------File: 015.png---------------------------------------------------------
+.bn 015.png
+.pn +1
 by his acknowledged writings. He speaks of Protestants
 as no better than Turks, and gives it as his opinion that
 “they had much more reason to congratulate themselves on
@@ -571,7 +585,8 @@ as superior to the founder of the Society in talents as he
 excelled them in enthusiasm. Ignatius owed his success to
 circumstances. While he was watching his arms as the
 knight-errant of the Virgin, in her chapel at Montserrat, or
------File: 016.png---------------------------------------------------------
+.bn 016.png
+.pn +1
 squatting within his cell in a state of body too noisome for
 human contact, and of mind verging on insanity, Luther was
 making Germany ring with the first trumpet-notes of the Reformation.
@@ -610,7 +625,8 @@ no more will of their own “than a corpse, or an old man’s
 staff.” The glory of God they identify with the aggrandizement
 of their Society; and holding that “the end sanctifies
 the means,” they scruple at no means, foul or fair, which they
------File: 017.png---------------------------------------------------------
+.bn 017.png
+.pn +1
 conceive may advance such an end.[10] The supreme power is
 vested in the general, who is not responsible to any other authority,
 civil or ecclesiastical. A system of mutual espionage,
@@ -643,7 +659,8 @@ will last as long as the Church of Rome. It has been termed
 “a militia called out to combat the Reformation,” and exhibiting,
 as it does to this day, the same features of ambition,
 treachery, and intolerance, it seems destined to fall only in
------File: 018.png---------------------------------------------------------
+.bn 018.png
+.pn +1
 the ruins of that Church of whose unchanging spirit it is the
 genuine type and representative.[11]
 
@@ -688,7 +705,8 @@ for directing the consciences of high and low, and becoming,
 through the confessional, the virtual governors of mankind.
 In all these departments they have, doubtless, produced men
 of abilities; but the very means which they employed to aggrandize
------File: 019.png---------------------------------------------------------
+.bn 019.png
+.pn +1
 the Society have tended to dwarf the intellectual
 growth of its individual members: and hence, while it is true
 that “the Jesuits had to boast of the most vigorous controversialists,
@@ -734,7 +752,8 @@ which the pruriency of the cloister suggested to the imagination,
 the casuists sank deeper into the mire at every step;
 and their productions, at length, resembled the common sewers
 of a city, which, when exposed, become more pestiferous
------File: 020.png---------------------------------------------------------
+.bn 020.png
+.pn +1
 than the filth which they were meant to remove. Even under
 the best management, such a system was radically bad;
 in the hands of the Jesuits it became unspeakably worse.
@@ -779,7 +798,8 @@ To the preparation of this work he may be said to have devoted
 his life. It occupied him twenty-two years, during
 which, we are told, he had ten times read through the works
 of Augustine (ten volumes, folio!) and thirty times collated
------File: 021.png---------------------------------------------------------
+.bn 021.png
+.pn +1
 those passages which related to Pelagianism.[16] The book itself,
 as the title imports, was little more than a digest of the
 writings of Augustine on the subject of grace.[17] It was divided
@@ -820,7 +840,8 @@ Church; but the discovery only served to incense them at
 the man who had exhibited their defection before the world.
 The approbation which the book received from forty learned
 doctors, and the rapture with which it was welcomed by the
------File: 022.png---------------------------------------------------------
+.bn 022.png
+.pn +1
 friends of the author, only added to their exasperation. The
 whole efforts of the Society were summoned to defeat its
 influence. Balked by the hand of death of their revenge on
@@ -861,7 +882,8 @@ The reader may be curious to know something more about
 these famous five propositions, condemned by the pope, which,
 in fact, may be said to have given occasion to the Provincial
 Letters. They were as follows:--
------File: 023.png---------------------------------------------------------
+.bn 023.png
+.pn +1
 
 1. There are divine precepts which good men, though willing,
 are absolutely unable to obey.
@@ -904,7 +926,8 @@ from so choosing. And with respect to redemption, they appear
 to have compromised the matter, by holding that Christ
 died for all, so as that all might be partakers of the grace of
 justification by the merits of his death; but they denied that
------File: 024.png---------------------------------------------------------
+.bn 024.png
+.pn +1
 Christ died for each man in particular, so as to secure his
 final salvation; in this sense, he died for the elect only.
 
@@ -950,7 +973,8 @@ a severity for which he had too much provocation, that Arnauld and his
 friends, in their violent tirades against the Reformed, neither acted in
 good faith, nor in consistency with the sentiments of their much admired
 leaders, Augustine and Jansen.]
------File: 025.png---------------------------------------------------------
+.bn 025.png
+.pn +1
 
 The revenge of the Jesuits did not stop at procuring the
 condemnation of Jansen’s book; it aimed at his living followers.
@@ -989,7 +1013,8 @@ and he became the nucleus of a new class of reformers.
 [Footnote 24: Lancelot, p. 123.]
 
 St. Cyran was soon called to preside over the renowned
------File: 026.png---------------------------------------------------------
+.bn 026.png
+.pn +1
 monastery of Port-Royal. Two houses went under this
 name, though forming one abbey. One of these was called
 Port-Royal des Champs, and was situated in a gloomy forest,
@@ -1027,7 +1052,8 @@ as underclothing, and dropping melted wax on the bare arms,
 may be taken as specimens of the reformation introduced by
 Mère Angelique. In these mortifying exercises the abbess
 showed an example to all the rest. She chose as her dormitory
------File: 027.png---------------------------------------------------------
+.bn 027.png
+.pn +1
 the filthiest cell in the convent, a place infested with
 toads and vermin, in which she found the highest delight,
 declaring that she “seemed transported to the grotto of
@@ -1068,7 +1094,8 @@ of a nunnery. His energetic mind planned a system
 of education, in which, along with the elements of learning,
 the youth might be imbued with early piety. Attracted by
 his fame, several learned men, some of them of rank and fortune,
------File: 028.png---------------------------------------------------------
+.bn 028.png
+.pn +1
 fled to enjoy at Port-Royal des Champs a sacred retreat
 from the world. This community, which differed from a
 monastery in not being bound by any vows, settled in a farm
@@ -1103,7 +1130,8 @@ characterized the religion of the cloister. It seems to
 have hovered between superstition and mysticism. Afraid
 to fight against the world, they fled from it; and, forgetting
 that our Saviour was driven into the wilderness to be tempted
------File: 029.png---------------------------------------------------------
+.bn 029.png
+.pn +1
 of the devil, they retired to a wilderness to avoid temptation.
 Half conscious of the hollowness of the ceremonial
 they practised, they sought to graft on its dead stock the vitalities
@@ -1141,7 +1169,8 @@ in a form calculated to disarm prejudice and to cover its native
 deformities, the task might have been achieved by the
 pious devotees of Les Granges. But the same merciful Providence
 which, for the preservation of the human species, has
------File: 030.png---------------------------------------------------------
+.bn 030.png
+.pn +1
 furnished the snake with his rattle, and taught the lion to
 “roar for his prey,” has so ordered it that the Romish
 Church should betray her real character, in order that his
@@ -1182,7 +1211,8 @@ see should wish anything to be altered, I am her obedient
 son; and to that Church in which I have always lived,
 even to this bed of death, I will prove obedient. This is my
 last will.” The same sentiment is expressed by Pascal, in one
------File: 031.png---------------------------------------------------------
+.bn 031.png
+.pn +1
 of his letters. Alas! how sad is the predicament in which
 the Church of Rome places her conscientious votaries! Both
 of these excellent men were as firmly persuaded, no doubt, of
@@ -1226,7 +1256,8 @@ the Church, which seemed to favor the Reformation by exposing
 the corruptions of the clergy.[30]
 
 [Footnote 30: Voltaire, Siècle de Louis XIV, t. ii.]
------File: 032.png---------------------------------------------------------
+.bn 032.png
+.pn +1
 
 To effect their object, St. Cyran, the leader and ornament
 of the party, required to be disposed of. He was accused
@@ -1262,7 +1293,8 @@ characters who present to the public an aspect nearly the reverse
 of the estimate formed of them by their private friends.
 By the latter he is represented as the best of men, totally
 free from pride and passion. Judging from his physiognomy,
------File: 033.png---------------------------------------------------------
+.bn 033.png
+.pn +1
 his writings and his life, we would say the natural temper of
 Arnauld was austere and indomitable. Expelled from the
 Sorbonne, driven out of France, and hunted from place to
@@ -1305,7 +1337,8 @@ Bayle commences his Life of Pascal by declaring him to be
 Seldom, at least, has the world ever seen such a
 combination of excellences in one man. In him we are called
 to admire the loftiest attributes of mind with the loveliest
------File: 034.png---------------------------------------------------------
+.bn 034.png
+.pn +1
 simplicity of moral character. He is a rare example of one
 born with a natural genius for the exact sciences, who applied
 the subtlety of his mind to religious subjects, combining
@@ -1343,7 +1376,8 @@ Church corruptions which he could not fail to deplore, and to
 renovate the spirit of that Christianity which he loved far
 above any of its organized forms. His life, not unlike a perpetual
 miracle, is ever exciting our admiration, not unmingled,
------File: 035.png---------------------------------------------------------
+.bn 035.png
+.pn +1
 however, with pity. We see great talents enlisted in the
 support, not indeed of the errors of a system, but of a system
 of errors—we see a noble mind debilitated by superstition—we
@@ -1382,7 +1416,8 @@ round and addressing Pascal, “you who are young, why
 cannot you produce something?” The appeal was not lost
 upon our author; he had hitherto written almost nothing, but
 he engaged to try a sketch or rough draft, which they might
------File: 036.png---------------------------------------------------------
+.bn 036.png
+.pn +1
 fill up; and retiring to his room, he produced, in a few hours,
 instead of a sketch, the first letter to a provincial. On reading
 this to his assembled friends, Arnauld exclaimed, “That
@@ -1415,7 +1450,8 @@ of a term which, critically speaking, was rather unhappy.
 The word <i>provincial</i> in French, when used to signify a person
 residing in the provinces, was generally understood in a
 bad sense, as denoting an unpolished clown.[33] But the title,
------File: 037.png---------------------------------------------------------
+.bn 037.png
+.pn +1
 uncouth as it is, has been canonized and made classical forever;
 and “The Provincials” is a phrase which it would now
 be fully as ridiculous to attempt to change as it could be at
@@ -1464,7 +1500,8 @@ In short, everybody read the “Little Letters,” and, whatever
 might be their opinions of the points in dispute, all
 agreed in admiring the genius which they displayed. They
 were found lying on the merchant’s counter, the lawyer’s
------File: 038.png---------------------------------------------------------
+.bn 038.png
+.pn +1
 desk, the doctor’s table, the lady’s toilet; and everywhere
 they were sought for and perused with the same avidity.[35]
 The success of the Letters in gaining their object was not
@@ -1508,7 +1545,8 @@ At other times they indulged in puerile lamentations. It
 was amusing to hear these stalwart divines, after breathing
 fire and slaughter against their enemies, assume the querulous
 tones of injured and oppressed innocence. “The persecution
------File: 039.png---------------------------------------------------------
+.bn 039.png
+.pn +1
 which the Jesuits suffer from the buffooneries of Port-Royal,”
 they said, “is perfectly intolerable: the wheel and
 the gibbet are nothing to it; it can only be compared to the
@@ -1548,7 +1586,8 @@ be altogether useless, as Pascal would just reply that he
 could not hinder people from suspecting him, and that
 though he should deny it they would not believe him. The
 monks took their departure, much to the relief of Perrier, for
------File: 040.png---------------------------------------------------------
+.bn 040.png
+.pn +1
 at that very time several sheets of the seventh or eighth letter,
 newly come from the printer, were lying on the bed,
 where they had been placed for the purpose of drying, but,
@@ -1593,7 +1632,8 @@ vindicating his consistency as a Roman Catholic. To the Protestant
 reader, it must appear the most unsatisfactory of all the Letters.]
 
 [Footnote 42: Prov. Let., p. 340.]
------File: 041.png---------------------------------------------------------
+.bn 041.png
+.pn +1
 
 The fruits of this extraordinary elaboration appear in every
 letter; but what is equally remarkable, is the art with which
@@ -1633,7 +1673,8 @@ a similar judgment: “There is more wit in these eighteen
 letters than in Plato’s Dialogues; more delicate and artful
 raillery than in those of Lucian; and more strength and ingenuity
 of reasoning than in the orations of Cicero. We
------File: 042.png---------------------------------------------------------
+.bn 042.png
+.pn +1
 have nothing more beautiful in this species of writing.”[43]
 “Pascal’s style,” says the Abbé d’Artigny, “has never been
 surpassed, nor perhaps equalled.”[44] The high encomium of
@@ -1678,7 +1719,8 @@ the envenomed sarcasm of Junius. It is wit—the lively, polite,
 piquant wit of the early French school. Nothing can be
 finer than its spirit; but from its very fineness it is apt to evaporate
 in the act of transfusion into another tongue. Nothing
------File: 043.png---------------------------------------------------------
+.bn 043.png
+.pn +1
 can be more ingenious than the transitions by which the author
 glides insensibly from one topic to another; and in the more
 serious letters, we cannot fail to be struck with the mathematical
@@ -1711,7 +1753,8 @@ were in the course of publication; but these were taken up
 by the redoubtable Montalte, and fairly strangled at their
 birth.[49] Shortly after the Letters were finished, there appeared
 “An Apology for the Casuists,” the production of a
------File: 044.png---------------------------------------------------------
+.bn 044.png
+.pn +1
 Jesuit named Pirot, who, with a folly and frankness which
 proved nearly as fatal to his order as it did to himself,
 attempted to vindicate the worst maxims of the casuistical
@@ -1759,7 +1802,8 @@ in 1661, shortly before his death, strikingly illustrative
 of his conscientiousness, and of the sincerity of purpose with
 which the Letters were written. The persecution had begun
 to rage against Port-Royal; one <i>mandement</i> after another,
------File: 045.png---------------------------------------------------------
+.bn 045.png
+.pn +1
 requiring subscription to the condemnation of Jansen, came
 down from the court of Rome; and the poor nuns, shrinking,
 on the one hand, from violating their consciences by subscribing
@@ -1802,7 +1846,8 @@ should yield.” (Ib., p. 322.) The nuns having stood firm, the probability
 is that they were destroyed. Had they been preserved, they might
 have thrown some further light on the opinions of Pascal regarding
 papal authority.]
------File: 046.png---------------------------------------------------------
+.bn 046.png
+.pn +1
 
 But we are fortunately furnished with his own reflections
 on the subject of the Provincials, in his celebrated “Thoughts
@@ -1840,7 +1885,8 @@ offender,[53] and afterwards to force him into a false account of
 his penitent’s confession. It was confidently reported, on the
 pretended authority of the confessor, that Pascal had expressed
 his sorrow for having written the Provincials, and
------File: 047.png---------------------------------------------------------
+.bn 047.png
+.pn +1
 that he had condemned his friends of Port-Royal for want
 of due respect to papal authority. Both these allegations
 were afterwards distinctly refuted—the first by the written
@@ -1877,7 +1923,8 @@ de Joncourt, a lady, it is said, “possessed of talents and
 piety, who, to the graces peculiar to her own sex, added the
 accomplishments which are the ornament of ours.”[57] Besides
 this, the Provincials have been translated into nearly all
------File: 048.png---------------------------------------------------------
+.bn 048.png
+.pn +1
 the languages of Europe. Bayle informs us that he had seen
 an edition of them in 8vo, with four columns, containing the
 French, Latin, Italian, and Spanish.[58] The Spanish translation,
@@ -1932,7 +1979,8 @@ in turn, while his book is “a repertory of slander,”
 and is “villainous in a supreme degree!”
 
 The whole strain of Daniel’s reply corresponds with this
------File: 049.png---------------------------------------------------------
+.bn 049.png
+.pn +1
 specimen of its spirit. Avoiding the error of Pirot, and yet
 without renouncing the favorite dogmas of the Society, such
 as probabilism, equivocations, and mental reservations, which
@@ -1970,7 +2018,8 @@ it altogether, as likely to do more harm than good to
 the Society; and in their references to it afterwards, we see
 the disappointment which they felt. “There was lately published,”
 says Richelet, “an answer to the Lettres Provinciales,
------File: 050.png---------------------------------------------------------
+.bn 050.png
+.pn +1
 which professes to demolish them, but which, nevertheless,
 will not do them much harm. Do you ask how?
 The reason is, that although this answer shows the horrid
@@ -2012,7 +2061,8 @@ Daniel’s work sank out of sight.
 [Footnote 62: Barbier, Dict. des Ouvrages Anon. et Pseudon.]
 
 Subsequent apologists of the Jesuits have followed the
------File: 051.png---------------------------------------------------------
+.bn 051.png
+.pn +1
 line of defence adopted by Father Daniel. The continued
 repetition of his charges, though they have been long since
 disposed of, renders it necessary to advert to them. For the
@@ -2054,7 +2104,8 @@ books which I quoted? I answered, No. To do this, I had
 need have passed the greater part of my life in reading very
 bad books. But I have twice read Escobar throughout; and
 for the others, I got several of my friends to read them; but
------File: 052.png---------------------------------------------------------
+.bn 052.png
+.pn +1
 <i>I have never used a single passage without having read it myself
 in the book quoted</i>, without having examined the case in
 which it is brought forward, and without having read the
@@ -2097,7 +2148,8 @@ the good fortune to number among their apologists, are the
 sceptical philosophers, whose native antipathy to Jansenism,
 as a phase of serious religion, renders them willing to sacrifice
 truth for the sake of a sneer at his disciples. D’Alembert
------File: 053.png---------------------------------------------------------
+.bn 053.png
+.pn +1
 expresses his regret that Pascal did not lampoon Jesuits and
 Jansenists alike;[65] and Voltaire, in the mere wantonness of
 his cynical humor, if not from a more worthless motive, has
@@ -2130,7 +2182,8 @@ design to corrupt the morals of mankind,” we are not surprised
 at Father Daniel saying so; but it is unaccountable
 how any but a Jesuit, who professed to have read the Letters,
 could advance a theory so distinctly anticipated and disclaimed
------File: 054.png---------------------------------------------------------
+.bn 054.png
+.pn +1
 in the Letters themselves. “Know, then,” it is said
 in letter fifth, “that their object is not the corruption of
 manners—that is <i>not their design</i>. But as little is it their
@@ -2180,7 +2233,8 @@ perfectly groundless in practice. The strict, unbending maxims
 of the Jansenists, by urging persons of all characters and
 tempers on to an imaginary goal of perfection, bring quickly
 their whole system to the decision of experience. A greater
------File: 055.png---------------------------------------------------------
+.bn 055.png
+.pn +1
 knowledge of mankind made the Jesuits more cautious in the
 culture of devotional feelings. They well knew that but few
 can prudently engage in open hostility with what, in ascetic
@@ -2221,7 +2275,8 @@ have exerted all their powers to white-wash them, to paint
 and paper them, and set them off with ornamental designs;
 and where they have not dared to defend, they have tried to
 blunt the edge of censure against them. Following in the
------File: 056.png---------------------------------------------------------
+.bn 056.png
+.pn +1
 same line of defence, a certain class of Protestant writers,
 fond of historical paradox, and of appearing superior to vulgar
 prejudices, have volunteered to protect the Jesuits. “No
@@ -2260,7 +2315,8 @@ been disclaimed by all the other orders of the Church, the
 Jesuits pertinaciously adhered to it; and that, even to this
 day, they have identified themselves with the worst tenets
 of the casuists. But Protestants writers have generally alleged,
------File: 057.png---------------------------------------------------------
+.bn 057.png
+.pn +1
 not without reason, that the corruptions of casuistical
 divinity may be traced from the days of Thomas Aquinas
 and Cajetan, whom the Church of Rome owns as authorities;
@@ -2294,7 +2350,8 @@ and one on which the thorough-going Jesuit occupies,
 on popish principles, the most advantageous ground. The
 disciples of Loyola constitute the very soul of the Papacy;
 and they must be held as the genuine exponents of that atrocious
------File: 058.png---------------------------------------------------------
+.bn 058.png
+.pn +1
 system of morals which, engendered in the privacy of
 the cloister during the dark ages, reached its maturity in the
 hands of a designing priesthood, who still find it too convenient
@@ -2345,7 +2402,8 @@ those who have sought reformation or aimed at superior
 sanctity within the pale of an established Church, than as
 applied to the party now known under that designation.
 They disclaimed the title of Jansenists, as a nickname applied
------File: 059.png---------------------------------------------------------
+.bn 059.png
+.pn +1
 to them by their adversaries. They held themselves to be
 the true Catholics, the representatives of the Church as it
 existed down, at least, to the days of St. Bernard, whom
@@ -2383,7 +2441,8 @@ dragon-foot upon their necks, and their wisdom and their
 virtues were lost forever to France.”[77]
 
 [Footnote 77: Taylor, Natural Hist. of Enthusiasm, p. 256.]
------File: 060.png---------------------------------------------------------
+.bn 060.png
+.pn +1
 
 It is the policy of the Jesuits at present, as of old, to deny,
 point-blank, the truthfulness of Pascal’s statements of their
@@ -2426,7 +2485,8 @@ countries where they have settled, describes a regular cycle
 of changes. Commencing with loud professions of charity,
 of liberal views in politics, and of an accommodating code of
 morals, they succeed in gaining popularity among the non-religious,
------File: 061.png---------------------------------------------------------
+.bn 061.png
+.pn +1
 the dissipated, and the restless portion of society.
 Availing themselves of this, and carefully concealing, in a
 Protestant country, the more obnoxious parts of their creed,
@@ -2464,7 +2524,8 @@ Catholic, and take advantage of the prestige of his name to
 insinuate, that the Church which could boast of such a man
 is not to be lightly esteemed. And, in fact, it requires no
 small exercise of caution to guard ourselves against such an
------File: 062.png---------------------------------------------------------
+.bn 062.png
+.pn +1
 illusion. It is difficult to characterize Popery as it deserves
 without apparent uncharitableness to individuals, such as
 Fenelon and Pascal, who, though members of a corrupt
@@ -2493,7 +2554,8 @@ Bible which Pascal loved, and the martyrs who have suffered
 for “the truth as it is in Jesus.”
 
 [Footnote 80: Douglas on Errors in Religion, p. 113.]
------File: 063.png---------------------------------------------------------
+.bn 063.png
+.pn 63
 
 
 
@@ -2536,7 +2598,8 @@ one a question of fact, the other a question of right.
 The question of fact consisted in ascertaining whether M.
 Arnauld was guilty of presumption, for having asserted in
 his second letter[81] that he had carefully perused the book of
------File: 064.png---------------------------------------------------------
+.bn 064.png
+.pn +1
 Jansenius, and that he had not discovered the propositions
 condemned by the late pope; but that, nevertheless, as he
 condemned these propositions wherever they might occur, he
@@ -2588,7 +2651,8 @@ They then earnestly begged that, if any doctor present had
 discovered them, he would have the goodness to point them
 out; adding, that what was so easy could not reasonably be
 refused, as this would be the surest way to silence the whole
------File: 065.png---------------------------------------------------------
+.bn 065.png
+.pn +1
 of them, M. Arnauld included; but this proposal has been
 uniformly declined. So much for the one side.
 
@@ -2639,7 +2703,8 @@ good conscience they would not subscribe a formulary acknowledging
 the five propositions to be contained in his book.—(See Narrative of
 the Demolition of the Monastery of Port-Royal, by Mary Anne Schimmelpenninck
 p. 170, &c.)]
------File: 066.png---------------------------------------------------------
+.bn 066.png
+.pn +1
 
 The question of right, from its affecting the faith, appears
 much more important, and, accordingly, I took particular
@@ -2675,7 +2740,8 @@ I apologized for having misapprehended his sentiment, and
 requested him to say if they would not at least condemn that
 other opinion of the Jansenists which is making so much
 noise, “That grace is efficacious of itself, and invincibly determines
------File: 067.png---------------------------------------------------------
+.bn 067.png
+.pn +1
 our will to what is good.” But in this second query
 I was equally unfortunate. “You know nothing about the
 matter,” he said; “that is not a heresy—it is an orthodox
@@ -2720,7 +2786,8 @@ Calvinists impugn it?”
 
 “Indeed!” said I, surprised in my turn; “so you are not
 of their opinion?”
------File: 068.png---------------------------------------------------------
+.bn 068.png
+.pn +1
 
 “No,” he replied; “we anathematize it as heretical and
 impious.”[86]
@@ -2767,7 +2834,8 @@ comprehension. Content yourself, then, with knowing that
 it is very true the Jansenists will tell you that all the righteous
 have always the power of obeying the commandments;
 that is not the point in dispute between us; but mark you,
------File: 069.png---------------------------------------------------------
+.bn 069.png
+.pn +1
 they will not tell you that that power is <i>proximate</i>. That
 is the point.”
 
@@ -2808,7 +2876,8 @@ This reply filled me with amazement; but without imbibing
 these impressions of the malicious designs of the Molinists,
 which I am unwilling to believe on his word, and with
 which I have no concern, I set myself simply to ascertain the
------File: 070.png---------------------------------------------------------
+.bn 070.png
+.pn +1
 various senses which they give to that mysterious word <i>proximate</i>.
 “I would enlighten you on the subject with all my
 heart,” he said; “but you would discover in it such a mass
@@ -2861,7 +2930,8 @@ doctrine is admirably exposed by Pascal in his second letter.]
 I knew some of them also whom he named; and, resolved
 to profit by this counsel, and to investigate the matter, I
 took my leave of him, and went immediately to one of the
------File: 071.png---------------------------------------------------------
+.bn 071.png
+.pn +1
 disciples of M. le Moine. I begged him to inform me what
 it was to have the <i>proximate power</i> of doing a thing.
 
@@ -2917,7 +2987,8 @@ in various parts of the world, by preaching up crusades against the
 heretics. He was the founder of the Inquisition, and his order was, before
 the Reformation, what the Jesuits were after it—the soul of the
 Romish hierarchy, and the bitterest enemies of the truth.]
------File: 072.png---------------------------------------------------------
+.bn 072.png
+.pn +1
 an interview with some whom I knew to be New Thomists,
 and I begged them to tell me what “proximate power”
 was. “Is it not,” said I, “that power to which nothing is
@@ -2960,7 +3031,8 @@ power to pray, they require nevertheless an efficacious grace;
 and this is what you approve. M. le Moine, again, maintains
 that the righteous may pray without efficacious grace; and
 this is what you condemn.”
------File: 073.png---------------------------------------------------------
+.bn 073.png
+.pn +1
 
 “Ay,” said they; “but M. le Moine calls that power
 <i>proximate power</i>.”
@@ -3010,7 +3082,8 @@ I did not appeal to them as judges, for they had already
 nodded assent; but I said to them: “He refuses to admit
 that word <i>proximate</i>, because he can meet with nobody who
 will explain it to him.”
------File: 074.png---------------------------------------------------------
+.bn 074.png
+.pn +1
 
 Upon this one of the fathers was on the point of offering
 his definition of the term, when he was interrupted by M. le
@@ -3052,7 +3125,8 @@ they. “Is it a word of the Fathers, the Councils, or the
 Popes?” “No.” “Is the word, then, used by St. Thomas?”
 “No.” “What necessity, therefore, is there for using it,
 since it has neither the authority of others nor any sense of
------File: 075.png---------------------------------------------------------
+.bn 075.png
+.pn +1
 itself?” “You are an opinionative fellow,” said they; “but
 you shall say it, or you shall be a heretic, and M. Arnauld
 into the bargain; for we are the majority, and should it be
@@ -3098,7 +3172,8 @@ word <i>proximate</i> or not, just as you please; for I love you
 too much to persecute you under that pretext. If this account
 is not displeasing to you, I shall continue to apprize
 you of all that happens.—I am, &c.
------File: 076.png---------------------------------------------------------
+.bn 076.png
+.pn +1
 
 
 
@@ -3143,7 +3218,8 @@ for action; for they hold that a man can never act without
 <i>efficacious grace</i>.
 
 Such are the points in debate between the Jesuits and the
------File: 077.png---------------------------------------------------------
+.bn 077.png
+.pn +1
 Jansenists; and my next object was to ascertain the doctrine
 of the New Thomists.[97] “It is rather an odd one,” he
 said; “they agree with the Jesuits in admitting a <i>sufficient
@@ -3184,7 +3260,8 @@ far as to admit the name of <i>sufficient grace</i>, though they
 understand it in another sense; by which manœuvre they
 gain this advantage, that they will make their opinion appear
 untenable, as soon as they judge it proper to do so. And
------File: 078.png---------------------------------------------------------
+.bn 078.png
+.pn +1
 this will be no difficult matter; for, let it be once granted
 that all men have the sufficient graces, nothing can be more
 natural than to conclude, that the efficacious grace is not necessary
@@ -3225,7 +3302,8 @@ This clause, which appears in the last Paris edition, is wanting in the
 ordinary editions. The following sentence seems to require it.]
 
 I acknowledged that they were a shrewd class of people,
------File: 079.png---------------------------------------------------------
+.bn 079.png
+.pn +1
 these Jesuits; and, availing myself of his advice, I went
 straight to the Jacobins, at whose gate I found one of my
 good friends, a staunch Jansenist (for you must know I have
@@ -3257,7 +3335,8 @@ effect without <i>efficacious grace</i>?” “None whatever,” he replied.
 “And all men have the sufficient,” continued I, “and
 all have not the efficacious?” “Exactly,” said he. “That
 is,” returned I, “all have enough of grace, and all have not
------File: 080.png---------------------------------------------------------
+.bn 080.png
+.pn +1
 enough of it—that is, this grace suffices, though it does not
 suffice—that is, it is sufficient in name, and insufficient in
 effect! In good sooth, father, this is particularly subtle
@@ -3304,7 +3383,8 @@ I do, thus reduced to the inevitable necessity of being a
 blockhead, a heretic, or a Jansenist? And what a sad pass
 are matters come to, if there are none but the Jansenists who
 avoid coming into collision either with the faith or with reason,
------File: 081.png---------------------------------------------------------
+.bn 081.png
+.pn +1
 and who save themselves at once from absurdity and
 from error!”
 
@@ -3345,7 +3425,8 @@ understand the word <i>sufficient</i> to express all that
 is necessary. Scarcely any one is aware of this singular exception.
 It is reported over the whole earth, simply that
 the Dominicans hold that all men have the <i>sufficient graces</i>.
------File: 082.png---------------------------------------------------------
+.bn 082.png
+.pn +1
 What other conclusion can be drawn from this, than that they
 hold that all men have all the graces necessary for action;
 especially when they are seen joined in interest and intrigue
@@ -3385,7 +3466,8 @@ his ruin. In this dilemma, the poor patient, observing the
 third medical gentleman at a distance, stretches out his hands
 to him as the person who should determine the controversy.
 This practitioner, on examining his wounds, and ascertaining
------File: 083.png---------------------------------------------------------
+.bn 083.png
+.pn +1
 the opinions of the first two doctors, embraces that of the
 second, and uniting with him, the two combine against the
 first, and being the stronger party in number, drive him from
@@ -3425,7 +3507,8 @@ strength of which he confessed his need, obtained the mercy he
 sought, and, through divine help, reached his house in peace.”
 
 The worthy monk was so confounded with this parable that
------File: 084.png---------------------------------------------------------
+.bn 084.png
+.pn +1
 he could not find words to reply. To cheer him up a little,
 I said to him, in a mild tone: “But, after all, my dear father,
 what made you think of giving the name of <i>sufficient</i> to a
@@ -3462,7 +3545,8 @@ part, found ourselves in the predicament of being denounced
 as Calvinists, and treated as the Jansenists are at present, unless
 we qualified the efficacious grace with, at least, the apparent
 avowal of a <i>sufficient</i>.[100] In this extremity, what better
------File: 085.png---------------------------------------------------------
+.bn 085.png
+.pn +1
 course could we have taken for saving the truth, without
 losing our own credit, than by admitting the name of sufficient
 grace, while we denied that it was such in effect? Such
@@ -3510,7 +3594,8 @@ of your creed will become an article of faith.”
 “We will all suffer martyrdom first,” cried the father,
 “rather than consent to the establishment of <i>sufficient grace
 in the sense of the Jesuits</i>. St. Thomas, whom we have
------File: 086.png---------------------------------------------------------
+.bn 086.png
+.pn +1
 sworn to follow even to the death, is diametrically opposed
 to such doctrine.”[101]
 
@@ -3546,7 +3631,8 @@ will serve God for God’s sake. Grace may not, indeed, number
 the Dominicans among her champions, but champions she
 shall never want; for, by her own almighty energy, she creates
 them for herself. She demands hearts pure and disengaged;
------File: 087.png---------------------------------------------------------
+.bn 087.png
+.pn +1
 nay, she herself purifies and disengages them from
 worldly interests, incompatible with the truths of the Gospel.
 Reflect seriously on this, father; and take care that God does
@@ -3600,7 +3686,8 @@ next post.—I am, &c.
 
 [Footnote 107: The censure of the Theological Faculty of the Sorbonne passed
 against M. Arnauld, and which is fully discussed in Letter iii.]
------File: 088.png---------------------------------------------------------
+.bn 088.png
+.pn +1
 
 
 REPLY OF THE “PROVINCIAL” TO THE FIRST
@@ -3645,7 +3732,8 @@ letters: “You can have no idea how much I am obliged to
 you for the letter you sent me—it is so very ingenious, and
 so nicely written. It narrates, and yet it is not a narrative;
 it clears up the most intricate and involved of all possible
------File: 089.png---------------------------------------------------------
+.bn 089.png
+.pn +1
 matters; its raillery is exquisite; it enlightens those who
 know little about the subject, and imparts double delight to
 those who understand it. It is an admirable apology; and,
@@ -3668,7 +3756,8 @@ and M. le Moine, in how many different ways they may be
 turned, and how little solidity there is in these new-fangled
 terms, to give ourselves any trouble about them.—Meanwhile,
 I remain, &c.
------File: 090.png---------------------------------------------------------
+.bn 090.png
+.pn +1
 
 
 
@@ -3711,7 +3800,8 @@ a long time past, we have been taught to form of the Jansenists.
 Recall to mind the cabals, the factions, the errors,
 the schisms, the outrages, with which they have been so long
 charged; the manner in which they have been denounced
------File: 091.png---------------------------------------------------------
+.bn 091.png
+.pn +1
 and vilified from the pulpit and the press; and the degree
 to which this torrent of abuse, so remarkable for its violence
 and duration, has swollen of late years, when they have been
@@ -3759,7 +3849,8 @@ fathers being unquestionably catholic, the proposition of M.
 Arnauld, if heretical, must be widely opposed[112] to them.
 
 [Footnote 112: <i>Horriblement contraire</i>—“horribly contrary.” (Edit. 1657.)]
------File: 092.png---------------------------------------------------------
+.bn 092.png
+.pn +1
 
 Such was the difficulty which the Sorbonne was expected
 to clear up. All Christendom waited, with wide-opened
@@ -3800,7 +3891,8 @@ who had said that “St. Peter was a righteous man,” says
 “that he had not had grace on that occasion.” Is it, then,
 for his having said, “that without grace we can do nothing?”
 Why, is not this just what St. Augustine says in the same
------File: 093.png---------------------------------------------------------
+.bn 093.png
+.pn +1
 place, and what St. Chrysostom had said before him, with
 this difference only, that he expresses it in much stronger
 language, as when he says “that his fall did not happen
@@ -3843,7 +3935,8 @@ of the orthodoxy of this illustrious accused?
 
 “How comes it to pass,” they add, “that so many denunciations
 are launched in this censure, into which they have
------File: 094.png---------------------------------------------------------
+.bn 094.png
+.pn +1
 crowded such terms as ‘poison, pestilence, horror, rashness,
 impiety, blasphemy, abomination, execration, anathema, heresy’—the
 most dreadful epithets that could be used against
@@ -3882,7 +3975,8 @@ with the doctors of the Sorbonne, place myself in opposition
 to the doctors of the Church. Under this apprehension, I
 judged it expedient to consult one of those who, through
 policy, was neutral on the first question, that from him I
------File: 095.png---------------------------------------------------------
+.bn 095.png
+.pn +1
 might learn the real state of the matter. I have accordingly
 had an interview with one of the most intelligent of that
 party, whom I requested to point out to me the difference
@@ -3922,7 +4016,8 @@ of the fathers without being incontinently overwhelmed with
 whole volumes, under the pressure of which they are forced
 to succumb? So that, after a great many proofs of their
 weakness, they have judged it more to the purpose, and
------File: 096.png---------------------------------------------------------
+.bn 096.png
+.pn +1
 much less troublesome, to censure than to reply—it being a
 much easier matter with them to find monks than reasons.”[114]
 
@@ -3981,7 +4076,8 @@ called forth a retaliation, in the shape of a poem, entitled “The
 Prints of the Famous Jesuitical Almanac,” in which the Jesuits were
 so successfully held up to ridicule, that they could hardly show face for
 some time in the streets of Paris. (Nicole, i. p. 208.)]
------File: 097.png---------------------------------------------------------
+.bn 097.png
+.pn +1
 
 “In good sooth,” said I, “I was on the point of finding
 fault with the conduct of the Molinists; but after what you
@@ -4016,7 +4112,8 @@ of having none to give.
 [Footnote 117: See Letter ii.]
 
 [Footnote 118: <i>Ces docteurs</i>—“those doctors.” (Edit. 1767.)]
------File: 098.png---------------------------------------------------------
+.bn 098.png
+.pn +1
 
 “It is not that they were so blind as not to see that this
 encroachment on liberty, which has induced so many doctors
@@ -4056,7 +4153,8 @@ reply: ‘This proposition would be orthodox in the
 mouth of any other—it is only as coming from M. Arnauld
 that the Sorbonne have condemned it!’ You must now be
 prepared to admire the machinery of Molinism, which can
------File: 099.png---------------------------------------------------------
+.bn 099.png
+.pn +1
 produce such prodigious overturnings in the Church—that
 what is catholic in the fathers becomes heretical in M. Arnauld—that
 what is heretical in the Semi-Pelagians becomes
@@ -4095,7 +4193,8 @@ held, it was said, at Bourg Fontaine, in 1621, to deliberate on ways and
 means for abolishing Christianity; among the persons present at which,
 indicated by initials, Anthony Arnauld was ridiculously accused of having
 been one under the initials A. A. (See Bayle’s Dict., art. <i>Ant. Arnauld</i>.)]
------File: 100.png---------------------------------------------------------
+.bn 100.png
+.pn +1
 
 
 
@@ -4138,7 +4237,8 @@ may be, can never be imputed to him. The Jansenists, on
 the other hand, affirm that sins, though committed without
 actual grace, are, nevertheless, imputed; but they are a pack
 of fools.” I got a glimpse of his meaning; but, to obtain
------File: 101.png---------------------------------------------------------
+.bn 101.png
+.pn +1
 from him a fuller explanation, I observed: “My dear father,
 it is that phrase <i>actual grace</i> that puzzles me; I am quite a
 stranger to it, and if you would have the goodness to tell me
@@ -4181,7 +4281,8 @@ about these authors, if they are contrary to tradition,” I said.
 As he spoke, the good father entered the room, laden with
 books; and presenting to me the first that came to hand,
 “Read that,” he said; “this is ‘The Summary of Sins,’ by
------File: 102.png---------------------------------------------------------
+.bn 102.png
+.pn +1
 Father Bauny[120]—the fifth edition too, you see, which shows
 that it is a good book.”
 
@@ -4222,7 +4323,8 @@ may be said to behold a redemption of an entirely new description.”
 
 “Would you have a more authentic witness on the point?”
 added he. “Here is the book of Father Annat.[121] It is the
------File: 103.png---------------------------------------------------------
+.bn 103.png
+.pn +1
 last that he wrote against M. Arnauld. Turn up to page
 34, where there is a dog’s ear, and read the lines which I
 have marked with pencil—they ought to be written in letters
@@ -4264,7 +4366,8 @@ people, beyond all comparison, justified by this ignorance and
 forgetfulness of God, than by grace and the sacraments![122]
 But, my dear father, are you not inspiring me with a delusive
 joy? Are you sure there is nothing here like that <i>sufficiency</i>
------File: 104.png---------------------------------------------------------
+.bn 104.png
+.pn +1
 <i>which suffices not</i>? I am terribly afraid of the <i>Distinguo</i>;—I
 was taken in with that once already! Are you
 quite in earnest?”
@@ -4325,7 +4428,8 @@ for this? Here they are.”
 friend.
 
 “So I perceive,” said I to him aside; and then, turning to
------File: 105.png---------------------------------------------------------
+.bn 105.png
+.pn +1
 the monk: “O my dear sir,” cried I, “what a blessing this
 will be to some persons of my acquaintance! I must positively
 introduce them to you. You have never, perhaps, met
@@ -4364,7 +4468,8 @@ of their devotion to his service!”
 The good father, who saw very well the connection between
 these consequences and his principle, dexterously
 evaded them; and maintaining his temper, either from good
------File: 106.png---------------------------------------------------------
+.bn 106.png
+.pn +1
 nature or policy, he merely replied: “To let you understand
 how we avoid these inconveniences, you must know that,
 while we affirm that these reprobates to whom you refer
@@ -4394,7 +4499,8 @@ sinning. And who ought to know better about these things
 than yourself? You cannot have failed to have confessed
 some of those to whom I allude; for it is among persons of
 high rank that they are most generally to be met with.[125]
------File: 107.png---------------------------------------------------------
+.bn 107.png
+.pn +1
 But mark, father, the dangerous consequences of your maxim.
 Do you not perceive what effect it may have on those libertines
 who like nothing better than to find out matter of
@@ -4446,7 +4552,8 @@ is not God that bestows virtue, and that no one ever asked
 it from him,’ would think of asking it for themselves? Who
 can believe that the Epicureans, who denied a divine providence,
 ever felt any inclination to pray to God?—men who
------File: 108.png---------------------------------------------------------
+.bn 108.png
+.pn +1
 said that ‘it would be an insult to invoke the Deity in our
 necessities, as if he were capable of wasting a thought on
 beings like us?’ In a word, how can it be imagined that
@@ -4487,7 +4594,8 @@ that those who crucified Jesus Christ had need of the pardon
 which he asked for them, although they knew not the malice
 of their action, and would never have committed it, according
 to St. Paul, if they had known it? Is it not enough that
------File: 109.png---------------------------------------------------------
+.bn 109.png
+.pn +1
 Jesus Christ apprizes us that there will be persecutors of the
 Church, who, while making every effort to ruin her, will
 ‘think that they are doing God service;’ teaching us that
@@ -4527,7 +4635,8 @@ snares for them; and how generally it happens, as St.
 Augustine complains of himself in his Confessions, that, with
 all their discretion, they ‘give to pleasure what they mean
 only to give to necessity?’
------File: 110.png---------------------------------------------------------
+.bn 110.png
+.pn +1
 
 “How usual is it to see the more zealous friends of truth
 betrayed by the heat of controversy into sallies of bitter passion
@@ -4574,7 +4683,8 @@ not always conscious of those sins which, as the Scripture
 teaches, they are daily committing.
 
 “So true is it, indeed, that the righteous often sin through
------File: 111.png---------------------------------------------------------
+.bn 111.png
+.pn +1
 ignorance, that the greatest saints rarely sin otherwise. For
 how can it be supposed that souls so pure, who avoid with
 so much care and zeal the least things that can be displeasing
@@ -4617,7 +4727,8 @@ cannot be imputed as blameworthy, if it be involuntary</i>.’”
 “That would be doing nothing,” he replied; “we must
 know what are the conditions necessary to constitute an action
 voluntary.”
------File: 112.png---------------------------------------------------------
+.bn 112.png
+.pn +1
 
 “I am much afraid,” returned I, “that you will get at
 loggerheads on that point.”
@@ -4659,7 +4770,8 @@ held such a sentiment? I have always understood that he
 was a sensible man.”
 
 “I shall soon convince you of that,” said the Jansenist;
------File: 113.png---------------------------------------------------------
+.bn 113.png
+.pn +1
 and requesting a sight of Aristotle’s Ethics, he opened it at
 the beginning of the third book, from which Father Bauny
 had taken the passage quoted, and said to the monk: “I excuse
@@ -4697,7 +4809,8 @@ of the rules of his duty; such ignorance is worthy of blame,
 not of excuse. And consequently, the ignorance which renders
 actions involuntary and excusable is simply that which
 relates to the fact and its particular circumstances. In this
------File: 114.png---------------------------------------------------------
+.bn 114.png
+.pn +1
 case the person is excused and forgiven, being considered as
 having acted contrary to his inclination.’
 
@@ -4738,13 +4851,15 @@ which this doctrine threatened to the whole system
 of morals. To this he replied that he was quite astonished
 at my astonishment. “Are you not yet aware,” he
 said, “that they have gone to far greater excess in morals
------File: 115.png---------------------------------------------------------
+.bn 115.png
+.pn +1
 than in any other matter?” He gave me some strange
 illustrations of this, promising me more at some future
 time. The information which I may receive on this point,
 will, I hope, furnish the topic of my next communication.—I
 am, &c.
------File: 116.png---------------------------------------------------------
+.bn 116.png
+.pn +1
 
 
 
@@ -4781,7 +4896,8 @@ ready angels.’”[129] The prediction is as clear as day, is it not?
 (a late author having demonstrated that there are a
 great many of these birds); they have changed the face of
 Christendom!” Of course, we must believe all this, since
------File: 117.png---------------------------------------------------------
+.bn 117.png
+.pn +1
 they have said it; and in one sense you will find the account
 amply verified by the sequel of this communication, in which
 I propose to treat of their maxims.
@@ -4837,7 +4953,8 @@ the case, they would not have suffered persons among them
 holding sentiments so diametrically opposed to that severity.”
 
 “And what, then,” I asked, “can be the design of the
------File: 118.png---------------------------------------------------------
+.bn 118.png
+.pn +1
 whole as a body? Perhaps they have no fixed principle,
 and every one is left to speak out at random whatever he
 thinks.”
@@ -4885,7 +5002,8 @@ abated it in the confessional chair: a new stroke of policy well understood
 on the part of the Jesuits, inasmuch as speculative severity suits
 persons of rigid morals, and practical condescension attracts the multitude.”
 (D’Alembert, Account of Dest. of Jesuits, p. 44.)]
------File: 119.png---------------------------------------------------------
+.bn 119.png
+.pn +1
 
 “It is in virtue of this ‘obliging and accommodating’ conduct,
 as Father Petau[132] calls it, that they may be said to
@@ -4924,7 +5042,8 @@ Indies and in China, where they permitted Christians to practise
 idolatry itself, with the aid of the following ingenious
 contrivance:—they made their converts conceal under their
 clothes an image of Jesus Christ, to which they taught them
------File: 120.png---------------------------------------------------------
+.bn 120.png
+.pn +1
 to transfer mentally those adorations which they rendered
 ostensibly to the idol Cachinchoam and Keum-fucum. This
 charge is brought against them by Gravina, a Dominican,
@@ -4974,7 +5093,8 @@ of the Council of Trent, which declared of images <i>Eisque venerationem
 impertiendam</i>; or with Bellarmine who devotes a chapter expressly
 to prove that true and proper worship is to be given to images.
 (Stillingfleet on Popery, by Dr. Cunningham, p. 77.)]
------File: 121.png---------------------------------------------------------
+.bn 121.png
+.pn +1
 
 “Such is the manner in which they have spread themselves
 over the whole earth, aided by <i>the doctrine of probable opinions</i>,
@@ -5014,7 +5134,8 @@ graces’ for these purposes. But to disenthral the soul from
 the love of the world—to tear it from what it holds most
 dear—to make it die to itself—to lift it up and bind it wholly,
 only, and forever, to God—can be the work of none but an
------File: 122.png---------------------------------------------------------
+.bn 122.png
+.pn +1
 all-powerful hand. And it would be as absurd to affirm that
 we have the full power of achieving such objects, as it would
 be to allege that those virtues, devoid of the love of God,
@@ -5057,7 +5178,8 @@ some good-natured doctor, who declares fasting injurious to their health.”
 a way of relieving you without sin: go in peace—you are
 under no obligation to fast. However, I would not have you
 depend on my word: step this way to the library.”
------File: 123.png---------------------------------------------------------
+.bn 123.png
+.pn +1
 
 On going thither with him he took up a book, exclaiming,
 with great rapture, “Here is the authority for you: and, by
@@ -5112,7 +5234,8 @@ pronounced to be admirably appropriate, and which conveyed
 to my mind a sublime idea of the excellence of the work.
 At length, having sought out the passage on fasting, “O
 here it is!” he said; “treatise 1, example 13, no. 67: ‘If a
------File: 124.png---------------------------------------------------------
+.bn 124.png
+.pn +1
 man cannot sleep without taking supper, is he bound to fast?
 Answer: <i>By no means!</i>’ Will that not satisfy you?”
 
@@ -5158,7 +5281,8 @@ same place, no. 38: ‘If a man doubt whether he is twenty-one
 years old, is he obliged to fast?[139] No. But suppose I
 were to be twenty-one to-night an hour after midnight, and
 to-morrow were the fast, would I be obliged to fast to-morrow?
------File: 125.png---------------------------------------------------------
+.bn 125.png
+.pn +1
 No; for you were at liberty to eat as much as you
 pleased for an hour after midnight, not being till then fully
 twenty-one; and therefore having a right to break the fast-day,
@@ -5206,7 +5330,8 @@ sin, he is still bound to do so? Not so thinks Father Bauny.
 ‘Absolution,’ says he, ‘is not to be refused to such as continue
 in the proximate occasions of sin,[141] if they are so situated
 that they cannot give them up without becoming the
------File: 126.png---------------------------------------------------------
+.bn 126.png
+.pn +1
 common talk of the world, or subjecting themselves to personal
 inconvenience.’”
 
@@ -5258,7 +5383,8 @@ certainty.”
 
 “I can easily see,” replied the good father, “that you
 know nothing about our doctrine of <i>probable opinions</i>. If
------File: 127.png---------------------------------------------------------
+.bn 127.png
+.pn +1
 you did, you would speak in another strain. Ah! my dear
 sir, I must really give you some instructions on this point;
 without knowing this, positively you can understand nothing
@@ -5303,7 +5429,8 @@ whether the authority of a single good and learned doctor
 renders an opinion probable. I answer, that it does; and
 this is confirmed by Angelus, Sylvester Navarre, Emanuel
 Sa, &c. It is proved thus: A probable opinion is one that
------File: 128.png---------------------------------------------------------
+.bn 128.png
+.pn +1
 has a considerable foundation. Now the authority of a
 learned and pious man is entitled to very great consideration;
 because (mark the reason), if the testimony of such a
@@ -5346,7 +5473,8 @@ in choosing between them!”—“Not at all,” he
 rejoined; “he has only to follow the opinion which suits
 him best.”—“What! if the other is more probable?” “It
 does not signify.”—“And if the other is the safer?” “It
------File: 129.png---------------------------------------------------------
+.bn 129.png
+.pn +1
 does not signify,” repeated the monk; “this is made quite
 plain by Emanuel Sa, of our Society, in his Aphorisms: ‘A
 person may do what he considers allowable according to a
@@ -5389,7 +5517,8 @@ false.’”
 uncommonly comfortable one! Only think of being allowed
 to answer Yes or No, just as you please! It is impossible to
 prize such a privilege too highly. I see now the advantage
------File: 130.png---------------------------------------------------------
+.bn 130.png
+.pn +1
 of the contrary opinions of your doctors. One of them always
 serves your turn, and the other never gives you any
 annoyance. If you do not find your account on the one
@@ -5433,7 +5562,8 @@ and Sanchez.”
 I see nothing to fear now. No confessor can dare to be refractory
 after this. Indeed, I was not aware that you had
 the power of issuing your orders on pain of damnation. I
------File: 131.png---------------------------------------------------------
+.bn 131.png
+.pn +1
 thought that your skill had been confined to the taking away
 of sins; I had no idea that it extended to the introduction
 of new ones. But from what I now see, you are omnipotent.”
@@ -5467,7 +5597,8 @@ be to a great many people!” I observed.
 
 “We leave the fathers,” resumed the monk, “to those
 who deal with positive divinity.[144] As for us, who are the
------File: 132.png---------------------------------------------------------
+.bn 132.png
+.pn +1
 directors of conscience, we read very little of them, and quote
 only the modern casuists. There is Diana, for instance, a
 most voluminous writer; he has prefixed to his works a list
@@ -5533,7 +5664,8 @@ That would have made Quintilian stare and gasp.”
 these people Christians?”
 
 “How! Christians!” returned the casuist; “did I not tell
------File: 133.png---------------------------------------------------------
+.bn 133.png
+.pn +1
 you that these are the only writers by whom we now govern
 Christendom?”
 
@@ -5577,7 +5709,8 @@ in the way of the Gospel.”[146]
 
 [Footnote 146: That is, they were all, in Pascal’s opinion, favorable to the Gospel
 scheme of morality.]
------File: 134.png---------------------------------------------------------
+.bn 134.png
+.pn +1
 
 “Is that all!” he exclaimed; “I declare you put me in a
 fright. Do you imagine that we would overlook such an
@@ -5598,7 +5731,8 @@ Thus ended our interview, and thus shall end my present
 communication, which has been long enough, besides, for one
 letter. I am sure you will be satisfied with it, in the prospect
 of what is forthcoming.—I am, &c.
------File: 135.png---------------------------------------------------------
+.bn 135.png
+.pn +1
 
 
 
@@ -5643,7 +5777,8 @@ come under the category of assassins.’”
 
 “Take another instance: It is said in the Gospel, ‘Give
 alms of your superfluity.’[147] Several Casuists, however, have
------File: 136.png---------------------------------------------------------
+.bn 136.png
+.pn +1
 contrived to discharge the wealthiest from the obligation of
 alms-giving. This may appear another paradox, but the
 matter is easily put to rights by giving such an interpretation
@@ -5690,7 +5825,8 @@ says in his Thoughts—“that let a man be ever so poor, he has always
 something to leave on his death-bed.”]
 
 “Why,” returned he, “the answer would be, that both
------File: 137.png---------------------------------------------------------
+.bn 137.png
+.pn +1
 of these ways are safe according to the Gospel; the one according
 to the Gospel in its more literal and obvious sense,
 and the other according to the same Gospel as interpreted
@@ -5731,7 +5867,8 @@ explain the bull of Pius V. <i>contra clericos</i>, &c.?”[149]
 among the clergy. (Nicolo, ii. pp. 372–376.)]
 
 “I know nothing about all that,” said I.
------File: 138.png---------------------------------------------------------
+.bn 138.png
+.pn +1
 
 “Then it is a sign you have not read much of Escobar,”
 returned the monk.
@@ -5778,7 +5915,8 @@ of course. On this principle our worthy friend Diana remarks:
 to my opinion, I answer, that they spoke in this way
 by adhering to the affirmative side—which, in fact, even in
 my judgment, is probable; but it does not follow from this
------File: 139.png---------------------------------------------------------
+.bn 139.png
+.pn +1
 that the negative may not have its probability too.’ And in
 the same treatise, speaking of another subject on which he
 again differs from a pope, he says: ‘The pope, I grant, has
@@ -5820,7 +5958,8 @@ discretion, and dispose, according to his fancy, of everything
 pertaining to the regulation of manners.”
 
 “What you have now said,” rejoined the father, “would
------File: 140.png---------------------------------------------------------
+.bn 140.png
+.pn +1
 require to be modified a little. Pay attention now, while I
 explain our method, and you will observe the progress of a
 new opinion, from its birth to its maturity. First, the grave
@@ -5860,7 +5999,8 @@ while living in the neighborhood of your doctors. Why, of
 two individuals who do the same actions, he that knows nothing
 about their doctrine sins, while he that knows it does no
 sin. It seems, then, that their doctrine possesses at once an
------File: 141.png---------------------------------------------------------
+.bn 141.png
+.pn +1
 edifying and a justifying virtue! The law of God, according
 to St. Paul, made transgressors;[152] but this law of yours
 makes nearly all of us innocent. I beseech you, my dear
@@ -5885,7 +6025,8 @@ altogether; and what is worse, they would become perfect
 castaways. It is to retain such characters as these that our
 casuists have taken under consideration the vices to which
 people of various conditions are most addicted, with the view
------File: 142.png---------------------------------------------------------
+.bn 142.png
+.pn +1
 of laying down maxims which, while they cannot be said to
 violate the truth, are so gentle that he must be a very impracticable
 subject indeed who is not pleased with them.
@@ -5952,7 +6093,8 @@ my mind, is the best: ‘If a person gives a temporal in exchange
 for a spiritual good’—that is, if he gives money for a
 benefice—‘and gives the money as the price of the benefice,
 it is manifest simony. But if he gives it merely as the motive
------File: 143.png---------------------------------------------------------
+.bn 143.png
+.pn +1
 which inclines the will of the patron to confer on him the
 living, it is not simony, even though the person who confers
 it considers and expects the money as the principal object.’
@@ -5993,7 +6135,8 @@ probability, it strikes me that the contrary opinion might be
 made out to be probable too, and might be supported by
 such reasons as the following: That, while the Church allows
 priests who are in poor circumstances to take money for their
------File: 144.png---------------------------------------------------------
+.bn 144.png
+.pn +1
 masses, seeing it is but right that those who serve at the
 altar should live by the altar, she never intended that they
 should barter the sacrifice for money,[156] and still less, that
@@ -6004,7 +6147,8 @@ offer sacrifice first for themselves, and then for the people;[157]
 and that accordingly, while permitted to participate with
 others in the benefit of the sacrifice, they are not at liberty
 to forego their share, by transferring it to another for a third
------File: 145.png---------------------------------------------------------
+.bn 145.png
+.pn +1
 of a mass, or, in other words, for the matter of fourpence or
 fivepence. Verily, father, little as I pretend to be a <i>grave</i>
 man, I might contrive to make this opinion probable.”
@@ -6086,7 +6230,8 @@ priest who has fallen into such irregularities, have the assurance
 on the same day to approach the altar, on the mere
 word of Father Bauny? Is he not bound to submit to the
 ancient laws of the Church, which debarred from the sacrifice
------File: 146.png---------------------------------------------------------
+.bn 146.png
+.pn +1
 forever, or at least for a long time, priests who had committed
 sins of that description—instead of following the modern
 opinions of casuists, who would admit him to it on the very
@@ -6128,7 +6273,8 @@ grand difficulty with them is the obedience they owe to their
 superiors; now observe the palliative which our fathers apply
 in this case. Castro Palao[161] of our Society has said: ‘Beyond
 all dispute, a monk who has a probable opinion of his own, is
------File: 147.png---------------------------------------------------------
+.bn 147.png
+.pn +1
 not bound to obey his superior, though the opinion of the
 latter is the more probable. For the monk is at liberty to
 adopt the opinion which is more agreeable to himself—<i>quæ
@@ -6173,7 +6319,8 @@ in which they are employed, they lose their places; and
 if they yield obedience, they have their scruples. To relieve
 them from these, our four-and-twenty fathers have specified
 the services which they may render with a safe conscience;
------File: 148.png---------------------------------------------------------
+.bn 148.png
+.pn +1
 such as, ‘carrying letters and presents, opening doors and
 windows, helping their master to reach the window, holding
 the ladder which he is mounting. All this,’ say they, ‘is allowable
@@ -6215,7 +6362,8 @@ declare.”
 
 “What John d’Alba?” inquired the father: “what do you
 mean?”
------File: 149.png---------------------------------------------------------
+.bn 149.png
+.pn +1
 
 “Strange, father!” returned I: “do you not remember
 what happened in this city in the year 1647? Where in the
@@ -6257,7 +6405,8 @@ such doctrine in future, upon pain of death.’
 
 “The result of this judgment, which was heartily approved
 of, was waited for with much curiosity when some incident
------File: 150.png---------------------------------------------------------
+.bn 150.png
+.pn +1
 occurred which made them delay procedure. But in the
 mean time the prisoner disappeared, nobody knew how, and
 nothing more was heard about the affair; so that John d’Alba
@@ -6301,7 +6450,8 @@ judges.”
 
 “So I understand,” returned I; “but if, on the one hand,
 you are the judges of the confessors, are you not, on the
------File: 151.png---------------------------------------------------------
+.bn 151.png
+.pn +1
 other hand, the confessors of the judges? Your power is
 very extensive. Oblige them, on pain of being debarred
 from the sacraments, to acquit all criminals who act on a
@@ -6324,7 +6474,8 @@ This is all you shall have from me at present; for it would
 require more than the limits of one letter to acquaint you
 with all that I learned in a single conversation.—Meanwhile
 I am, &c.
------File: 152.png---------------------------------------------------------
+.bn 152.png
+.pn +1
 
 
 
@@ -6370,7 +6521,8 @@ wounding their consciences, and thus reconcile two things
 apparently so opposite to each other as piety and the point
 of honor. But, sir, in proportion to the utility of the design
 was the difficulty of the execution. You cannot fail, I should
------File: 153.png---------------------------------------------------------
+.bn 153.png
+.pn +1
 think, to realize the magnitude and arduousness of such an
 enterprize?”
 
@@ -6412,7 +6564,8 @@ the evil to which they were accessary, to the profit which
 they might reap from the transaction? Now that is what
 we call <i>directing the intention</i>. You saw, too, that were it
 not for a similar divergence of the mind, those who give
------File: 154.png---------------------------------------------------------
+.bn 154.png
+.pn +1
 money for benefices might be downright simoniacs. But I
 will now show you this grand method in all its glory, as it
 applies to the subject of homicide—a crime which it justifies in
@@ -6452,7 +6605,8 @@ to the Gospel. This is a secret, sir, which was entirely
 unknown to the ancients; the world is indebted for the discovery
 entirely to our doctors. You understand it now, I
 hope?”
------File: 155.png---------------------------------------------------------
+.bn 155.png
+.pn +1
 
 “Perfectly well,” was my reply. “To men you grant
 the outward material effect of the action; and to God you
@@ -6494,7 +6648,8 @@ it? This is what they will tolerate on no account.
 Thus Lessius[164] observes, that ‘if a man has received a blow
 on the face, he must on no account have an intention to
 avenge himself; but he may lawfully have an intention to
------File: 156.png---------------------------------------------------------
+.bn 156.png
+.pn +1
 avert infamy, and may, with that view, repel the insult immediately,
 even at the point of the sword—<i>etiam cum gladio</i>!’
 So far are we from permitting any one to cherish the design
@@ -6540,7 +6695,8 @@ still greater difficulties.”
 
 “Propose them, if you please, that we may see,” said the
 monk.
------File: 157.png---------------------------------------------------------
+.bn 157.png
+.pn +1
 
 “Show me, with all your directing of the intention,” returned
 I, “that it is allowable to fight a duel.”
@@ -6582,7 +6738,8 @@ our Father Layman to give it for me. He permits duelling
 in so many words, provided that, in accepting the challenge,
 the person directs his intention solely to the preservation
 of his honor or his property: ‘If a soldier or a courtier is
------File: 158.png---------------------------------------------------------
+.bn 158.png
+.pn +1
 in such a predicament that he must lose either his honor or
 his fortune unless he accepts a challenge, I see nothing to
 hinder him from doing so in self-defence.’ The same thing
@@ -6628,7 +6785,8 @@ see it in print.”
 read the following extract from the Moral Theology of
 Sanchez: “It is perfectly reasonable to hold that a man may
 fight a duel to save his life, his honor, or any considerable
------File: 159.png---------------------------------------------------------
+.bn 159.png
+.pn +1
 portion of his property, when it is apparent that there is a
 design to deprive him of these unjustly, by law-suits and
 chicanery, and when there is no other way of preserving them.
@@ -6671,7 +6829,8 @@ you pretend to talk like a doctor.”
 “I grant you this is something quite new to me,” I replied;
 “and I should gather from that definition that few, if
 any, were ever killed in treachery; for people seldom take
------File: 160.png---------------------------------------------------------
+.bn 160.png
+.pn +1
 it into their heads to assassinate any but their enemies. Be
 this as it may, however, it seems that, according to Sanchez,
 a man may freely slay (I do not say <i>treacherously</i>, but only
@@ -6710,7 +6869,8 @@ challenge to a duel, to give one sometimes, to kill in a private
 way a false accuser, and his witnesses along with him, and
 even the judge who has been bribed to favor them; and you
 have also told me that he who has got a blow, may, without
------File: 161.png---------------------------------------------------------
+.bn 161.png
+.pn +1
 avenging himself, retaliate with the sword. But you have
 not told me, father, to what length he may go.”
 
@@ -6751,7 +6911,8 @@ it is allowable; and I certainly consider it probable, when
 there is no other way of warding off the insult; for, otherwise,
 the honor of the innocent would be constantly exposed
 to the malice of the insolent.’ The same opinion is given by
------File: 162.png---------------------------------------------------------
+.bn 162.png
+.pn +1
 our great Filiutius; by Father Hereau, in his Treatise on
 Homicide; by Hurtado de Mendoza, in his Disputations; by
 Becan, in his Summary; by our Fathers Flahaut and Lecourt,
@@ -6791,7 +6952,8 @@ divulge, provided it is a secret one, which you could not
 establish by legal evidence. And I prove it thus: If you
 mean to rob me of my honor by giving me a box on the ear,
 I may prevent it by force of arms; and the same mode of
------File: 163.png---------------------------------------------------------
+.bn 163.png
+.pn +1
 defence is lawful when you would do me the same injury
 with the tongue. Besides, we may lawfully obviate affronts,
 and therefore slanders. In fine, honor is dearer than life;
@@ -6835,7 +6997,8 @@ that we may kill a man for calumny is not without its probability
 in theory, the contrary one ought to be followed in
 practice; for, in our mode of defending ourselves, we should
 always avoid doing injury to the commonwealth; and it is
------File: 164.png---------------------------------------------------------
+.bn 164.png
+.pn +1
 evident that by killing people in this way there would be too
 many murders.’ ‘We should be on our guard,’ says Lessius,
 ‘lest the practice of this maxim prove hurtful to the State;
@@ -6879,7 +7042,8 @@ the permission to those cases ‘where no further violence is
 apprehended from those that steal our property; as, for example,
 where the thief runs away.’ Azor, one of our Society,
 proves that point.”
------File: 165.png---------------------------------------------------------
+.bn 165.png
+.pn +1
 
 “But, sir, how much must the article be worth, to justify
 our proceeding to that extremity?”
@@ -6923,7 +7087,8 @@ peculiar to himself, and is far beyond St. Augustine
 in the matter of homicide, as well as of grace. Well, now,
 I suppose I may consider myself master of this chapter of
 morals; and I see perfectly that, with the exception of ecclesiastics,
------File: 166.png---------------------------------------------------------
+.bn 166.png
+.pn +1
 nobody need refrain from killing those who injure
 them in their property or reputation.”
 
@@ -6971,7 +7136,8 @@ for the love of God, and as you would expect the gifts of mercy
 and compassion, and the benefit of our prayers, not to do anything injurious
 to this miserable man, tending to death or the mutilation of his
 body!” (Crespin, Hist. des Martyres, p. 185.)]
------File: 167.png---------------------------------------------------------
+.bn 167.png
+.pn +1
 
 “Never mind that,” he replied; “our Father Lamy has
 completely proved the doctrine I have laid down, although,
@@ -7009,7 +7175,8 @@ enhanced it—<i>occidi non possunt, quia nocere non potuerunt</i>.’”
 “Ha, father! do the lives of the Jansenists, then, depend
 on the contingency of their injuring your reputation? If so,
 I reckon them far from being in a safe position; for supposing
------File: 168.png---------------------------------------------------------
+.bn 168.png
+.pn +1
 it should be thought in the slightest degree <i>probable</i> that
 they might do you some mischief, why, they are <i>killable</i> at
 once! You have only to draw up a syllogism in due form,
@@ -7050,7 +7217,8 @@ our superiors, it cannot be wrong to read nor dangerous to
 publish.”
 
 I write you, therefore, on the faith of this worthy father’s
------File: 169.png---------------------------------------------------------
+.bn 169.png
+.pn +1
 word of honor. But, in the mean time, I must stop for want
 of paper—not of passages; for I have got as many more in
 reserve, and good ones too, as would require volumes to contain
@@ -7070,7 +7238,8 @@ and, moreover, that in order to make these intentions good, it is not necessary
 that they have any reference to God, but sufficient if they refer
 to our own convenience, cupidity or vanity. (Apologie des Lettres Provinciales,
 pp. 212–221.)]
------File: 170.png---------------------------------------------------------
+.bn 170.png
+.pn +1
 
 
 
@@ -7114,7 +7283,8 @@ But after having borne so much for your satisfaction, I am
 resolved I shall burst out for my own satisfaction in the end,
 when his stock of information has been exhausted. Meanwhile,
 I shall repress my feelings as much as I possibly can;
------File: 171.png---------------------------------------------------------
+.bn 171.png
+.pn +1
 for I find that the more I hold my tongue, he is the more
 communicative. The last time I saw him, he told me so
 many things, that I shall have some difficulty in repeating
@@ -7155,7 +7325,8 @@ returned he; “we have had no other end in view
 than the repose of their consciences; and to the same useful
 purpose has our great Molina devoted his attention, in regard
 to the presents which may be made them. To remove
------File: 172.png---------------------------------------------------------
+.bn 172.png
+.pn +1
 any scruples which they might entertain in accepting of these
 on certain occasions, he has been at the pains to draw out a
 list of all those cases in which bribes may be taken with a
@@ -7194,7 +7365,8 @@ Pelisson pronounced a beautiful eulogy.]
 
 The worthy monk was surprised at this piece of intelligence,
 and replied: “Are you sure of that? I heard nothing
------File: 173.png---------------------------------------------------------
+.bn 173.png
+.pn +1
 about it. Our opinion, recollect, is only probable; the
 contrary is probable also.”
 
@@ -7239,7 +7411,8 @@ employment, than he could derive from usurious dealings.’”
 after that.”
 
 “Accordingly,” continued he, “our casuist has suggested
------File: 174.png---------------------------------------------------------
+.bn 174.png
+.pn +1
 ‘a general method for all sorts of persons—gentlemen, presidents,
 councillors,’ &c.; and a very simple process it is, consisting
 only in the use of certain words which must be pronounced
@@ -7281,7 +7454,8 @@ recovering more money than what was lent.”
 according to our fathers, consists in little more than the intention
 of taking the interest as usurious. Escobar, accordingly,
 shows you how you may avoid usury by a simple shift
------File: 175.png---------------------------------------------------------
+.bn 175.png
+.pn +1
 of the intention. ‘It would be downright usury,’ says he,
 ‘to take interest from the borrower, if we should exact it as
 due in point of justice; but if only exacted as due in point
@@ -7325,7 +7499,8 @@ Mohatra is not such an unheard-of term as you supposed.”
 
 “Escobar,” replied he, “tells us in the same place, that
 there are laws which prohibit it under very severe penalties.”
------File: 176.png---------------------------------------------------------
+.bn 176.png
+.pn +1
 
 “It is useless, then, I suppose?”
 
@@ -7358,7 +7533,8 @@ condition of life. For, if they have not enough of property
 for a decent maintenance, and at the same time for paying
 their debts, they permit them to secure a portion by making
 a bankruptcy with their creditors.[175] This has been decided
------File: 177.png---------------------------------------------------------
+.bn 177.png
+.pn +1
 by Lessius, and confirmed by Escobar, as follows: ‘May a
 person who turns bankrupt, with a good conscience keep
 back as much of his personal estate as may be necessary to
@@ -7413,7 +7589,8 @@ to the rich man the sum which he had made him lose?”
 the man—he only advised the other to do it. But only
 attend to this notable decision of Father Bauny, on a case
 which will still more astonish you, and in which you would
------File: 178.png---------------------------------------------------------
+.bn 178.png
+.pn +1
 suppose there was a much stronger obligation to make restitution.
 Here are his identical words: ‘A person asks a
 soldier to beat his neighbor, or to set fire to the barn of a
@@ -7453,7 +7630,8 @@ necessity is <i>grave</i>, though not extreme.’”
 “This is somewhat startling, father,” said I. “There are
 very few people in this world who do not consider their cases
 of necessity to be <i>grave</i> ones, and to whom, accordingly, you
------File: 179.png---------------------------------------------------------
+.bn 179.png
+.pn +1
 would not give the right of stealing with a good conscience.
 And though you should restrict the permission to those only
 who are really and truly in that condition, you open the door
@@ -7490,7 +7668,8 @@ criminal action, such as adultery, even though that action is
 contrary to justice.’ For, as Escobar comments on this
 writer, ‘though the property which a woman acquires by
 adultery is certainly gained in an illicit way, yet once acquired,
------File: 180.png---------------------------------------------------------
+.bn 180.png
+.pn +1
 the possession of it is lawful—<i>quamvis mulier illicitè
 acquisat, licitè tamen retinet acquisita</i>.’ It is on this principle
 that the most celebrated of our writers have formally
@@ -7535,7 +7714,8 @@ money.’ And so says Escobar.”[178]
 59, tr. 3, ex. 1, n. 23.]
 
 “May it please your reverence,” said I, “the monks,
------File: 181.png---------------------------------------------------------
+.bn 181.png
+.pn +1
 I see, are more highly favored in this way than other
 people.”
 
@@ -7576,7 +7756,8 @@ He then pointed out to me, in his authors, some things of
 this nature so indelicate that I should be ashamed to repeat
 them; and indeed the monk himself, who is a good man,
 would have been horrified at them himself, were it not for
------File: 182.png---------------------------------------------------------
+.bn 182.png
+.pn +1
 the profound respect which he entertains for his fathers, and
 which makes him receive with veneration everything that
 proceeds from them. Meanwhile, I held my tongue, not so
@@ -7618,7 +7799,8 @@ may lawfully receive money for it. All our leading authors,
 accordingly, agree in teaching ‘that though a judge is bound
 to restore the money he had received for doing an act of justice,
 unless it was given him out of mere generosity, he is not
------File: 183.png---------------------------------------------------------
+.bn 183.png
+.pn +1
 obliged to restore what he has received from a man in whose
 favor he has pronounced an unjust decision.’”[181]
 
@@ -7663,7 +7845,8 @@ obliged.’”
 “And why so, father?”
 
 “Don’t you see?” returned he. “It is because men may
------File: 184.png---------------------------------------------------------
+.bn 184.png
+.pn +1
 truly divine by the aid of the devil, whereas astrology is a
 mere sham.”
 
@@ -7709,7 +7892,8 @@ let us speak more seriously.”
 “I am quite disposed to do so, if you prefer it; that depends
 upon you, father. But I must say, that I have been
 astonished to see your friends carrying their attentions to all
------File: 185.png---------------------------------------------------------
+.bn 185.png
+.pn +1
 sorts and conditions of men so far as even to regulate the
 legitimate gains of sorcerers.”
 
@@ -7750,7 +7934,8 @@ to meet with them. Had that man not written, this man
 would not have been saved. All, therefore, who find fault
 with the multitude of our authors, we would beseech, in the
 bowels of Jesus Christ, to beware of envying others those
------File: 186.png---------------------------------------------------------
+.bn 186.png
+.pn +1
 books which the eternal election of God and the blood of Jesus
 Christ has purchased for them!’ Such are the eloquent
 terms in which this learned man proves so successfully the
@@ -7857,7 +8042,8 @@ sufficient passport to heaven?”
 “It is,” returned he. “Listen to what follows: ‘The devotions
 to the Mother of God, which you will find in this
 book, are so many celestial keys, which will open wide to
------File: 189.png---------------------------------------------------------
+.bn 189.png
+.pn +1
 you the gates of paradise, provided you practise them;’ and
 accordingly, he says at the conclusion, ‘that he is satisfied
 if you practise only one of them.’”
@@ -7906,7 +8092,8 @@ really think that nobody will be damned after that.”
 
 “Alas!” said the monk, “I see you have no idea of the
 hardness of some people’s hearts. There are some, sir, who
------File: 190.png---------------------------------------------------------
+.bn 190.png
+.pn +1
 would never engage to repeat, every day, even these simple
 words, <i>Good day</i>, <i>Good evening</i>, just because such a practice
 would require some exertion of memory. And, accordingly,
@@ -7950,7 +8137,8 @@ them, are of great merit; but to make persons believe that,
 by practising these without reforming their wicked lives, they
 will be converted by them at the hour of death, or that God
 will raise them up again, does appear calculated rather to
------File: 191.png---------------------------------------------------------
+.bn 191.png
+.pn +1
 keep sinners going on in their evil courses, by deluding them
 with false peace and fool-hardy confidence, than to draw them
 off from sin by that genuine conversion which grace alone
@@ -7998,7 +8186,8 @@ stand bail for the good Mother.’”
 
 “How!” cried the monk; “for Father Barry? is he not a
 member of our Society? and do you need to be told that
------File: 192.png---------------------------------------------------------
+.bn 192.png
+.pn +1
 our Society is answerable for all the books of its members?
 It is highly necessary and important for you to know about
 this. There is an order in our Society, by which all booksellers
@@ -8039,7 +8228,8 @@ doctors that people should not stop short at this first step,
 where they only do what is absolutely necessary for salvation,
 and nothing more. Aspiring, as they do without ceasing,
 after the greater glory of God,[189] they sought to elevate
------File: 193.png---------------------------------------------------------
+.bn 193.png
+.pn +1
 men to a higher pitch of piety; and as men of the world
 are generally deterred from devotion by the strange ideas
 they have been led to form of it by some people, we have
@@ -8083,7 +8273,8 @@ and rectified blood, which is the true stuff that joy is made of.’
 and retirement is not common to all devout people; and that,
 as I was saying, this is the effect rather of their complexion
 than their piety. Those austere manners to which you refer,
------File: 194.png---------------------------------------------------------
+.bn 194.png
+.pn +1
 are, in fact, properly the character of a savage and barbarian,
 and, accordingly, you will find them ranked by Father Le
 Moine among the ridiculous and brutal manners of a moping
@@ -8123,7 +8314,8 @@ says at the close of that description. Such is his way of
 teaching ‘Christian virtue and philosophy,’ as he announces
 in his advertisement; and, in truth, it cannot be denied that
 this method of treating devotion is much more agreeable to
------File: 195.png---------------------------------------------------------
+.bn 195.png
+.pn +1
 the taste of the world than the old way in which they went
 to work before our times.”
 
@@ -8170,7 +8362,8 @@ pretension to skill in the science of sins.”
 
 “To make you still more sensible of this,” returned he,
 “you have been accustomed to think, I suppose, that a good
------File: 196.png---------------------------------------------------------
+.bn 196.png
+.pn +1
 opinion of one’s self, and a complacency in one’s own works,
 is a most dangerous sin? Now, will you not be surprised if
 I can show you that such a good opinion, even though there
@@ -8217,7 +8410,8 @@ only venial.’”
 
 “You shall hear,” said he. “‘For the good that consists
 in temporal things is so slender, and so insignificant in relation
------File: 197.png---------------------------------------------------------
+.bn 197.png
+.pn +1
 to heaven, that it is of no consideration in the eyes of
 God and his saints.’”
 
@@ -8266,7 +8460,8 @@ may no longer sin in gratifying themselves?”
 that purpose by changing the definitions of things. I may
 illustrate this by referring to the subject of good cheer, which
 is accounted one of the greatest pleasures of life, and which
------File: 198.png---------------------------------------------------------
+.bn 198.png
+.pn +1
 Escobar thus sanctions in his ‘Practice according to our Society:’
 ‘Is it allowable for a person to eat and drink to repletion,
 unnecessarily, and solely for pleasure? Certainly he may,
@@ -8314,7 +8509,8 @@ what is to be done when no equivocal words can be got?”
 
 “I thought as much,” said the Jesuit; “this is something
 new, sir: I mean the doctrine of mental reservations. ‘A
------File: 199.png---------------------------------------------------------
+.bn 199.png
+.pn +1
 man may swear,’ as Sanchez says in the same place, ‘that he
 never did such a thing (though he actually did it), meaning
 within himself that he did not do so on a certain day, or before
@@ -8363,7 +8559,8 @@ these methods.”
 “Our doctors,” replied the Jesuit, “have taught, in the
 same passage, for the benefit of such as might not be expert
 in the use of these reservations, that no more is required of
------File: 200.png---------------------------------------------------------
+.bn 200.png
+.pn +1
 them, to avoid lying, than simply to say that <i>they have not
 done</i> what they have done, provided ‘they have, in general,
 the intention of giving to their language the sense which an
@@ -8408,7 +8605,8 @@ in reference to married and betrothed persons.”
 At this stage of the conversation I was made acquainted
 with the most extraordinary questions you can well imagine.
 He gave me enough of them to fill many letters; but as you
------File: 201.png---------------------------------------------------------
+.bn 201.png
+.pn +1
 show my communications to all sorts of persons, and as I do
 not choose to be the vehicle of such reading to those who
 would make it the subject of diversion, I must decline even
@@ -8449,7 +8647,8 @@ by impure intentions; but as to others, Escobar remarks,
 that ‘if the woman adorn herself without any evil intention,
 but merely to gratify a natural inclination to vanity—<i>ob naturalem
 fastus inclinationem</i>—this is only a venial sin, or
------File: 202.png---------------------------------------------------------
+.bn 202.png
+.pn +1
 rather no sin at all.’ And Father Bauny maintains, that
 ‘even though the woman knows the bad effect which her care
 in adorning her person may have upon the virtue of those
@@ -8500,7 +8699,8 @@ and did not like to commit himself.” (Entretiens de Cleandre et
 d’Eudoxe, p. 78.)]
 
 “A most judicious advice,” I observed.
------File: 203.png---------------------------------------------------------
+.bn 203.png
+.pn +1
 
 “But,” continued the monk, “just to show you how careful
 our fathers are about everything you can think of, I may
@@ -8538,7 +8738,8 @@ so does the following maxim by the same Escobar, ‘that
 even a wicked intention, such as that of ogling the women
 joined to that of hearing mass rightly, does not hinder a man
 from fulfilling the service.’[201] But another very convenient
------File: 204.png---------------------------------------------------------
+.bn 204.png
+.pn +1
 device, suggested by our learned brother Turrian,[202] is, that
 ‘one may hear the half of a mass from one priest, and the
 other half from another; and that it makes no difference
@@ -8584,7 +8785,8 @@ simply to live is incomparably more irksome than to live well.’
 Is that not a marvellous change, now?”
 
 “Indeed, father, I cannot help telling you a bit of my
------File: 205.png---------------------------------------------------------
+.bn 205.png
+.pn +1
 mind: I am sadly afraid that you have overshot the mark,
 and that this indulgence of yours will shock more people
 than it will attract. The mass, for example, is a thing so
@@ -8612,7 +8814,8 @@ am, &c.
 Opened by a Hundred Devotions easily Practised,” by Father
 Barry; and also the “Mark of Predestination,” by Father
 Binet; both of them pieces well worth the seeing.
------File: 206.png---------------------------------------------------------
+.bn 206.png
+.pn +1
 
 
 
@@ -8659,7 +8862,8 @@ confession as easy a process as it was formerly a painful one.”
 “And how do you manage that, father?”
 
 “Why,” said he, “it is by those admirable subtleties
------File: 207.png---------------------------------------------------------
+.bn 207.png
+.pn +1
 which are peculiar to our Company, and have been styled by
 our fathers in Flanders, in “The Image of the First Century,”[204]
 ‘the pious finesse, the holy artifice of devotion—<i>piam
@@ -8702,7 +8906,8 @@ thence to indulge in mortal sin?’ This is followed by another
 ingenious contrivance for confessing a sin, even to the
 ordinary confessor, without his perceiving that it was committed
 since the last confession, which is, ‘to make a general
------File: 208.png---------------------------------------------------------
+.bn 208.png
+.pn +1
 confession, and huddle this last sin in a lump among the rest
 which we confess.’[206] And I am sure you will own that the
 following decision of Father Bauny goes far to alleviate the
@@ -8748,7 +8953,8 @@ a fresh abuse, instead of justifying in the least the decision
 of Father Bauny; a decision which, in my opinion, is
 one of the most pernicious of their maxims, and calculated
 to encourage profligate men to continue in their evil habits.
------File: 209.png---------------------------------------------------------
+.bn 209.png
+.pn +1
 
 “I grant you,” replied the father, “that habit aggravates
 the malignity of a sin, but it does not alter its nature; and
@@ -8789,7 +8995,8 @@ penitent declare his willingness to have his penance remitted
 to the next world, and to suffer in purgatory all the pains
 due to him, the confessor may, for the honor of the sacrament,
 impose a very light penance on him, particularly if he
------File: 210.png---------------------------------------------------------
+.bn 210.png
+.pn +1
 has reason to believe that his penitent would object to a
 heavier one.’”
 
@@ -8836,7 +9043,8 @@ and he ought not to absolve those whom Jesus Christ condemns.’”
 
 “You astonish me,” said I; “I took them to be a quotation
 from one of the fathers of the Church. At all events,
------File: 211.png---------------------------------------------------------
+.bn 211.png
+.pn +1
 sir, that passage ought to make an impression on the confessors,
 and render them very circumspect in the dispensation of
 this sacrament, to ascertain whether the regret of their penitents
@@ -8880,7 +9088,8 @@ this question to the bottom, has concluded ‘that at whatever
 time those who have fallen into frequent relapses, without
 giving evidence of amendment, present themselves before a
 confessor, expressing their regret for the past, and a good
------File: 212.png---------------------------------------------------------
+.bn 212.png
+.pn +1
 purpose for the future, he is bound to believe them on their
 simple averment, although there may be reason to presume
 that such resolution only came from the teeth outwards.
@@ -8913,7 +9122,8 @@ doubt what has been taught by our authors?”
 “But, sir, what then becomes of what Father Petau[212] himself
 is obliged to own, in the preface to his Public Penance,
 ‘that the holy fathers, doctors, and councils of the Church
------File: 213.png---------------------------------------------------------
+.bn 213.png
+.pn +1
 agree in holding it as a settled point, that the penance preparatory
 to the eucharist must be genuine, constant, resolute,
 and not languid and sluggish, or subject to after-thoughts
@@ -8968,7 +9178,8 @@ interdicted to the greater part of mankind; and the only resource
 left for poor sinners would be a branch and a rope!’”[213]
 
 [Footnote 213: Reply to the Moral Theol., p. 211.]
------File: 214.png---------------------------------------------------------
+.bn 214.png
+.pn +1
 
 “O father, how these maxims of yours will draw people
 to your confessionals!”
@@ -9017,7 +9228,8 @@ bound to rest satisfied.
 “And Father Bauny,” continued the monk, “permits
 those who are involved in the proximate occasions of sin, ‘to
 remain as they are, when they cannot avoid them without
------File: 215.png---------------------------------------------------------
+.bn 215.png
+.pn +1
 becoming the common talk of the world, or subjecting themselves
 to inconvenience.’ ‘A priest,’ he remarks in another
 work, ‘may and ought to absolve a woman who is guilty of
@@ -9060,7 +9272,8 @@ On hearing these passages, I felt so horrified that I was on
 the point of breaking out; but, being resolved to hear him
 to an end, I restrained myself, and merely inquired: “How,
 father, does this doctrine comport with that of the Gospel,
------File: 216.png---------------------------------------------------------
+.bn 216.png
+.pn +1
 which binds us to ‘pluck out the right eye,’ and ‘cut off the
 right hand,’ when they ‘offend,’ or prove prejudicial to salvation?
 And how can you suppose that the man who wilfully
@@ -9108,7 +9321,8 @@ take care to show that it must be accompanied with some
 love to God at least. It appears to me, moreover, that even
 your own authors did not always consider this doctrine of
 yours so certain. Your Father Suarez, for instance, speaks
------File: 217.png---------------------------------------------------------
+.bn 217.png
+.pn +1
 of it thus: ‘Although it is a probable opinion that attrition
 is sufficient with the sacrament, yet it is not certain, and it
 may be false—<i>non est certa, et potest esse falsa</i>. And if it is
@@ -9148,7 +9362,8 @@ all ages! So that, in fact, when you have shown, from our
 fathers themselves, that, a few years ago, ‘this opinion was
 not certain,’ you have only succeeded in giving our modern
 authors the whole merit of its establishment!
------File: 218.png---------------------------------------------------------
+.bn 218.png
+.pn +1
 
 “Accordingly,” he continued, “our cordial friend Diana,
 to gratify us, no doubt, has recounted the various steps by
@@ -9192,7 +9407,8 @@ His style, like that of most of these scholastics, is described as
 “You surprise me, father; for I see nothing in all that
 attrition of which you speak but what is natural; and in this
 way a sinner may render himself worthy of absolution without
------File: 219.png---------------------------------------------------------
+.bn 219.png
+.pn +1
 supernatural grace at all. Now everybody knows that this
 is a heresy condemned by the Council.”[223]
 
@@ -9237,7 +9453,8 @@ length this doctrine leads. When you say that ‘attrition,
 induced by the mere dread of punishment,’ is sufficient, with
 the sacrament, to justify sinners, does it not follow that a
 person may always expiate his sins in this way, and thus be
------File: 220.png---------------------------------------------------------
+.bn 220.png
+.pn +1
 saved without ever having loved God all his lifetime? Would
 your fathers venture to hold that?”
 
@@ -9277,7 +9494,8 @@ with the love of God.
 surpasses all on this point, in his admirable book, ‘The Defence
 of Virtue,’[225] where, as he tells the reader, ‘he speaks
 French in France,’ as follows: ‘St. Thomas says that we
------File: 221.png---------------------------------------------------------
+.bn 221.png
+.pn +1
 are obliged to love God as soon as we come to the use of
 reason: that is rather too soon! Scotus says, every Sunday:
 pray, for what reason? Others say, when we are sorely
@@ -9318,7 +9536,8 @@ Pintereau, Le Moine, and Antony Sirmond himself,
 have strenuously defended it when it has been attacked. You
 have only to consult their answers to the ‘Moral Theology.’
 That of Father Pintereau, in particular, will enable you to
------File: 222.png---------------------------------------------------------
+.bn 222.png
+.pn +1
 form some idea of the value of this dispensation, from the
 price which he tells us that it cost, which is no less than the
 blood of Jesus Christ. This crowns the whole. It appears,
@@ -9365,7 +9584,8 @@ them; and, so far from detesting the authors of these maxims,
 you hold them in esteem. Are you not afraid that your
 consent may involve you in a participation of their guilt?
 and are you not aware that St. Paul judges worthy of death,
------File: 223.png---------------------------------------------------------
+.bn 223.png
+.pn +1
 not only the authors of evil things, but also ‘those who have
 pleasure in them that do them?’ Was it not enough to
 have permitted men to indulge in so many forbidden things,
@@ -9403,7 +9623,8 @@ not the Lord Jesus!’ To cancel the sentence of St. John:
 Christ himself: ‘He that loveth me not keepeth not my precepts!’
 and thus to render those worthy of enjoying God
 through eternity who never loved God all their life![227] Behold
------File: 224.png---------------------------------------------------------
+.bn 224.png
+.pn +1
 the Mystery of Iniquity fulfilled! Open your eyes at
 length, my dear father, and if the other aberrations of your
 casuists have made no impression on you, let these last,
@@ -9437,7 +9658,8 @@ on their maxims, I have studied their books sufficiently
 to tell you as much of their morality, and more,
 perhaps, of their policy, than he could have done himself.—I
 am, &c.
------File: 225.png---------------------------------------------------------
+.bn 225.png
+.pn +1
 
 
 
@@ -9484,7 +9706,8 @@ stigmatize all who laugh at them as profane people?
 What, fathers! must the vagaries of your doctors pass for
 the verities of the Christian faith, and no man be allowed to
 ridicule Escobar, or the fantastical and unchristian dogmas
------File: 226.png---------------------------------------------------------
+.bn 226.png
+.pn +1
 of your authors, without being stigmatized as jesting at
 religion? Is it possible you can have ventured to reiterate
 so often an idea so utterly unreasonable? Have you no fears
@@ -9526,7 +9749,8 @@ between fear, which is its beginning, and love, which is its
 end—they have, at the same time, entertained towards error
 the two-fold feeling of hatred and contempt, and their zeal
 has been at once employed to repel, by force of reasoning,
------File: 227.png---------------------------------------------------------
+.bn 227.png
+.pn +1
 the malice of the wicked, and to chastise, by the aid of ridicule,
 their extravagance and folly.
 
@@ -9567,7 +9791,8 @@ terms of derision: “Behold, the man has become as one
 of us!—<i>Ecce, Adam quasi unus ex nobis!</i>”—which, according
 to St. Jerome[231] and the interpreters, is “a grievous and
 cutting piece of irony,” with which God “stung him to the
------File: 228.png---------------------------------------------------------
+.bn 228.png
+.pn +1
 quick.” “Adam,” says Rupert, “deserved to be taunted in
 this manner, and he would be naturally made to feel his folly
 more acutely by this ironical expression than by a more serious
@@ -9616,7 +9841,8 @@ not wanting in the discourses of Jesus Christ himself. St.
 Augustine remarks that, when he would humble Nicodemus,
 who deemed himself so expert in his knowledge of the law,
 “perceiving him to be puffed up with pride, from his rank
------File: 229.png---------------------------------------------------------
+.bn 229.png
+.pn +1
 as doctor of the Jews, he first beats down his presumption
 by the magnitude of his demands, and having reduced him so
 low that he was unable to answer, What! says he, you a
@@ -9657,7 +9883,8 @@ my proceeding in this matter: “What I have now done is
 only a little sport before the real combat. I have rather indicated
 the wounds that might be given you, than inflicted
 any. If the reader has met with passages which have excited
------File: 230.png---------------------------------------------------------
+.bn 230.png
+.pn +1
 his risibility, he must ascribe this to the subjects themselves.
 There are many things which deserve to be held up
 in this way to ridicule and mockery, lest, by a serious refutation,
@@ -9695,7 +9922,8 @@ I say, one listens to such decisions as these, the surprise
 is such that it is impossible to refrain from laughing;
 for nothing is more calculated to produce that emotion than
 a startling contrast between the thing looked for and the
------File: 231.png---------------------------------------------------------
+.bn 231.png
+.pn +1
 thing looked at. And why should the greater part of these
 maxims be treated in any other way? As Tertullian says,
 “To treat them seriously would be to sanction them.”
@@ -9735,7 +9963,8 @@ door would be opened for the introduction of the most extravagant
 and pernicious dogmas into the Church; while
 none would be allowed to treat them with contempt, through
 fear of being charged with violating propriety, or to confute
------File: 232.png---------------------------------------------------------
+.bn 232.png
+.pn +1
 them with indignation, from the dread of being taxed with
 want of charity?
 
@@ -9772,7 +10001,8 @@ in which these religious have treated the truth. If they
 are incensed, not only against the letters, but still more
 against the maxims quoted in them, I shall grant it to be
 barely possible that their resentment proceeds from some
------File: 233.png---------------------------------------------------------
+.bn 233.png
+.pn +1
 zeal, though not of the most enlightened kind; and, in this
 case, the passages I have just cited from the fathers will
 serve to enlighten them. But if they are merely angry at
@@ -9815,7 +10045,8 @@ into public manners; the obstinate and violent hardihood
 with which you support them. And if they do not think it
 full time to rise against such disorders, their blindness is as
 much to be pitied as yours, fathers; and you and they have
------File: 234.png---------------------------------------------------------
+.bn 234.png
+.pn +1
 equal reason to dread that saying of St. Augustine, founded
 on the words of Jesus Christ, in the Gospel: “Woe to the
 blind leaders! woe to the blind followers!—<i>Væ cæcis ducentibus!
@@ -9855,7 +10086,8 @@ St. Hilary: “If we advance things that are false, let our
 statements be branded with infamy; but if we can show that
 they are public and notorious, it is no breach of apostolic
 modesty or liberty to expose them.”
------File: 235.png---------------------------------------------------------
+.bn 235.png
+.pn +1
 
 It is not enough, however, to tell nothing but the truth;
 we must not always tell everything that is true; we should
@@ -9898,7 +10130,8 @@ regicide authors?” (Dissertation sur la foi due au Pascal, &c., p. 14.)]
 The third rule, fathers, is: That when there is need to employ
 a little raillery, the spirit of piety will take care to employ
 it against error only, and not against things holy;
------File: 236.png---------------------------------------------------------
+.bn 236.png
+.pn +1
 whereas the spirit of buffoonery, impiety, and heresy, mocks
 at all that is most sacred. I have already vindicated myself
 on that score; and indeed there is no great danger of falling
@@ -9939,7 +10172,8 @@ gallant effusions, or in their more serious pieces, do you think
 that the parcel of ridiculous stories, which your father Binet
 has introduced into his “Consolation to the Sick,” are
 exactly suitable to his professed object, which is that of imparting
------File: 237.png---------------------------------------------------------
+.bn 237.png
+.pn +1
 Christian consolation to those whom God has chastened
 with affliction? Will you pretend to say, that the
 profane, foppish style in which your Father Le Moine has
@@ -9982,7 +10216,8 @@ of the blushes of Delphina to the ardor of those spirits, which
 is neither more nor less than the ardor of divine love, and
 this simile of the fan applied to their mysterious wings,
 strike you as being very Christian-like in the lips which consecrate
------File: 238.png---------------------------------------------------------
+.bn 238.png
+.pn +1
 the adorable body of Jesus Christ? I am quite
 aware that he speaks only in the character of a gallant, and
 to raise a smile; but this is precisely what is called laughing
@@ -10023,7 +10258,8 @@ religion, in the face of the inviolable law which binds us always
 to speak of them with reverence. But you have sinned
 no less flagrantly against the rule which obliges us to speak
 of them with truth and discretion. What is more common
------File: 239.png---------------------------------------------------------
+.bn 239.png
+.pn +1
 in your writings than calumny? Can those of Father Brisacier[236]
 be called sincere? Does he speak with truth when
 he says, that “the nuns of Port-Royal do not pray to the
@@ -10064,7 +10300,8 @@ your breasts, which are only known to God. It is strange,
 fathers, but true, nevertheless, that we can convict you even
 of this offence; that while your hatred to your opponents
 has carried you so far as to wish their eternal perdition, your
------File: 240.png---------------------------------------------------------
+.bn 240.png
+.pn +1
 infatuation has driven you to discover the abominable wish;
 that so far from cherishing in secret desires for their salvation,
 you have offered up prayers in public for their damnation;
@@ -10098,7 +10335,8 @@ Pintereau, and Le Moine done, in the replies they have put
 forth, except loading with reproaches those who had given
 them salutary admonitions? Have you suppressed the books
 in which these nefarious maxims are taught?[238] Have you
------File: 241.png---------------------------------------------------------
+.bn 241.png
+.pn +1
 restrained the authors of these maxims? Have you become
 more circumspect in regard to them? On the contrary, is
 it not the fact, that since that time Escobar has been repeatedly
@@ -10134,7 +10372,8 @@ laugh at them or weep over them, as one is in the humor.
 says. The Scripture tells us that “there is a time to laugh,
 and a time to weep;” and my hope is, fathers, that I may
 not find verified, in your case, these words in the Proverbs:
------File: 242.png---------------------------------------------------------
+.bn 242.png
+.pn +1
 “If a wise man contendeth with a foolish man, whether he
 rage or laugh, there is no rest.”[239]
 
@@ -10161,7 +10400,8 @@ species of warfare.[240]
 
 [Footnote 240: This postscript, which appeared in the earlier editions, is dropt in
 that of Nicole and others.]
------File: 243.png---------------------------------------------------------
+.bn 243.png
+.pn +1
 
 
 
@@ -10198,7 +10438,8 @@ myself, to convict you of impostures more genuine
 than the imaginary ones which you have ascribed to me.
 Indeed, fathers, the suspicion of foul play is much more sure
 to rest on you than on me. It is not very likely, standing
------File: 244.png---------------------------------------------------------
+.bn 244.png
+.pn +1
 as I do, alone, without power or any human defence, against
 such a large body, and having no support but truth and integrity,
 that I would expose myself to lose everything, by
@@ -10248,7 +10489,8 @@ mind of the Church, there are two precepts touching alms—<i>1st</i>,
 “To give out of our superfluity in the case of the ordinary
 necessities of the poor;” and <i>2dly</i>, “To give even out
 of our necessaries, according to our circumstances, in cases
------File: 245.png---------------------------------------------------------
+.bn 245.png
+.pn +1
 of extreme necessity.” Thus says Cajetan, after St. Thomas;
 so that, to get at the mind of Vasquez on this subject, we
 must consider the rules he lays down, both in regard to necessaries
@@ -10288,7 +10530,8 @@ What say you to this, fathers? Is it likely to happen frequently
 in Paris, where there are so many charitable people,
 that I <i>must know</i> that there is not another soul but myself
 to relieve the poor wretch who begs an alms from me? And
------File: 246.png---------------------------------------------------------
+.bn 246.png
+.pn +1
 yet, according to Vasquez, if I have not ascertained that fact,
 I may send him away with nothing. The second condition
 is, That the poor man be reduced to such straits “that he is
@@ -10328,7 +10571,8 @@ what do you mean to say, fathers? If it be true that the
 rich have almost never superfluity, is it not obvious that they
 will almost never be bound to give alms out of their superfluity?
 I might have put it into the form of a syllogism for
------File: 247.png---------------------------------------------------------
+.bn 247.png
+.pn +1
 you, if Diana, who has such an esteem for Vasquez that he
 calls him “the phœnix of genius,” had not drawn the same
 conclusion from the same premises; for, after quoting the
@@ -10366,7 +10610,8 @@ your power again to say that I drew from the principle of
 Vasquez a conclusion which he had disavowed, I beg to inform
 you that he has drawn it himself: “According to the
 opinion of Cajetan, and according to <sc>MY OWN</sc>—<i>et secundum</i>
------File: 248.png---------------------------------------------------------
+.bn 248.png
+.pn +1
 <i>nostram</i>—(he says, chap, i., no. 27), one is hardly obliged to
 give alms at all, when one is only obliged to give them out
 of one’s superfluity.” Confess then, fathers, on the testimony
@@ -10406,7 +10651,8 @@ wants of the poor; because, according to the holy
 fathers, the rich are merely the dispensers of their superfluity,
 which they are to give to whom they please, among
 those who have need of it.” And accordingly, unlike Diana,
------File: 249.png---------------------------------------------------------
+.bn 249.png
+.pn +1
 who says of the maxims of Vasquez, that they will be “very
 convenient and agreeable to the rich and their confessors,”
 the cardinal, who has no such consolation to afford them, declares
@@ -10446,7 +10692,8 @@ that avarice which refuses to part with it, the saints have labored
 to induce the rich to give up their superfluity, and to
 convince them that they would have abundance of it, provided
 they measured it, not by the standard of covetousness,
------File: 250.png---------------------------------------------------------
+.bn 250.png
+.pn +1
 which knows no bounds to its cravings, but by that of
 piety, which is ingenious in retrenchments, so as to have
 wherewith to diffuse itself in the exercise of charity. “We
@@ -10486,7 +10733,8 @@ in itself as highly as the spiritual gift or office considered
 in itself. Who would ever take it into his head to
 compare things so utterly disproportionate and heterogeneous?
 And yet, provided this metaphysical comparison be not
------File: 251.png---------------------------------------------------------
+.bn 251.png
+.pn +1
 drawn, any one may, according to your authors, give away
 a benefice, and receive money in return for it, without being
 guilty of simony.
@@ -10525,7 +10773,8 @@ very passage which I quoted in my letter: “There is properly
 and truly no simony,” says he, “unless when a temporal
 good is taken as the price of a spiritual; but when taken
 merely as the motive for giving the spiritual, or as an acknowledgment
------File: 252.png---------------------------------------------------------
+.bn 252.png
+.pn +1
 for having received it, this is not simony, at
 least in point of conscience.” And again: “The same thing
 may be said although the temporal should be regarded as the
@@ -10564,7 +10813,8 @@ by these vain artifices; for I shall put some questions to you
 so simple, that they will not admit of coming under your <i>distinguo</i>.[243]
 
 [Footnote 243: See before, page 73.]
------File: 253.png---------------------------------------------------------
+.bn 253.png
+.pn +1
 
 I ask you, then, without speaking of “positive rights,” of
 “outward presumptions,” or “external tribunals”—I ask if,
@@ -10604,7 +10854,8 @@ was <i>simony</i>. Now, these are two very different questions.
 Sin, according to your maxims, obliges only to confession—simony
 obliges to restitution; and there are people to whom
 these may appear two very different things. You have found
------File: 254.png---------------------------------------------------------
+.bn 254.png
+.pn +1
 expedients for making confession a very easy affair; but you
 have not fallen upon ways and means to make restitution an
 agreeable one. Allow me to add, that the case which Tanner
@@ -10642,7 +10893,8 @@ nor sin in it. “It is a probable opinion,” he says, “taught
 by many Catholic doctors, that there is neither any simony
 <i>nor any sin</i> in giving money, or any other temporal thing, for
 a benefice, either in the way of acknowledgment, or as a motive,
------File: 255.png---------------------------------------------------------
+.bn 255.png
+.pn +1
 without which it would not be given, provided it is not
 given as a price equal to the benefice.” This is all that could
 possibly be desired. In fact, according to these maxims of
@@ -10683,7 +10935,8 @@ provincial, and I shall give you mine for your election as
 prior? By no means.” Or take another: “It is not simony
 to get possession of a benefice by promising a sum of money,
 when one has no intention of actually paying the money;
------File: 256.png---------------------------------------------------------
+.bn 256.png
+.pn +1
 for this is merely making a show of simony, and is as far
 from being real simony as counterfeit gold is from the genuine.”
 By this quirk of conscience, he has contrived means,
@@ -10722,7 +10975,8 @@ will be the impostor; so it must now of necessity follow,
 that one or other of the Society will be convicted of imposture.
 Only think what a scandal! You cannot, it would
 appear, foresee the consequences of things. You seem to
------File: 257.png---------------------------------------------------------
+.bn 257.png
+.pn +1
 imagine that you have nothing more to do than to cast aspersions
 upon people, without considering on whom they
 may recoil. Why did you not acquaint Escobar with your
@@ -10761,7 +11015,8 @@ acquired, to provide an honorable maintenance for their families”—commenting
 on which in my letters, I exclaim: “Indeed,
 father! by what strange kind of charity would you
 have the ill-gotten property of a bankrupt appropriated to
------File: 258.png---------------------------------------------------------
+.bn 258.png
+.pn +1
 his own use, instead of that of his lawful creditors?”[245] This
 is the question which must be answered; but it is one that
 involves you in a sad dilemma, and from which you in vain
@@ -10804,7 +11059,8 @@ the solid and the convincing triumphs over the
 empty and the false; but violence and verity can make no impression
 on each other. Let none suppose, however, that
 the two are, therefore, equal to each other; for there is this
------File: 259.png---------------------------------------------------------
+.bn 259.png
+.pn +1
 vast difference between them, that violence has only a certain
 course to run, limited by the appointment of Heaven, which
 overrules its effects to the glory of the truth which it assails;
@@ -10823,7 +11079,8 @@ which were never brought against him, of not adverting to cases
 which neither he nor his authors dreamt of—in short, like all Jesuitical
 answers, it is anything and everything but a refutation of the charges
 which have been substantiated against them.]
------File: 260.png---------------------------------------------------------
+.bn 260.png
+.pn +1
 
 
 
@@ -10868,7 +11125,8 @@ next letter, to confute a statement at once so unfounded and
 so injurious to the Church. It is of some importance to show
 that she is innocent of your corruptions, in order that heretics
 may be prevented from taking advantage of your aberrations,
------File: 261.png---------------------------------------------------------
+.bn 261.png
+.pn +1
 to draw conclusions tending to her dishonor.[248] And thus,
 viewing on the one hand your pernicious maxims, and on the
 other the canons of the Church which have uniformly condemned
@@ -10910,7 +11168,8 @@ grant that, on looking for these words, at number 92, to
 which you refer, they will be found there. But what will
 people say, fathers, when they discover, at the same time,
 that he is treating in that place of a question totally different
------File: 262.png---------------------------------------------------------
+.bn 262.png
+.pn +1
 from that of which we are speaking, and that the opinion of
 which he there says that he condemns the practice, has no
 connection with that now in dispute, but is quite distinct?
@@ -10949,7 +11208,8 @@ whether this saving clause, which is quite enough to satisfy
 your consciences, will be a very satisfactory answer to the
 just complaint of those “honorable persons,” when they
 shall discover that you have hoodwinked them in this style.
------File: 263.png---------------------------------------------------------
+.bn 263.png
+.pn +1
 
 Take care, then, fathers, to prevent them by all means
 from seeing my letters; for this is the only method now
@@ -10990,7 +11250,8 @@ maxim? Would you say that adultery and incest ought not
 to be <i>easily permitted</i> in practice? Must we not, on the contrary,
 conclude, that as Lessius says no more than that the
 practice ought not to be easily permitted, his opinion is, that
------File: 264.png---------------------------------------------------------
+.bn 264.png
+.pn +1
 it may be permitted sometimes, though rarely? And, as if
 he had been anxious to apprize everybody when it might be
 permitted, and to relieve those who have received affronts
@@ -11023,7 +11284,8 @@ offended party might have converted him into a practical
 illustration of the doctrine of Lessius. And very likely, fathers,
 this might have been the result had he been educated
 in your school, and learnt from Escobar that the man who
------File: 265.png---------------------------------------------------------
+.bn 265.png
+.pn +1
 has received a buffet is held to be disgraced until he has
 taken the life of him who insulted him. But there is ground
 to believe, that the very different instructions which he received
@@ -11070,7 +11332,8 @@ with ridicule, and the invention of which is a secret of your
 policy, which it may now be worth while to explain. The
 knowledge of it, besides being necessary to the right understanding
 of your 15th, 16th, 17th, and 18th charges, is well
------File: 266.png---------------------------------------------------------
+.bn 266.png
+.pn +1
 calculated, in general, to open up, by little and little, the
 principles of that mysterious policy.
 
@@ -11109,7 +11372,8 @@ number of murders which might ensue, and which might
 injure the State, if all slanderers were to be killed, <i>and also
 because one might be punished in a court of justice for having
 killed another for that matter</i>.” Such is the style in which
------File: 267.png---------------------------------------------------------
+.bn 267.png
+.pn +1
 your opinions begin to develop themselves, under the shelter
 of this distinction, in virtue of which, without doing any
 sensible injury to society, you only ruin religion. In acting
@@ -11147,7 +11411,8 @@ he says: “I cannot see how it can be that an action which
 seems allowable in speculation should not be so likewise in
 practice; because what may be done in practice depends on
 what is found to be lawful in speculation, and the things
------File: 268.png---------------------------------------------------------
+.bn 268.png
+.pn +1
 differ from each other only as cause and effect. Speculation
 is that which determines to action. <sc>Whence it follows
 that opinions probable in speculation may be followed
@@ -11188,7 +11453,8 @@ which you have asserted, twice over, in your fifteenth Imposture,
 for slander.” Before making this statement, fathers, you
 should have taken care to prevent it from coming under my
 notice, seeing that it is so easy for me to answer it. For,
------File: 269.png---------------------------------------------------------
+.bn 269.png
+.pn +1
 not to mention that your fathers Reginald, Filiutius, and others,
 have permitted it in speculation, as I have already shown,
 and that the principle laid down by Escobar leads us safely
@@ -11231,7 +11497,8 @@ you of this than the very opinions of your fathers which you
 quote, since they do not condemn murder in speculation, but
 only in practice, and that, too, “on account of the injury
 that might thereby accrue to the State?” And here I would
------File: 270.png---------------------------------------------------------
+.bn 270.png
+.pn +1
 just beg to ask, whether the whole matter in dispute between
 us is not simply and solely to ascertain if you have or have
 not subverted the law of God which condemns murder? The
@@ -11269,7 +11536,8 @@ design in that is to fulfil the law of God, which obliges us to
 consult the interests of society. That may be true, though
 it is far from being certain, as you might do the same thing
 purely from fear of the civil magistrate. With your permission,
------File: 271.png---------------------------------------------------------
+.bn 271.png
+.pn +1
 then, we shall scrutinize the real secret of this movement.
 
 Is it not certain, fathers, that if you had really any regard
@@ -11308,7 +11576,8 @@ less the enemy of vice than man. Had you said that to kill
 for slander was allowable according to men, but not according
 to God, that might have been something more endurable;
 but when you maintain, that what is too criminal to be tolerated
------File: 272.png---------------------------------------------------------
+.bn 272.png
+.pn +1
 among men, may yet be innocent and right in the eyes
 of that Being who is righteousness itself, what is this but to
 declare before the whole world, by a subversion of principle
@@ -11348,7 +11617,8 @@ harmless enough when viewed apart, but which, when taken
 in connection with that pernicious dogma, become positively
 horrible. An example of this, which demands an answer,
 may be found in the 11th page of your “Impostures,” where
------File: 273.png---------------------------------------------------------
+.bn 273.png
+.pn +1
 you allege that “several famous theologians have decided
 that it is lawful to kill a man for a box on the ear.” Now,
 it is certain, that if that had been said by a person who did
@@ -11388,7 +11658,8 @@ say, then, that Vasquez condemns murders; but what say
 you on the other side of the question, my reverend fathers?
 Why, “that the probability of one sentiment does not hinder
 the probability of the opposite sentiment; and that it is warrantable
------File: 274.png---------------------------------------------------------
+.bn 274.png
+.pn +1
 to follow the less probable and less safe opinion,
 giving up the more probable and more safe one.” What follows
 from all this taken in connection, but that we have perfect
@@ -11420,7 +11691,8 @@ each of them has condemned. It is this very variety, then,
 that confounds you. Uniformity, even in evil, would be
 better than this. Nothing is more contrary to the orders
 of St. Ignatius[252] and the first generals of your Society, than
------File: 275.png---------------------------------------------------------
+.bn 275.png
+.pn +1
 this confused medley of all sorts of opinions, good and bad.
 I may, perhaps, enter on this topic at some future period;
 and it will astonish many to see how far you have degenerated
@@ -11474,7 +11746,8 @@ and of the decalogue to say that we may kill for such a
 matter. The most profligate of men will acknowledge as
 much. And yet you have allowed Lessius, Escobar, and others,
 to decide, in the face of these well-known truths, and in
------File: 276.png---------------------------------------------------------
+.bn 276.png
+.pn +1
 spite of all the laws of God against manslaughter, that it is
 quite allowable to kill a man for a buffet!
 
@@ -11505,7 +11778,8 @@ ingredienti duabus viis!</i>—Woe be to the double hearts, and
 the sinner that goeth two ways!”[254]
 
 [Footnote 254: Ecclesiasticus (Apocrypha), ii. 12.]
------File: 277.png---------------------------------------------------------
+.bn 277.png
+.pn +1
 
 
 
@@ -11550,7 +11824,8 @@ says that father, “the law supposes that nature has taught
 us that truth already.” Accordingly, this commandment
 has been binding on men in all ages. The Gospel has confirmed
 the requirement of the law; and the decalogue only
------File: 278.png---------------------------------------------------------
+.bn 278.png
+.pn +1
 renewed the command which man had received from God
 before the law, in the person of Noah, from whom all men
 are descended. On that renovation of the world, God said
@@ -11589,7 +11864,8 @@ kings or commonwealths as the depositaries of that power—a
 truth which St. Paul teaches us, when, speaking of the
 right which sovereigns possess over the lives of their subjects,
 he deduces it from Heaven in these words: “He beareth
------File: 279.png---------------------------------------------------------
+.bn 279.png
+.pn +1
 not the sword in vain; for he is the minister of God to
 execute wrath upon him that doeth evil.” (Rom. xiii. 4.)
 But as it is God who has put this power into their hands, so
@@ -11628,7 +11904,8 @@ these two conditions are not united, sin is contracted; whether
 it be by taking away life with his authority, but without
 his justice; or by taking it away with justice, but without
 his authority. From this indispensable connection it follows,
------File: 280.png---------------------------------------------------------
+.bn 280.png
+.pn +1
 according to St. Augustine, “that he who, without proper
 authority, kills a criminal, becomes a criminal himself, chiefly
 for this reason, that he usurps an authority which God has
@@ -11670,7 +11947,8 @@ what all laws, human as well as divine, have forbidden; and
 who gave Lessius a right to use the following language?
 “The book of Exodus forbids the killing of thieves by day,
 when they do not employ arms in their defence; and in a
------File: 281.png---------------------------------------------------------
+.bn 281.png
+.pn +1
 court of justice, punishment is inflicted on those who kill
 under these circumstances. <i>In conscience</i>, however, no blame
 can be attached to this practice, when a person is not sure
@@ -11710,7 +11988,8 @@ censure of the doctrine of your friend Father Lamy, as “<i>a
 murderous defence</i>—<i>defensio occisiva</i>.” I maintain that the
 laws recognize such a wide difference between murder and
 self-defence, that in those very cases in which the latter is
------File: 282.png---------------------------------------------------------
+.bn 282.png
+.pn +1
 sanctioned, they have made a provision against murder, when
 the person is in no danger of his life. Read the words, fathers,
 as they run in the same passage of Cujas: “It is lawful
@@ -11748,7 +12027,8 @@ was perfectly correct when I said that Molina estimates the
 value of the thief’s life at six ducats; and, if you will not
 take it upon my word, we shall refer it to an umpire, to
 whom you cannot object. The person whom I fix upon for
------File: 283.png---------------------------------------------------------
+.bn 283.png
+.pn +1
 this office is your own Father Reginald, who, in his explanation
 of the same passage of Molina (l. 28, n. 68), declares
 that “Molina there <sc>DETERMINES</sc> the sum for which it is not
@@ -11788,7 +12068,8 @@ his crown; and in so doing, according to him, the person
 does not transgress “the moderation of a just defence.” To
 show you that I am in the right, just allow him to explain
 himself: “One does not exceed the moderation of a just defence,”
------File: 284.png---------------------------------------------------------
+.bn 284.png
+.pn +1
 says he, “when he takes up arms against a thief who
 has none, or employs weapons which give him the advantage
 over his assailant. I know there are some who are of a contrary
@@ -11831,7 +12112,8 @@ and let it be granted that Layman follows in this the example
 of Navarre, a circumstance on which you lay so much
 stress, is it not shameful that he should consent to such an
 opinion as that, to preserve a false honor, it is lawful in conscience
------File: 285.png---------------------------------------------------------
+.bn 285.png
+.pn +1
 to accept of a challenge, in the face of the edicts of
 all Christian states, and of all the canons of the Church,
 while, in support of these diabolical maxims, you can produce
@@ -11871,7 +12153,8 @@ crown your doctrine with a maxim which includes all the rest,
 allow me to quote the following from Father Hereau, who
 has taken it from Lessius: “The right of self-defence extends
 to whatever is necessary to protect ourselves from all injury.”
------File: 286.png---------------------------------------------------------
+.bn 286.png
+.pn +1
 
 What strange consequences does this inhuman principle
 involve! and how imperative is the obligation laid upon all,
@@ -11917,7 +12200,8 @@ par le P. Jouvenci</i>.”]
 From all that I have hitherto said, it is easy to judge what
 a contrariety there is betwixt the licentiousness of your opinions
 and the severity of civil laws, not even excepting those
------File: 287.png---------------------------------------------------------
+.bn 287.png
+.pn +1
 of heathens. How much more apparent must the contrast
 be with ecclesiastical laws, which must be incomparably more
 holy than any other, since it is the Church alone that knows
@@ -11959,7 +12243,8 @@ outrages that can possibly be perpetrated against God.
 In proof of this I shall quote some examples, not from the
 idea that all the severities to which I refer ought to be kept
 up (for I am aware that the Church may alter the arrangement
------File: 288.png---------------------------------------------------------
+.bn 288.png
+.pn +1
 of such exterior discipline), but to demonstrate her immutable
 spirit upon this subject. The penances which she
 ordains for murder may differ according to the diversity of
@@ -11999,7 +12284,8 @@ kill in vindication of honor, for a buffet, for an affront, or for
 a slander. I defy you to show one of them that permits the
 killing of witnesses, judges, or magistrates, whatever injustice
 we may apprehend from them. The spirit of the church is
------File: 289.png---------------------------------------------------------
+.bn 289.png
+.pn +1
 diametrically opposite to these seditious maxims, opening the
 door to insurrections to which the mob is naturally prone
 enough already. She has invariably taught her children that
@@ -12038,7 +12324,8 @@ state with those of the Church, and thus prevent the external
 practice of justice from clashing with the sentiments which
 all Christians are bound to cherish in their hearts? It is
 easy to see how this, which forms the commencement of a
------File: 290.png---------------------------------------------------------
+.bn 290.png
+.pn +1
 civil process, must stagger you; its subsequent procedure
 absolutely overwhelms you.
 
@@ -12076,7 +12363,8 @@ their guilty souls, and binds them the more to this just because
 they are guilty; so that they are not delivered up to
 execution till after they have been afforded the means of providing
 for their consciences.[265] All this is quite fair and innocent;
------File: 291.png---------------------------------------------------------
+.bn 291.png
+.pn +1
 and yet, such is the abhorrence of the Church to
 blood, that she judges those to be incapable of ministering at
 her altars who have borne any share in passing or executing
@@ -12119,7 +12407,8 @@ enemies of the Gospel? You must be ranged either on the
 one side or on the other; for there is no medium here. “He
 that is not with Jesus Christ is against him.” Into these two
 classes all mankind are divided. There are, according to
------File: 292.png---------------------------------------------------------
+.bn 292.png
+.pn +1
 St. Augustine, two peoples and two worlds, scattered abroad
 over the earth. There is the world of the children of God,
 who form one body, of which Jesus Christ is the king and
@@ -12158,7 +12447,8 @@ the maxims of the devil. Let us hear, therefore, the language
 of your school. I put this question to your doctors:
 When a person has given me a blow on the cheek, ought I
 rather to submit to the injury than kill the offender? or may I
------File: 293.png---------------------------------------------------------
+.bn 293.png
+.pn +1
 not kill the man in order to escape the affront? Kill him by
 all means—it is quite lawful! exclaim, in one breath, Lessius,
 Molina, Escobar, Reginald, Filiutius, Baldelle, and other Jesuits.
@@ -12196,7 +12486,8 @@ by a spontaneous condemnation of these inhuman dogmas,
 the melancholy consequences which may result from them,
 and for which you will be responsible. And to impress your
 minds with a deeper horror at homicide, remember that the
------File: 294.png---------------------------------------------------------
+.bn 294.png
+.pn +1
 first crime of fallen man was a murder, committed on the
 person of the first holy man; that the greatest crime was a
 murder, perpetrated on the person of the King of saints;
@@ -12228,7 +12519,8 @@ it was, to say the very least, <i>a probable buffet</i>. This gets me
 off with a safe conscience.
 
 [Footnote 266: See Letter xiii., p. 264.]
------File: 295.png---------------------------------------------------------
+.bn 295.png
+.pn +1
 
 
 
@@ -12274,7 +12566,8 @@ coming into collision with their opinion of your honesty, their
 minds hang in a state of suspense between the evidence of
 truth which they cannot gainsay, and the demands of charity
 which they would not violate. It follows, that since their
------File: 296.png---------------------------------------------------------
+.bn 296.png
+.pn +1
 high esteem for you is the only thing that prevents them
 from discrediting your calumnies, if we can succeed in convincing
 them that you have quite a different idea of calumny
@@ -12312,7 +12605,8 @@ venial sin to calumniate and forge false accusations to ruin
 the credit of those who speak evil of us?”[268] So settled is
 this point among you, that if any one dare to oppose it, you
 treat him as a blockhead and a hare-brained idiot. Such
------File: 297.png---------------------------------------------------------
+.bn 297.png
+.pn +1
 was the way in which you treated Father Quiroga, the German
 Capuchin, when he was so unfortunate as to impugn
 the doctrine. The poor man was instantly attacked by
@@ -12349,7 +12643,8 @@ are few of your opinions which you have been at more pains
 to establish than the present, as indeed there were few of
 them of which you stood more in need. For this reason,
 doubtless, you have authenticated it so well, that the casuists
------File: 298.png---------------------------------------------------------
+.bn 298.png
+.pn +1
 appeal to it as an indubitable principle. “There can be no
 doubt,” says Caramuel, “that it is a probable opinion that
 we contract no mortal sin by calumniating another, in order
@@ -12393,7 +12688,8 @@ prevail upon the empress to abolish the practice of it entirely.”
 We have no reason, therefore, to be surprised at the
 bad effects of this doctrine; on the contrary, the wonder
 would be, if it had failed to produce them. Self-love is always
------File: 299.png---------------------------------------------------------
+.bn 299.png
+.pn +1
 ready enough to whisper in our ear, when we are attacked,
 that we suffer wrongfully; and more particularly in
 your case, fathers, whom vanity has blinded so egregiously
@@ -12432,7 +12728,8 @@ any credit) to dry up the stream of that charity, he had the
 assurance to say, “that he knew, from good authority, that
 certain persons had diverted that money from its proper use,
 to employ it against the Church and the State;” a calumny
------File: 300.png---------------------------------------------------------
+.bn 300.png
+.pn +1
 which obliged the curate of the parish, who is a doctor of
 the Sorbonne, to mount the pulpit the very next day, in
 order to give it the lie direct. To the same source must be
@@ -12471,7 +12768,8 @@ You know, fathers, that, in the year 1649, M.
 Puys translated into French an excellent book, written by
 another Capuchin friar, “On the duty which Christians owe
 to their own parishes, against those that would lead them
------File: 301.png---------------------------------------------------------
+.bn 301.png
+.pn +1
 away from them,” without using a single invective, or pointing
 to any monk or any order of monks in particular. Your
 fathers, however, were pleased to put the cap on their own
@@ -12502,7 +12800,8 @@ against the fathers of the Society of Jesus; that he had spoken
 in general of those who alienated the faithful from their
 parishes, without meaning by that to attack the Society;
 and that so far from having such an intention, the Society
------File: 302.png---------------------------------------------------------
+.bn 302.png
+.pn +1
 was the object of his esteem and affection.” By virtue of
 these words alone, without either retractation or absolution, M.
 Puys recovered, all at once, from his apostasy, his scandals,
@@ -12552,7 +12851,8 @@ men only by the sentiments they entertain towards your Society?
 Had you no apprehension of making yourselves
 pass, by your own acknowledgment, as a band of swindlers
 and slanderers? What, fathers! must the same individual,
------File: 303.png---------------------------------------------------------
+.bn 303.png
+.pn +1
 without undergoing any personal transformation, but simply
 according as you judge him to have honored or assailed your
 community, be “pious” or “impious,” “irreproachable” or
@@ -12590,7 +12890,8 @@ conformity with your fixed maxim and your ordinary practice:
 to such latitude does your privilege of telling lies extend!
 Allow me to give you an example of this, which I
 select on purpose: it will give me an opportunity of replying,
------File: 304.png---------------------------------------------------------
+.bn 304.png
+.pn +1
 at the same time, to your ninth Imposture: for, in truth,
 they only deserve to be refuted in passing.
 
@@ -12632,7 +12933,8 @@ the place referred to?
 Truly, fathers, if this be the means of securing your reputation,
 so long as you remain unanswered, it is also, unfortunately,
 the means of destroying it forever, so soon as an answer
------File: 305.png---------------------------------------------------------
+.bn 305.png
+.pn +1
 makes its appearance. For so certain is it that you told
 a lie at the period before mentioned, that you make no scruple
 of acknowledging, in your apologies of the present day,
@@ -12670,7 +12972,8 @@ is in a certain book, and that it is not; that it is a good
 maxim, and that it is a bad one; your sole object is to white-wash
 some one or other of your fraternity; judging in the
 matter, not according to the truth, which never changes, but
------File: 306.png---------------------------------------------------------
+.bn 306.png
+.pn +1
 according to your own interest, which is varying every hour.
 Can I say more than this? You perceive that it amounts to
 a demonstration; but it is far from being a singular instance;
@@ -12708,7 +13011,8 @@ Bauny, “if you who find so much fault with this sentiment,
 wait, when a penitent lies at your feet, till his guardian angel
 find security for his rights in the inheritance of heaven; if
 you wait till God the Father, swear by himself that David
------File: 307.png---------------------------------------------------------
+.bn 307.png
+.pn +1
 told a lie, when he said, by the Holy Ghost, that ‘all men
 are liars,’ fallible and perfidious; if you wait till the penitent
 be no longer a liar, no longer frail and changeable, no longer
@@ -12750,7 +13054,8 @@ Paris, to induce the belief that the work on Frequent Communion,
 which had been approved by so many bishops and
 doctors, but which, to say the truth, was rather against you,
 had been concocted through secret intelligence with the ministers
------File: 308.png---------------------------------------------------------
+.bn 308.png
+.pn +1
 of Charenton.[275] At other times, you attribute to your
 adversaries writings full of impiety, such as the <i>Circular
 Letter of the Jansenists</i>, the absurd style of which renders
@@ -12793,7 +13098,8 @@ however, has found out the secret of it; and it is a Capuchin
 again, fathers. You are unlucky in Capuchins, as times now
 go; and I foresee that you may be equally so some other
 time in Benedictines. The name of this Capuchin is Father
------File: 309.png---------------------------------------------------------
+.bn 309.png
+.pn +1
 Valerien, of the house of the Counts of Magnis. You shall
 hear, by this brief narrative, how he answered your calumnies.
 He had happily succeeded in converting Prince Ernest,
@@ -12832,7 +13138,8 @@ mistake, as shown in a note by Nicole.]
 
 Truly, fathers, never were your reverences more roughly
 handled, and never was a poor man more completely vindicated.
------File: 310.png---------------------------------------------------------
+.bn 310.png
+.pn +1
 Since you have made no reply to such a peremptory
 challenge, it must be concluded that you are unable to discover
 the slightest shadow of criminality against him. You
@@ -12870,7 +13177,8 @@ with great patience, those from which they cannot vindicate
 themselves, and conceal, under a counterfeit virtue, their real
 impotency. My object, therefore, in provoking their modesty,
 by this sharp retort, is to let the plainest people understand,
------File: 311.png---------------------------------------------------------
+.bn 311.png
+.pn +1
 that if my enemies hold their peace, their forbearance must
 be ascribed, not to the meekness of their natures, but to the
 power of a guilty conscience.” He concludes with the following
@@ -12910,7 +13218,8 @@ the bribe; that benefices are conferred for the purpose of
 disseminating heresies against the faith; that pensioners are
 kept in the houses of the most eminent churchmen, and in
 the courts of sovereigns; that I also am a pensioner of Port-Royal;
------File: 312.png---------------------------------------------------------
+.bn 312.png
+.pn +1
 and that, before writing my letters, I had composed
 <i>romances</i>”—I, who never read one in my life, and who do
 not know so much as the names of those which your apologist
@@ -12948,14 +13257,16 @@ how important was it to show you up to the world as you
 really are! In this letter I have commenced the exhibition;
 but it will require some time to complete it. Published it
 shall be, fathers, and all your policy will be inadequate to
------File: 313.png---------------------------------------------------------
+.bn 313.png
+.pn +1
 save you from the disgrace; for the efforts which you may
 make to avert the blow, will only serve to convince the most
 obtuse observers that you were terrified out of your wits,
 and that, your consciences anticipating the charges I had to
 bring against you, you have put every oar in the water to
 prevent the discovery.
------File: 314.png---------------------------------------------------------
+.bn 314.png
+.pn +1
 
 
 
@@ -12997,7 +13308,8 @@ lies in my hands,” what reason have you to interpret this to
 mean, that he would take that money without restoring it,
 and not that he merely advanced it with the purpose of replacing
 it? And how extremely imprudent was it for you to
------File: 315.png---------------------------------------------------------
+.bn 315.png
+.pn +1
 furnish a refutation of your own lie, by printing the other
 letters of the Bishop of Ypres, which clearly show that, in
 point of fact, it was merely <i>advanced</i> money, which he was
@@ -13040,7 +13352,8 @@ Enough, however, for such paltry falsities. These are but
 the first raw attempts of your novices, and not the master-strokes
 of your “grand professed.”[279] To these do I now
 come, fathers; I come to a calumny which is certainly one
------File: 316.png---------------------------------------------------------
+.bn 316.png
+.pn +1
 of the basest that ever issued from the spirit of your Society.
 I refer to the insufferable audacity with which you have imputed
 to holy nuns, and to their directors, the charge of
@@ -13082,7 +13395,8 @@ with his assistance, fathers, to make you feel this; and if he
 vouchsafe to sustain me in the design he has led me to form,
 of employing in his service all the resources I have received
 from him, I shall speak to you in such a strain as will, perhaps,
------File: 317.png---------------------------------------------------------
+.bn 317.png
+.pn +1
 give you reason to regret that you have <i>not</i> had to do
 with a man of Port-Royal. And to convince you of this,
 fathers, I must tell you that, while those whom you have
@@ -13124,7 +13438,8 @@ taken the name of the Daughters of the Holy Sacrament?
 called their church the Church of the Holy Sacrament?
 
 [Footnote 281: Pp. 96, 4.]
------File: 318.png---------------------------------------------------------
+.bn 318.png
+.pn +1
 How should they have requested and obtained from
 Rome the confirmation of that institution, and the right of
 saying every Thursday the office of the holy sacrament, in
@@ -13162,7 +13477,8 @@ most canonical and sacred expressions by the wicked subtilties
 of your modern equivocations? Who ever thought of
 using any other terms than those in question, especially in
 simple discourses of devotion, where no controversies are
------File: 319.png---------------------------------------------------------
+.bn 319.png
+.pn +1
 handled? And yet the love and the reverence in which
 they hold this sacred mystery, have induced them to give it
 such a prominence in all their writings, that I defy you, fathers,
@@ -13189,7 +13505,8 @@ that “the Holy of Holies is present in the sanctuary, and
 that there he ought to be adored;”[284] that “Jesus Christ
 dwells in the sinners who communicate, by the real and veritable
 presence of his body in their stomach, although not by
------File: 320.png---------------------------------------------------------
+.bn 320.png
+.pn +1
 the presence of his Spirit in their hearts;”[285] that “the dead
 ashes of the bodies of the saints derive their principal dignity
 from that seed of life which they retain from the touch of
@@ -13221,7 +13538,8 @@ his humanity, which is present in a particular place;”[293] that
 “we receive the body of Jesus Christ upon the tongue,
 which is sanctified by its divine touch;”[294] “that it enters
 into the mouth of the priest;”[295] that “although Jesus Christ
------File: 321.png---------------------------------------------------------
+.bn 321.png
+.pn +1
 has made himself accessible in the holy sacrament, by an act
 of his love and graciousness, he preserves, nevertheless, in
 that ordinance, his inaccessibility, as an inseparable condition
@@ -13308,7 +13626,8 @@ and you will there find the words you desiderate, even
 more formally stated than you have done yourselves. “Is
 there any bread in the host, or any wine in the chalice?
 No: for all the substance of the bread and the wine
------File: 322.png---------------------------------------------------------
+.bn 322.png
+.pn +1
 is taken away, to give place to that of the body and
 blood of Jesus Christ, the which substance alone remains
 therein, covered by the qualities and species of bread and
@@ -13335,7 +13654,8 @@ in a state of separation from the Church on the point of this
 mystery, only on account of the adoration which Catholics
 render to the eucharist.”[300] Get all the passages which I have
 extracted from the books of Port-Royal subscribed at Geneva,
------File: 323.png---------------------------------------------------------
+.bn 323.png
+.pn +1
 and not the isolated passages merely, but the entire treatises
 regarding this mystery, such as the Book of Frequent Communion,
 the Explication of the Ceremonies of the Mass, the
@@ -13393,7 +13713,8 @@ into the same crimes, and who have no prospect of amendment;
 and that such persons ought to be excluded, for some
 time, from the altar, to purify themselves by sincere penitence,
 that they may approach it afterwards with benefit?”
------File: 324.png---------------------------------------------------------
+.bn 324.png
+.pn +1
 Suffer no one to talk in this strain, fathers, or you will find
 that fewer people will come to your confessionals. Father
 Brisacier says, that “were you to adopt this course, you
@@ -13434,7 +13755,8 @@ proof the first.
 “M. de St. Cyran,” says Father Meynier, “consoling one
 of his friends upon the death of his mother (tom. i., let. 14),
 says that the most acceptable sacrifice that can be offered up
------File: 325.png---------------------------------------------------------
+.bn 325.png
+.pn +1
 to God on such occasions, is that of patience; therefore he
 is a Calvinist.” This is marvellously shrewd reasoning, fathers;
 and I doubt if anybody will be able to discover the
@@ -13471,7 +13793,8 @@ with us at the hour of dissolution; to the end that he
 may strengthen us for the struggle, sanctifying, by his presence,
 the last sacrifice which we make to God of our life and
 our body?” Pretend to take no notice of all this, fathers, and
------File: 326.png---------------------------------------------------------
+.bn 326.png
+.pn +1
 persist in maintaining, as you do in page 39, that he refused
 to take the communion on his death-bed, and that he did not
 believe in the sacrifice of the mass. Nothing can be too gross
@@ -13513,7 +13836,8 @@ in the eucharist.
 Do not expect me to answer this, fathers. If you have
 got no common sense, I am not able to furnish you with it.
 All who possess any share of it will enjoy a hearty laugh at
------File: 327.png---------------------------------------------------------
+.bn 327.png
+.pn +1
 your expense. Nor will they treat with greater respect your
 third proof, which rests upon the following words, taken from
 the Book of Frequent Communion: “In the eucharist God
@@ -13554,7 +13878,8 @@ And if you require to be told the reason of this diversity,
 I may inform you, fathers, that the cause of God’s ordaining
 these different modes of receiving the same food, is the difference
 that exists betwixt the state of Christians in this life
------File: 328.png---------------------------------------------------------
+.bn 328.png
+.pn +1
 and that of the blessed in heaven. The state of the Christian,
 as Cardinal Perron observes after the fathers, holds a
 middle place between the state of the blessed and the state
@@ -13593,7 +13918,8 @@ eternal enjoyment of Jesus Christ. From hence you must
 see that there are several points of difference between the
 manner in which he communicates himself to Christians and
 to the blessed; and that, amongst others, he is in this world
------File: 329.png---------------------------------------------------------
+.bn 329.png
+.pn +1
 received by the mouth, and not so in heaven; but that they
 all depend solely on the distinction between our state of faith
 and their state of immediate vision. And this is precisely,
@@ -13632,7 +13958,8 @@ served your turn very well, before the appearance of my
 fifteenth letter; but as matters now stand, fathers, the trick
 has become too stale for us. We go our way and consult
 the council, and discover only that you are falsifiers. Such
------File: 330.png---------------------------------------------------------
+.bn 330.png
+.pn +1
 terms as <i>local presence</i>, <i>locally</i>, and <i>locality</i>, never existed in
 the passages to which you refer; and let me tell you further,
 they are not to be found in any other canon of that council,
@@ -13672,7 +13999,8 @@ a little more modesty, they might obtain a hearing. For
 although this phrase, <i>local presence</i>, has been rejected, as
 you have seen, by St. Thomas, on the ground that the body
 of Jesus Christ is not in the eucharist, in the ordinary extension
------File: 331.png---------------------------------------------------------
+.bn 331.png
+.pn +1
 of bodies in their places, the expression has, nevertheless,
 been adopted by some modern controversial writers, who
 understand it simply to mean that the body of Jesus Christ
@@ -13717,7 +14045,8 @@ What surprises me, therefore, is not the little scrupulosity
 with which you load them with crimes of the foulest and
 falsest description, but the little prudence you display, by fixing
 on them charges so destitute of plausibility. You dispose
------File: 332.png---------------------------------------------------------
+.bn 332.png
+.pn +1
 of sins, it is true, at your pleasure; but do you mean to dispose
 of men’s beliefs too? Verily, fathers, if the suspicion
 of Calvinism must needs fall either on them or on you, you
@@ -13757,7 +14086,8 @@ Even this, however, does not satisfy them. Nothing less
 will satiate their rage than to accuse their opponents of having
 renounced Jesus Christ and their baptism. This is no
 air-built fable, like those of your invention; it is a fact, and
------File: 333.png---------------------------------------------------------
+.bn 333.png
+.pn +1
 denotes a delirious frenzy, which marks the fatal consummation
 of your calumnies. Such a notorious falsehood as this
 would not have been in hands worthy to support it, had it
@@ -13800,7 +14130,8 @@ it was alleged a conspiracy was formed by the Jansenists against the
 Christian religion, the curious reader may consult the work of M. Arnauld
 entitled <i>Morale Pratique des Jesuites</i>, vol. viii., where there is a
 detailed account of the whole proceedings. (Nicole, iv. 283.)]
------File: 334.png---------------------------------------------------------
+.bn 334.png
+.pn +1
 in 1621, and discovered to Brother Filleau the design there
 concerted of overturning the Christian religion. Name these
 six persons who you allege to have formed that conspiracy.
@@ -13831,7 +14162,8 @@ in page 95, that “they have imbibed all the detestable principles
 of that work;” which is, according to your account,
 “a lesson in Deism.” Your falsehoods regarding that book
 have already been triumphantly refuted, in the defence of
------File: 335.png---------------------------------------------------------
+.bn 335.png
+.pn +1
 the censure of the late Archbishop of Paris against Father
 Brisacier. That publication you are incapable of answering;
 and yet you do not scruple to abuse it in a more shameful
@@ -13864,7 +14196,8 @@ to appear till one day together with him, hears you, and answers
 for them. At the moment I am now writing, that
 holy and terrible voice is heard which confounds nature and
 consoles the Church.[310] And I fear, fathers, that those who
------File: 336.png---------------------------------------------------------
+.bn 336.png
+.pn +1
 now harden their hearts, and refuse with obstinacy to hear
 him, while he speaks in the character of God, will one day
 be compelled to hear him with terror, when he speaks to
@@ -13894,7 +14227,8 @@ crimes, such as calumny, chiefly that it may enjoy the greater
 freedom in perpetrating them itself. There can be no doubt,
 fathers, that you would be capable of producing abundance
 of mischief in this way, had God not permitted you to furnish
------File: 337.png---------------------------------------------------------
+.bn 337.png
+.pn +1
 with your own hands the means of preventing the evil,
 and of rendering your slanders perfectly innocuous; for, to
 deprive you of all credibility, it was quite enough to publish
@@ -13967,7 +14301,8 @@ than by your resorting to falsehood. If the Truth were on
 your side, she would fight for you—she would conquer for
 you; and whatever enemies you might have to encounter,
 “the Truth would set you free” from them, according to her
------File: 338.png---------------------------------------------------------
+.bn 338.png
+.pn +1
 promise. But you have had recourse to falsehood, for no
 other design than to support the errors with which you flatter
 the sinful children of this world, and to bolster up the
@@ -14010,7 +14345,8 @@ false rules of your casuists will not screen them from his indignation;
 and he will impress on the minds of the latter the
 just dread of losing their souls by listening and yielding
 credit to your slanders, as you lose yours by hatching these
------File: 339.png---------------------------------------------------------
+.bn 339.png
+.pn +1
 slanders and disseminating them through the world. Let
 no man be deceived; God is not mocked; none may violate
 with impunity the commandment which he has given us in
@@ -14052,7 +14388,8 @@ reported to be the author of your Apologies, disclaims
 them, and is annoyed at their having been ascribed to him.
 He has good reason; and I was wrong to have suspected
 him of any such thing; for, in spite of the assurances which
------File: 340.png---------------------------------------------------------
+.bn 340.png
+.pn +1
 I received, I ought to have considered that he was a man
 of too much good sense to believe your accusations, and of
 too much honor to publish them if he did not believe them.
@@ -14071,7 +14408,8 @@ profit by my example.[316]
 author’s elegant excuse for the length of his letter; the latter for the
 adroitness with which he turns his apology for an undesigned mistake
 into a stroke at the disingenuousness of his opponents.]
------File: 341.png---------------------------------------------------------
+.bn 341.png
+.pn +1
 
 
 
@@ -14118,7 +14456,8 @@ the suspicion of being actually guilty. So long as the insult
 was confined to your associates I despised it, as I did a thousand
 others with which they interlarded their productions.
 To these my fifteenth letter was a sufficient reply. But you
------File: 342.png---------------------------------------------------------
+.bn 342.png
+.pn +1
 now repeat the charge with a different air: you make it the
 main point of your vindication. It is, in fact, almost the
 only thing in the shape of argument that you employ. You
@@ -14159,7 +14498,8 @@ preceded your publication.
 of the Capuchin, mentioned at p. 310.]
 
 You must fall on some other way, then, to prove me a
------File: 343.png---------------------------------------------------------
+.bn 343.png
+.pn +1
 heretic, otherwise the whole world will be convinced that it
 is beyond your power to make good your accusation. Prove
 from my writings that I do not receive the constitution.[320]
@@ -14206,7 +14546,8 @@ of converting grace as it pleased, was a heresy of the semi-Pelagians.
 V. That to assert that Jesus Christ died for all men, without exception,
 is an error of the semi-Pelagians. For a fuller explication of the controversy,
 the reader must be referred to the Introduction.]
------File: 344.png---------------------------------------------------------
+.bn 344.png
+.pn +1
 
 How are you to get at a person who talks in this way, father?
 On what quarter will you assail me, since neither my
@@ -14249,7 +14590,8 @@ among its recluses; and yet, in the act of unmasking the presumed
 duplicity of the Jesuits, the sublime writer did not scruple to imitate
 it.” (Hist. de la Comp. de Jésus, par J. Cretineau-Joly, tom. iv.
 p. 54. Paris, 1845.)]
------File: 345.png---------------------------------------------------------
+.bn 345.png
+.pn +1
 
 Since, then, you can do nothing against me, what good
 purpose can it serve to publish so many calumnies, as you
@@ -14291,7 +14633,8 @@ errors of individual writers, and who “cannot excuse themselves
 by saying that they did not observe the errors in any
 publication, for they ought to have observed them.” So say
 your ordinances, and so say the letters of your generals,
------File: 346.png---------------------------------------------------------
+.bn 346.png
+.pn +1
 Aquaviva, Vitelleschi, &c. We have good reason, therefore,
 for charging upon you the errors of your associates, when we
 find they are sanctioned by your superiors and the divines of
@@ -14331,7 +14674,8 @@ immediate reply would be, “These people hold that the commandments
 of God are impracticable to men—that grace is
 irresistible—that we have not free will to do either good or
 evil—that Jesus Christ did not die for all men, but only for
------File: 347.png---------------------------------------------------------
+.bn 347.png
+.pn +1
 the elect; in short, they maintain the five propositions condemned
 by the pope.” Do you not give it out to all that
 this is the ground on which you persecute your opponents?
@@ -14367,7 +14711,8 @@ Grace,”[325] reject the same articles as both heretical and strange
 doctrines. In the preface to that work they say that these
 propositions are “heretical and Lutheran, forged and fabricated
 at pleasure, and are neither to be found in Jansenius, nor
------File: 348.png---------------------------------------------------------
+.bn 348.png
+.pn +1
 in his defenders.” They complain of being charged with such
 sentiments, and address you in the words of St. Prosper, the
 first disciple of St. Augustine their master, to whom the
@@ -14419,7 +14764,8 @@ you, “their heart belies their hand; they are Catholics outwardly,
 but inwardly they are heretics.”[326]
 
 [Footnote 326: Rĕponse a quelques demandes, pp. 27, 47.]
------File: 349.png---------------------------------------------------------
+.bn 349.png
+.pn +1
 
 This, father, struck me as very strange reasoning; for
 where is the person of whom as much may not be said at
@@ -14458,7 +14804,8 @@ you were speaking the truth; because to say that such
 and such expressions are to be found, word for word, in an
 author, is a matter in which there can be no mistake. I do
 not wonder, therefore, that so many people, both in France
------File: 350.png---------------------------------------------------------
+.bn 350.png
+.pn +1
 and at Rome, should have been led to believe, on the authority
 of a phrase so little liable to suspicion, that Jansenius has
 actually taught these obnoxious tenets. And for the same
@@ -14498,7 +14845,8 @@ as little as it affects the Church. For although I am no
 doctor, any more than you, father, I can easily see, nevertheless,
 that it has no connection with the faith. The only
 question is, to ascertain what is the sense of Jansenius. Did
------File: 351.png---------------------------------------------------------
+.bn 351.png
+.pn +1
 they believe that his doctrine corresponded to the proper
 and literal sense of these propositions, they would condemn
 it; and they refuse to do so, because they are convinced it is
@@ -14538,7 +14886,8 @@ heretical. But as your dispute turns upon the meaning of
 that author, and they believe that, according to his doctrine,
 <i>grace may be resisted</i>, whatever heresy you may be pleased
 to attribute to him, you have no ground to brand them as
------File: 352.png---------------------------------------------------------
+.bn 352.png
+.pn +1
 heretics, seeing they condemn the sense which you put on
 Jansenius, and you dare not condemn the sense which they
 put on him. If, therefore, you mean to convict them, show
@@ -14570,7 +14919,8 @@ propositions would not have merited condemnation, had they
 borne that sense, judged that they ought to be censured, because,
 as they contended, this was very far from being their
 proper and natural sense. The pope, accordingly, condemned
------File: 353.png---------------------------------------------------------
+.bn 353.png
+.pn +1
 them; and all parties have acquiesced in his judgment.
 
 [Footnote 327: These judgments, or <i>Vota Consultorum</i>, as they were called, have
@@ -14621,7 +14971,8 @@ to matters of <i>fact</i>. And the reason is, that our salvation is
 attached to the faith which has been revealed to us, and
 which is preserved in the Church by tradition, but that it
 has no dependence on facts which have not been revealed
------File: 354.png---------------------------------------------------------
+.bn 354.png
+.pn +1
 by God. Thus we are bound to believe that the commandments
 of God are not impracticable; but we are under no
 obligation to know what Jansenius has said upon that subject.
@@ -14657,7 +15008,8 @@ there is none who may not chance to be deceived in such
 matters.” I may add that, to prove this point, the Archbishop
 of Toulouse[330] has deduced the following rule from the
 letters of two great popes—St. Leon and Pelagius II.: “That
------File: 355.png---------------------------------------------------------
+.bn 355.png
+.pn +1
 the proper object of councils is the faith; and whatsoever is
 determined by them, independently of the faith, may be reviewed
 and examined anew: whereas nothing ought to be re-examined
@@ -14701,7 +15053,8 @@ involve the understanding of the sense of a writer, showing
 you father against father, pope against pope, and council
 against council, to lead you from these to other examples of
 opposition, similar in their nature, but somewhat more disproportioned
------File: 356.png---------------------------------------------------------
+.bn 356.png
+.pn +1
 in respect of the parties concerned. For, in the
 instances I am now to adduce, you will see councils and popes
 ranged on one side, and Jesuits on the other; and yet you
@@ -14746,7 +15099,8 @@ iv. 202.)]
 It is evident, therefore, that as the Church, in condemning
 a book, assumes that the error which she condemns is contained
 in that book, it is a point of faith to hold that error as
------File: 357.png---------------------------------------------------------
+.bn 357.png
+.pn +1
 condemned; but it is not a point of faith to hold that the
 book, in fact, contains the error which the Church supposes
 it does. Enough has been said, I think, to prove this; I
@@ -14781,7 +15135,8 @@ asserting that the sixth council was mistaken with regard to
 the fact now under consideration; and that, misconceiving
 the sense of the Letters of Honorius, it has placed this pope
 most unjustly in the ranks of heretics.” Observe, then, I
------File: 358.png---------------------------------------------------------
+.bn 358.png
+.pn +1
 pray you, father, that a man is not heretical for saying that
 Pope Honorius was not a heretic; even though a great many
 popes and councils, after examining his writings, should have
@@ -14824,7 +15179,8 @@ reply, that two general councils and two popes confirmed the
 condemnation of the Letters of Honorius. But what argument
 do you found upon the language of that brief, in which
 all that the pope says is, that “he has condemned the doctrine
------File: 359.png---------------------------------------------------------
+.bn 359.png
+.pn +1
 of Jansenius in these five propositions?” What does
 that add to the constitution, or what more can you infer from
 it? Nothing certainly, except that as the sixth council condemned
@@ -14863,7 +15219,8 @@ it may</i>. What! if Jansenius should happen to maintain that
 “<i>we are capable of resisting internal grace</i>,” and that “<i>it is
 false to say that Jesus Christ died for the elect only</i>,” would
 this doctrine be condemned just because it is his doctrine?
------File: 360.png---------------------------------------------------------
+.bn 360.png
+.pn +1
 Will the proposition, that “<i>man has a freedom of will to do
 good or evil</i>,” be true when found in the pope’s constitution,
 and false when discovered in Jansenius? By what fatality
@@ -14902,7 +15259,8 @@ description, leaving you to fill up the blank afterwards with
 whatsoever you pleased, as you would be at liberty to interpret
 according to your own taste the unexplained sense of
 Jansenius. Let it be explained, then, beforehand, otherwise
------File: 361.png---------------------------------------------------------
+.bn 361.png
+.pn +1
 we shall have, I fear, another version of your proximate power,
 without any sense at all—<i>abstrahendo ab omni sensu</i>.[334] This
 mode of proceeding, you must be aware, does not take with
@@ -14943,7 +15301,8 @@ it in a clandestine way, under the name of the doctrine of
 Jansenius. You were resolved, accordingly, to get Jansenius
 condemned without explanation; and, to gain your purpose,
 gave out that his doctrine was not that of efficacious grace,
------File: 362.png---------------------------------------------------------
+.bn 362.png
+.pn +1
 so that every one might think he was at liberty to condemn
 the one without denying the other. Hence your efforts, in
 the present day, to impress this idea upon the minds of such
@@ -14983,7 +15342,8 @@ of the Church. Now this doctrine is manifestly
 that of efficacious grace” (and it will be easy for you to prove
 that); “therefore the doctrine of efficacious grace is condemned
 even by the confession of his defenders.”
------File: 363.png---------------------------------------------------------
+.bn 363.png
+.pn +1
 
 Behold your reason for proposing to sign the condemnation
 of a doctrine without giving an explanation of it! Behold
@@ -15025,7 +15385,8 @@ five condemned errors.
 
 The world must, therefore, be apprized of two facts: First,
 That, by your own confession, efficacious grace has not been
------File: 364.png---------------------------------------------------------
+.bn 364.png
+.pn +1
 condemned; and secondly, That nobody supports these errors.
 So that it may be known that those who may refuse
 to sign what you are so anxious to exact from them, refuse
@@ -15063,7 +15424,8 @@ procure them even for the purpose of combating miracles; I
 cannot have them even to defend myself. The printing-houses
 are perpetually haunted. In such circumstances, you
 yourself would not advise me to write you any more letters
------File: 365.png---------------------------------------------------------
+.bn 365.png
+.pn +1
 for it is really a sad annoyance to be obliged to have recourse
 to an Osnabruck impression.[337]
 
@@ -15080,7 +15442,8 @@ not permitted to publish in self-defence. At the same period, no Protestant
 books could be printed at Paris; they were generally sent to
 Geneva or the Low Countries for this purpose, or published furtively
 under fictitious names.]
------File: 366.png---------------------------------------------------------
+.bn 366.png
+.pn +1
 
 
 
@@ -15122,7 +15485,8 @@ This, however, you have never yet been pleased
 to do; but you have attempted to fortify your position by
 decrees,[338] which made nothing in your favor, as they gave no
 sort of explanation of the sense of Jansenius, said to have
------File: 367.png---------------------------------------------------------
+.bn 367.png
+.pn +1
 been condemned in the five propositions. This was not the
 way to terminate the dispute. Had you mutually agreed as
 to the genuine sense of Jansenius, and had the only difference
@@ -15165,7 +15529,8 @@ would have overwhelmed you with disgrace.
 
 You have, therefore, been forced to speak out your mind;
 and we find it expressed in your reply to that part of my letter
------File: 368.png---------------------------------------------------------
+.bn 368.png
+.pn +1
 in which I remarked, that “if Jansenius was capable of
 any other sense than that of efficacious grace, he had no defenders;
 but if his writings bore no other sense, he had no
@@ -15204,7 +15569,8 @@ popes and bishops meant to condemn, under the name of
 “the sense of Jansenius.” The whole Church was in the utmost
 perplexity about it, and not a soul would relieve us by
 an explanation. This, however, has now been done by you,
------File: 369.png---------------------------------------------------------
+.bn 369.png
+.pn +1
 father—you whom the whole of your party regard as the
 chief and prime mover of all their councils, and who are acquainted
 with the whole secret of this proceeding. You,
@@ -15244,7 +15610,8 @@ us; but that they are, moreover, as firm in maintaining,
 in opposition to Calvin, the power which the will has to resist
 even efficacious and victorious grace, as they are in contending
 against Molina for the power of this grace over the
------File: 370.png---------------------------------------------------------
+.bn 370.png
+.pn +1
 will, and fully as jealous for the one of these truths as they
 are for the other. They know too well that man, of his own
 nature, has always the power of sinning and of resisting
@@ -15282,7 +15649,8 @@ agreeable to it, and that in the case we now suppose nothing
 can be more agreeable than the possession of that <i>one good</i>,
 which comprises in itself all other good things. “<i>Quod
 enim</i> (says St. Augustine) <i>amplius nos delectat, secundum</i>
------File: 371.png---------------------------------------------------------
+.bn 371.png
+.pn +1
 <i>operemur necesse est</i>—Our actions are necessarily determined
 by that which affords us the greatest pleasure.”
 
@@ -15324,7 +15692,8 @@ of reasoning, we overthrow the equally profane sentiment of
 the school of Molina, who will not allow that it is by the
 strength of divine grace that we are enabled to co-operate
 with it in the work of our salvation, and who thereby comes
------File: 372.png---------------------------------------------------------
+.bn 372.png
+.pn +1
 into hostile collision with that principle of faith established
 by St. Paul, “That it is God who worketh in us both to will
 and to do.”
@@ -15362,7 +15731,8 @@ judge from a common maxim of their theology, which Alvarez,[343]
 one of the leading men among them, repeats so often
 in his book, and expresses in the following terms (disp. 72,
 n. 4): “When efficacious grace moves the free will, it infallibly
------File: 373.png---------------------------------------------------------
+.bn 373.png
+.pn +1
 consents; because the effect of grace is such, that, although
 the will has the power of withholding its consent, it
 nevertheless consents in effect.” He corroborates this by a
@@ -15409,7 +15779,8 @@ be contrary to those of your Society; and by this blunder,
 in your anxiety to ruin their principles, you have yourself
 completely confirmed them. So that, by a kind of prodigy,
 we now behold the advocates of efficacious grace vindicated
------File: 374.png---------------------------------------------------------
+.bn 374.png
+.pn +1
 by the advocates of Molina—an admirable instance of the
 wisdom of God in making all things concur to advance the
 glory of the truth.
@@ -15449,7 +15820,8 @@ do? It would be heretical to say that we have not the power
 of resisting efficacious grace; but would it be so to doubt
 that Jansenius held that doctrine? Is this a revealed truth?
 Is it an article of faith which must be believed, on pain of
------File: 375.png---------------------------------------------------------
+.bn 375.png
+.pn +1
 damnation? or is it not, in spite of you, a point of fact, on
 account of which it would be ridiculous to hold that there
 were heretics in the Church.
@@ -15486,7 +15858,8 @@ Church, so as to leave it in the power of free will to consent
 or not to consent; whereas, according to St. Augustine and
 the council, we have always the power of withholding our
 consent if we choose; and according to St. Prosper, God bestows
------File: 376.png---------------------------------------------------------
+.bn 376.png
+.pn +1
 even upon his elect the will to persevere, in such a
 way as not to deprive them of the power to will the contrary.”
 And, in one word, judge if he do not agree with the
@@ -15528,7 +15901,8 @@ rejoin that they condemn that error; and with this acknowledgment
 not the thing which they signify), you ought to rest satisfied.
 If they refuse to say that they condemn the sense of Jansenius,
 it is because they believe it to be that of St. Thomas,
------File: 377.png---------------------------------------------------------
+.bn 377.png
+.pn +1
 and thus this unhappy phrase has a very equivocal meaning
 betwixt you. In your mouth it signifies the sense of Calvin;
 in theirs the sense of St. Thomas. Your dissensions arise
@@ -15569,7 +15943,8 @@ never was the innocence of your opponents more discernible:
 never has efficacious grace been attacked with greater subtility,
 and never has it been more triumphantly established.
 You have made the most desperate efforts to convince people
------File: 378.png---------------------------------------------------------
+.bn 378.png
+.pn +1
 that your disputes involved points of faith; and never
 was it more apparent that the whole controversy turned upon
 a mere point of fact. In fine, you have moved heaven and
@@ -15607,7 +15982,8 @@ to do than to tell us that Father Lamy teaches this doctrine
 <i>in tome 5, disp. 36, n. 118, page 544, of the Douay edition</i>;
 and by this means everybody who wished to see it found it out,
 and nobody could doubt about it any longer. This appears
------File: 379.png---------------------------------------------------------
+.bn 379.png
+.pn +1
 to be a very easy and prompt way of putting an end to controversies
 of fact, when one has got the right side of the
 question.
@@ -15647,7 +16023,8 @@ they might belong: further, that upwards of sixty doctors,
 and a vast number of other persons of learning and piety, had
 read that book carefully over, without ever having encountered
 the proscribed propositions, and that they have found
------File: 380.png---------------------------------------------------------
+.bn 380.png
+.pn +1
 some of a quite opposite description: that those who had
 produced that impression on the mind of the pope, might be
 reasonably presumed to have abused the confidence he reposed
@@ -15691,7 +16068,8 @@ It is quite vain for you, father, to represent those who
 would act in the manner I have now supposed as deficient
 in proper subjection to the Holy See. The popes are very
 far from being disposed to treat Christians with that imperiousness
------File: 381.png---------------------------------------------------------
+.bn 381.png
+.pn +1
 which some would fain exercise under their name.
 “The Church,” says Pope St. Gregory,[346] “which has been
 trained in the school of humility, does not command with
@@ -15729,7 +16107,8 @@ minds, which, by being obliged to attend to so many things
 at once, apply themselves less closely to each in particular,
 are the more easily liable to be imposed upon in individual
 cases.”[348] Truly, father, I should suppose that the popes
------File: 382.png---------------------------------------------------------
+.bn 382.png
+.pn +1
 know better than you whether they may be deceived or not.
 They themselves tell us that popes, as well as the greatest
 princes, are more exposed to deception than individuals who
@@ -15773,7 +16152,8 @@ at unawares or deceived by false accounts.]
 [Footnote 348: Lib. i., in Dial.]
 
 [Footnote 349: De Consid. lib. ii., c. ult.]
------File: 383.png---------------------------------------------------------
+.bn 383.png
+.pn +1
 
 I imagine, father, that the proofs I have brought are beginning
 to convince you that the popes are liable to be surprised.
@@ -15813,7 +16193,8 @@ of Christians, and not to follow the passionate counsels of
 those who strive to involve them in trouble and perplexity.
 Following the advice of St. Peter and St. Paul, who in this
 followed the commandment of Jesus Christ, they avoid domination.
------File: 384.png---------------------------------------------------------
+.bn 384.png
+.pn +1
 The spirit which appears in their whole conduct is
 that of peace and truth.[350] In this spirit they ordinarily insert
 in their letters this clause, which is tacitly understood
@@ -15854,7 +16235,8 @@ must first determine its nature, to ascertain to which of those
 three principles it ought to be referred. If it relate to a supernatural
 truth, we must judge of it neither by the senses nor
 by reason, but by Scripture and the decisions of the Church.
------File: 385.png---------------------------------------------------------
+.bn 385.png
+.pn +1
 Should it concern an unrevealed truth, and something within
 the reach of natural reason, reason must be its proper judge.
 And if it embrace a point of fact, we must yield to the testimony
@@ -15895,7 +16277,8 @@ greater than all the stars; but as it is evident, from unquestionable
 demonstration, that this is false, it is not our duty,
 says that saint, obstinately to defend the literal sense of that
 passage; another meaning must be sought, consistent with
------File: 386.png---------------------------------------------------------
+.bn 386.png
+.pn +1
 the truth of the fact, such as the following, “That the phrase
 <i>great light</i>, as applied to the moon, denotes the greatness of
 that luminary merely as it appears in our eyes, and not the
@@ -15936,7 +16319,8 @@ had been transported out of France, and conveyed into the
 chapel of their monastery. It is not the less true, for all
 this, that the body of that saint always lay, and lies to this
 hour, in the celebrated abbey which bears his name, and
------File: 387.png---------------------------------------------------------
+.bn 387.png
+.pn +1
 within the walls of which you would find it no easy matter
 to obtain a cordial reception to this bull, although the pope
 has therein assured us that he has examined the affair “with
@@ -15976,7 +16360,8 @@ of souls, who might otherwise have perished in their infidelity.
 
 You see, then, father, what is the nature of matters of
 fact, and on what principles they are to be determined; from
------File: 388.png---------------------------------------------------------
+.bn 388.png
+.pn +1
 all which, to recur to our subject, it is easy to conclude, that
 if the five propositions are not in Jansenius, it is impossible
 that they can have been extracted from him; and that the
@@ -16015,7 +16400,8 @@ maintained these propositions, what great misfortune
 would accrue from some persons doubting of the fact, provided
 they detested the propositions, as they have publicly
 declared that they do? Is it not enough that they are condemned
------File: 389.png---------------------------------------------------------
+.bn 389.png
+.pn +1
 by everybody, without exception, and that, too, in
 the sense in which you have explained that you wish them
 to be condemned? Would they be more severely censured
@@ -16054,7 +16440,8 @@ ought to make a sacrifice of their reputation to calumny,
 especially in the matter of religion. They allow you, nevertheless,
 to say whatever you please; so that, had it not been
 for the opportunity which, by mere accident, you afforded
------File: 390.png---------------------------------------------------------
+.bn 390.png
+.pn +1
 me of taking their part, the scandalous impressions which
 you are circulating against them in all quarters would, in all
 probability, have gone forth without contradiction. Their
@@ -16071,7 +16458,8 @@ business to keep her in confusion, doubt not but that there
 shall always be found within her bosom children of peace,
 who will consider themselves bound to employ all their endeavors
 to preserve her tranquillity.
------File: 391.png---------------------------------------------------------
+.bn 391.png
+.pn +1
 
 
 
@@ -16111,7 +16499,8 @@ authority; with tenderness of spirit, zeal for truth, and
 a desire to ascertain and obey her dictates: filled with a salutary
 suspicion of themselves, distrusting their own infirmity,
 and regretting that it should be thus exposed to trial
------File: 392.png---------------------------------------------------------
+.bn 392.png
+.pn +1
 yet withal, sustained by a modest hope that their Lord will
 deign to instruct them by his illuminations, and sustain them
 by his power; and believing, that that peace of their Saviour,
@@ -16143,7 +16532,8 @@ in the Church, their reply was....
 
 
 THE END
------File: 393.png---------------------------------------------------------
+.bn 393.png
+.pn +1
 
 
 
@@ -16213,7 +16603,8 @@ By James Hamilton, D.D. 18mo. 30 cents.
 The Christian’s Great Interest.
 By the Rev. William Guthrie, with Introd. by Dr. Chalmers. 50 cts.
 */
------File: 394.png---------------------------------------------------------
+.bn 394.png
+.pn +1
 /*
 
 
@@ -16284,7 +16675,8 @@ century, such as Jeremy Taylor, Bates, Beveridge, Bishop
 Hall, Butler, Howe, Baxter, Leighton, and others. The volumes
 will be in neat 12mo form, large type, and uniformly bound in cloth.
 #/
------File: 395.png---------------------------------------------------------
+.bn 395.png
+.pn +1
 
 
 
@@ -16358,7 +16750,8 @@ New Editions, in cheaper form, of
 <sc>Fritz Harold; or, The Temptation.</sc>       ”                40  ”
 <sc>Ashton Cottage, a Tale.</sc>                 ”                40  ”
 */
------File: 396.png---------------------------------------------------------
+.bn 396.png
+.pn +1
 
 
 
@@ -16437,7 +16830,8 @@ Y. Observer.</i>
 8vo. $2 00.
 
 “A work of great learning and skill, pervaded with a truly Christian spirit.”—<i>Evangelist.</i>
------File: 397.png---------------------------------------------------------
+.bn 397.png
+.pn +1
 
 
 
@@ -16511,7 +16905,8 @@ almost have been expected in so multifarious an undertaking as the <i>Family
 Expositor</i>. Indeed for all the most valuable purposes of a Commentary on
 the New Testament, the Family Expositor can not fall too early into the hands
 of those intended for holy orders.”
------File: 398.png---------------------------------------------------------
+.bn 398.png
+.pn +1
 
 
 
@@ -16602,7 +16997,8 @@ Recorder.</i>
 The Martyr of Sumatra.
 
 A Memoir of Henry Lyman.
------File: 399.png---------------------------------------------------------
+.bn 399.png
+.pn +1
 
 /*
 <b>BICKERSTETH</b>, Rev. Edward.
@@ -16658,7 +17054,8 @@ A Memoir of Henry Lyman.
 
 <b>WORDS TO WIN SOULS.</b> 75 cents.
 */
------File: 400.png---------------------------------------------------------
+.bn 400.png
+.pn +1
 
 
 
@@ -16807,7 +17204,8 @@ THINK BEFORE YOU ACT. 25 cts.
 HYMNS FOR INFANT MINDS. 40 cts.
 VERY LITTLE TALES. 2 vols. 75 cts.
 */
------File: 401.png---------------------------------------------------------
+.bn 401.png
+.pn +1
 
 
 
@@ -16900,7 +17298,8 @@ This new Memoir of the Christian, the patriot, and philanthropist, is from the p
 of a gifted American lady, and will be read with intense interest by all classes
 of readers.
 #/
------File: 402.png---------------------------------------------------------
+.bn 402.png
+.pn +1
 
 
 The Autobiography and Reminiscences of the Rev.
@@ -16981,7 +17380,8 @@ published. The labors of Chalmers, Hill, Wardlaw, Campbell, Alexander, Hitchcock
 Miller, Birks, and many others, are here put under contribution.”—<i>Presbyterian
 of the West.</i>
 #/
------File: 403.png---------------------------------------------------------
+.bn 403.png
+.pn +1
 
 
 The Footsteps of St. Paul.
@@ -17065,7 +17465,8 @@ By the Rev. John Swete, D.D. 16mo. 60 cents.
 Family Expositions of John and Jude.
 
 By the Rev. Edward Bickersteth. 16mo. 60 cents.
------File: 404.png---------------------------------------------------------
+.bn 404.png
+.pn +1
 
 
 The Young Man’s Friend and Guide through Life to
