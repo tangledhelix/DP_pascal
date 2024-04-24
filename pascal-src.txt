@@ -5,205 +5,135 @@
 // Project ID : 61524e807a9ac
 
 .dt The provincial letters of Blaise Pascal | Project Gutenberg
+
 .bn 001.png
 .pn i
 
+.sp 4
 
+.h1
+<l>THE<l>||<xxl>PROVINCIAL LETTERS</xxl>||<l>OF</l>||<xl>BLAISE PASCAL.</xl>
 
-/*
-THE
+.sp 4
 
-PROVINCIAL LETTERS
-
-OF
-
-BLAISE PASCAL.
-
+.ce
 A NEW TRANSLATION
 
-WITH HISTORICAL INTRODUCTION AND NOTES,
+.ce
+<l>WITH HISTORICAL INTRODUCTION AND NOTES,</l>
 
+.ce
 BY
 
-THE REV. THOMAS M’CRIE.
+.ce
+<xl>THE REV. THOMAS M’CRIE.</xl>
 
-EDINBURGH.
+.ce
+<s>EDINBURGH.</s>
 
-If my letters are condemned at Rome, that which I condemn in them
-is condemned in heaven.—<sc>Pascal.</sc>
+.sp 4
 
-NEW YORK:
-ROBERT CARTER & BROTHERS
+.ll -4
+.in +4
+.ce
+If my letters are condemned at Rome, that which I condemn in them is condemned in heaven.—<sc>Pascal.</sc>
+.ll
+.in
+
+.sp 4
+
+.ce 3
+<xl>NEW YORK:</xl>
+<l>ROBERT CARTER & BROTHERS</l>
 No. 530 BROADWAY.
 
+.hr 25%
+
+.ce
 1856.
-*/
+
 .bn 002.png
-.pn +1
 .bn 003.png
-.pn +1
+.pn +2
 
+.sp 4
 
-
-
+.h2 id=toc
 CONTENTS.
 
+.ta h:66 rb:6
+ | PAGE
+#<sc>Preface</sc>,:Page_vii# | vii
 
-/*
-             PAGE
+#<sc>Historical Introduction</sc>,:Page_ix# | ix
 
-<sc>Preface</sc>,       vii
+<al=c>#LETTER I.:Page_63# | <span>
+Disputes in the Sorbonne, and the invention of proximate power—a term employed by the Jesuits to procure the censure of M. Arnauld, | 63
 
-<sc>Historical Introduction</sc>,        ix
+<al=c>#LETTER II.:Page_76# | <span>
+Of sufficient grace, which turns out to be not sufficient—Concert between the Jesuits and the Dominicans—A parable, | 76
 
+#Reply of “the Provincial” to the first two Letters,:Page_88# | 88
 
-LETTER I.
+<al=c>#LETTER III.:Page_90# | <span>
+Injustice, absurdity, and nullity of the censure on M. Arnauld—A personal heresy, | 90
 
-Disputes in the Sorbonne, and the invention of proximate power—a
-term employed by the Jesuits to procure the censure of M.
-Arnauld,        63
+<al=c>#LETTER IV.:Page_100# | <span>
+Actual grace and sins of ignorance—Father Bauny’s Summary of sins, | 100
 
+<al=c>#LETTER V.:Page_116# | <span>
+Design of the Jesuits in establishing a new system of morals—Two sorts of casuists among them—A great many lax and some severe ones—Reason of this difference—Explanation of the doctrine of probabilism—A multitude of modern and unknown authors substituted in the place of the holy fathers—Escobar, | 116
 
-LETTER II.
-
-Of sufficient grace, which turns out to be not sufficient—Concert
-between the Jesuits and the Dominicans—A parable,          76
-
-Reply of “the Provincial” to the first two Letters,          88
-
-
-LETTER III.
-
-Injustice, absurdity, and nullity of the censure on M. Arnauld—A
-personal heresy,        90
-
-
-LETTER IV.
-
-Actual grace and sins of ignorance—Father Bauny’s Summary of
-sins,         100
-
-
-LETTER V.
-
-Design of the Jesuits in establishing a new system of morals—Two
-sorts of casuists among them—A great many lax and some
-severe ones—Reason of this difference—Explanation of the doctrine
-of probabilism—A multitude of modern and unknown authors
-substituted in the place of the holy fathers—Escobar,          116
-*/
 .bn 004.png
 .pn +1
-/*
+<al=c>#LETTER VI.:Page_135# | <span>
+Various artifices of the Jesuits to elude the authority of the gospel, of councils, and of the popes—Some consequences resulting from their doctrine of probability—Their relaxations in favor of beneficiaries, of priests, of monks, and of domestics—Story of John d’Alba, | 135
 
+<al=c>#LETTER VII.:Page_152# | <span>
+Method of directing the intention adopted by the casuists—Permission to kill in defence of honor and property, extended even to priests and monks—Curious question raised as to whether Jesuits may be allowed to kill Jansenists, | 152
 
-LETTER VI.
+<al=c>#LETTER VIII.:Page_170# | <span>
+Corrupt maxims of the casuists relating to judges—Usurers—The Contract Mohatra—Bankrupts—Restitution—Divers ridiculous notions of these same casuists, | 170
 
-Various artifices of the Jesuits to elude the authority of the gospel,
-of councils, and of the popes—Some consequences resulting from
-their doctrine of probability—Their relaxations in favor of beneficiaries,
-of priests, of monks, and of domestics—Story of John
-d’Alba,          135
+<al=c>#LETTER IX.:Page_188# | <span>
+False worship of the Virgin introduced by the Jesuits—Devotion made easy—Their maxims on ambition, envy, gluttony, equivocation, mental reservations, female dress, gaming, and hearing mass, | 188
 
+<al=c>#LETTER X.:Page_206# | <span>
+Palliatives applied by the Jesuits to the sacrament of penance, in their maxims regarding confession, satisfaction, absolution, proximate occasions of sin, and love to God, | 206
 
-LETTER VII.
+<al=c>#LETTER XI.:Page_225# | <span>
+The Letters vindicated from the charge of profaneness—Ridicule a fair weapon, when employed against absurd opinions—Rules to be observed in the use of this weapon—Charitableness and discretion of the Provincial Letters—Specimens of genuine profaneness in the writings of Jesuits, | 225
 
-Method of directing the intention adopted by the casuists—Permission
-to kill in defence of honor and property, extended even to
-priests and monks—Curious question raised as to whether Jesuits
-may be allowed to kill Jansenists,          152
+<al=c>#LETTER XII.:Page_243# | <span>
+The quirks and chicaneries of the Jesuits on the subjects of alms-giving and simony, | 243
 
-
-LETTER VIII.
-
-Corrupt maxims of the casuists relating to judges—Usurers—The
-Contract Mohatra—Bankrupts—Restitution—Divers ridiculous
-notions of these same casuists,          170
-
-
-LETTER IX.
-
-False worship of the Virgin introduced by the Jesuits—Devotion
-made easy—Their maxims on ambition, envy, gluttony, equivocation,
-mental reservations, female dress, gaming, and hearing
-mass,          188
-
-
-LETTER X.
-
-Palliatives applied by the Jesuits to the sacrament of penance, in
-their maxims regarding confession, satisfaction, absolution, proximate
-occasions of sin, and love to God,          206
-
-
-LETTER XI.
-
-The Letters vindicated from the charge of profaneness—Ridicule a
-fair weapon, when employed against absurd opinions—Rules to
-be observed in the use of this weapon—Charitableness and discretion
-of the Provincial Letters—Specimens of genuine profaneness
-in the writings of Jesuits,          225
-
-
-LETTER XII.
-The quirks and chicaneries of the Jesuits on the subjects of alms-giving
-and simony,          243
-*/
 .bn 005.png
 .pn +1
-/*
+<al=c>#LETTER XIII.:Page_260# | <span>
+Fidelity of Pascal’s quotations—Speculative murder—Killing for slander—Fear of the consequences—The policy of Jesuitism, | 260
 
+<al=c>#LETTER XIV.:Page_277# | <span>
+On murder—The Scriptures on murder—Lessius, Molina, and Layman on murder—Christian and Jesuitical legislation contrasted, | 277
 
-LETTER XIII.
+<al=c>#LETTER XV.:Page_295# | <span>
+On calumny—M. Puys and Father Alby—An odd heresy—Barefaced denials—Flat contradictions and vague insinuations employed by the Jesuits—The Capuchin’s <i>Mentiris impudentissime</i>, | 295
 
-Fidelity of Pascal’s quotations—Speculative murder—Killing for
-slander—Fear of the consequences—The policy of Jesuitism,          260
+<al=c>#LETTER XVI.:Page_314# | <span>
+Calumnies against Port-Royal—Port-Royalists no heretics—M. de St. Cyran and M. Arnauld vindicated—Slanders against the nuns of Port-Royal—Miracle of the holy thorn—No impunity for slanderers—Excuse for a long letter, | 314
 
+<al=c>#LETTER XVII.:Page_341# | <span>
+The author of the Letters vindicated from the charge of heresy—The five propositions—The popes fallible in matters of fact—Persecution of the Jansenists—The grand object of the Jesuits, | 341
 
-LETTER XIV.
+<al=c>#LETTER XVIII.:Page_366# | <span>
+The sense of Jansenius not the sense of Calvin—Resistibility of grace—Jansenius no heretic--The popes may be surprised—Testimony of the senses—Condemnation of Galileo—Conclusion, | 366
 
-On murder—The Scriptures on murder—Lessius, Molina, and Layman
-on murder—Christian and Jesuitical legislation contrasted,           277
+<al=c>#LETTER XIX.:Page_391# | <span>
+Fragment of a nineteenth Provincial Letter, addressed to Père Annat, | 391
+.ta-
 
-
-LETTER XV.
-
-On calumny—M. Puys and Father Alby—An odd heresy—Barefaced
-denials—Flat contradictions and vague insinuations employed
-by the Jesuits—The Capuchin’s <i>Mentiris impudentissime</i>,           295
-
-
-LETTER XVI.
-
-Calumnies against Port-Royal—Port-Royalists no heretics—M. de
-St. Cyran and M. Arnauld vindicated—Slanders against the
-nuns of Port-Royal—Miracle of the holy thorn—No impunity
-for slanderers—Excuse for a long letter,           314
-
-
-LETTER XVII.
-
-The author of the Letters vindicated from the charge of heresy—The
-five propositions—The popes fallible in matters of fact—Persecution
-of the Jansenists—The grand object of the Jesuits,             341
-
-
-LETTER XVIII.
-
-The sense of Jansenius not the sense of Calvin—Resistibility of
-grace—Jansenius no heretic--The popes may be surprised—Testimony
-of the senses—Condemnation of Galileo—Conclusion,            366
-
-
-LETTER XIX.
-
-Fragment of a nineteenth Provincial Letter, addressed to Père
-Annat,           391
-*/
 .bn 006.png
-.pn +1
 .bn 007.png
-.pn +1
+.pn +2
 
 
 
@@ -7992,8 +7922,9 @@ taste. I could not stand this <i>disagreeable labor</i> much longer.” (Entreti
 de Cleandre et d’Eudoxe, p. 277.) We reserve our remarks on
 the pretended falsifications charged against Pascal, till we come to his
 own masterly defence of himself in the subsequent letters.]
------File: 187.png--------------------------------------------------------------File: 188.png---------------------------------------------------------
-
+.bn 187.png
+.bn 188.png
+.pn +2
 
 
 
