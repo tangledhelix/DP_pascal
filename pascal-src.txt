@@ -10,7 +10,6 @@
 .pn i
 
 .sp 4
-
 .h1
 <l>THE<l>||<xxl>PROVINCIAL LETTERS</xxl>||<l>OF</l>||<xl>BLAISE PASCAL.</xl>
 
@@ -57,8 +56,7 @@ No. 530 BROADWAY.
 .pn +2
 
 .sp 4
-
-.h2 id=toc
+.h2
 CONTENTS.
 
 .ta h:66 rb:6
@@ -135,11 +133,9 @@ Fragment of a nineteenth Provincial Letter, addressed to Père Annat, | 391
 .bn 007.png
 .pn +2
 
-
-
-
+.sp 4
+.h2
 THE TRANSLATOR’S PREFACE.
-
 
 The following translation of the Provincial Letters was undertaken
 several years ago, in compliance with the suggestion of a revered parent,
@@ -221,17 +217,9 @@ which this work has provoked from so many quarters against him.
 .bn 009.png
 .pn +1
 
-
-
-
-HISTORICAL INTRODUCTION
-
-TO
-
-THE PROVINCIAL LETTERS.
-
-BY THE TRANSLATOR.
-
+.sp 4
+.h2
+<xl>HISTORICAL INTRODUCTION</xl>||<s>TO</s>||<xl>THE PROVINCIAL LETTERS.</xl>||<l>BY THE TRANSLATOR.</l>
 
 The Church of Rome, notwithstanding her pretensions to
 infallibility, has been fully as prolific in theological controversy
@@ -2487,26 +2475,29 @@ for “the truth as it is in Jesus.”
 .bn 063.png
 .pn 63
 
+.pb
 
+.sp 4
+.ce
+<xxl>THE PROVINCIAL LETTERS.</xxl>
 
-
-THE PROVINCIAL LETTERS.
-
-
-
-
+.sp 4
+.h2 nobreak
 LETTER I.
 
-/#
+.fs 80%
+.in +3
+.ti -3
 DISPUTES IN THE SORBONNE, AND THE INVENTION OF PROXIMATE
 POWER—A TERM EMPLOYED BY THE JESUITS TO PROCURE THE
 CENSURE OF M. ARNAULD.
-#/
+.in
+.fs
 
+.sp 2
 
-/*
+.rj
 <sc>Paris</sc>, <i>January 23, 1656</i>.
-*/
 
 <sc>Sir</sc>,—We were entirely mistaken. It was only yesterday
 that I was undeceived. Until that time I had labored under
@@ -3105,17 +3096,19 @@ you of all that happens.—I am, &c.
 .bn 076.png
 .pn +1
 
-
-
-
+.sp 4
+.h2
 LETTER II.
 
+.fs 80%
+.ce
 OF SUFFICIENT GRACE.
+.fs
 
+.sp 2
 
-/*
+.rj
 <sc>Paris</sc>, <i>January 29, 1656</i>.
-*/
 
 <sc>Sir</sc>,—Just as I had sealed up my last letter, I received a
 visit from our old friend M. N——. Nothing could have
@@ -3619,13 +3612,11 @@ against M. Arnauld, and which is fully discussed in Letter iii.]
 .bn 088.png
 .pn +1
 
+.h2
+REPLY OF THE “PROVINCIAL” TO THE FIRST TWO LETTERS OF HIS FRIEND.
 
-REPLY OF THE “PROVINCIAL” TO THE FIRST
-TWO LETTERS OF HIS FRIEND.
-
-/*
+.rj
 <i>February 2, 1656.</i>
-*/
 
 <sc>Sir</sc>,—Your two letters have not been confined to me.
 Everybody has seen them, everybody understands them, and
@@ -3689,18 +3680,19 @@ I remain, &c.
 .bn 090.png
 .pn +1
 
-
-
-
+.sp 4
+.h2
 LETTER III.
 
-INJUSTICE, ABSURDITY, AND NULLITY OF THE CENSURE ON
-M. ARNAULD.
+.fs 80%
+.ce
+INJUSTICE, ABSURDITY, AND NULLITY OF THE CENSURE ON M. ARNAULD.
+.fs
 
+.sp 2
 
-/*
+.rj
 <sc>Paris</sc>, <i>February 9, 1656</i>.
-*/
 
 <sc>Sir</sc>,—I have just received your letter; and, at the same
 time, there was brought me a copy of the censure in manuscript.
@@ -4126,17 +4118,19 @@ been one under the initials A. A. (See Bayle’s Dict., art. <i>Ant. Arnauld</i>
 .bn 100.png
 .pn +1
 
-
-
-
+.sp 4
+.h2
 LETTER IV.
 
+.fs 80%
+.ce
 ON ACTUAL GRACE AND SINS OF IGNORANCE.
+.fs
 
+.sp 2
 
-/*
+.rj
 <sc>Paris</sc>, <i>February 25, 1656</i>.
-*/
 
 <sc>Sir</sc>,—Nothing can come up to the Jesuits. I have seen
 Jacobins, doctors, and all sorts of people in my day, but such
@@ -4791,24 +4785,26 @@ am, &c.
 .bn 116.png
 .pn +1
 
-
-
-
+.sp 4
+.h2
 LETTER V.
 
-/#
+.fs 80%
+.in +3
+.ti -3
 DESIGN OF THE JESUITS IN ESTABLISHING A NEW SYSTEM OF MORALS—TWO
 SORTS OF CASUISTS AMONG THEM, A GREAT MANY
 LAX, AND SOME SEVERE ONES—REASON OF THIS DIFFERENCE—EXPLANATION
 OF THE DOCTRINE OF PROBABILITY—A MULTITUDE
 OF MODERN AND UNKNOWN AUTHORS SUBSTITUTED IN THE PLACE
 OF THE HOLY FATHERS.
-#/
+.in
+.fs
 
+.sp 2
 
-/*
+.rj
 <sc>Paris</sc>, <i>March 20, 1656</i>.
-*/
 
 <sc>Sir</sc>,—According to my promise, I now send you the first
 outlines of the morals taught by those good fathers the Jesuits—“those
@@ -5664,23 +5660,25 @@ of what is forthcoming.—I am, &c.
 .bn 135.png
 .pn +1
 
-
-
-
+.sp 4
+.h2
 LETTER VI.
 
-/#
+.fs 80%
+.in +3
+.ti -3
 VARIOUS ARTIFICES OF THE JESUITS TO ELUDE THE AUTHORITY
 OF THE GOSPEL, OF COUNCILS, AND OF THE POPES—SOME CONSEQUENCES
 WHICH RESULT FROM THEIR DOCTRINE OF PROBABILITY—THEIR
 RELAXATION IN FAVOR OF BENEFICIARIES, PRIESTS,
 MONKS, AND DOMESTICS—STORY OF JOHN D’ALBA.
-#/
+.in
+.fs
 
+.sp 2
 
-/*
+.rj
 <sc>Paris</sc>, <i>April 10, 1656</i>.
-*/
 
 <sc>Sir</sc>,—I mentioned, at the close of my last letter, that my
 good friend the Jesuit had promised to show me how the
@@ -6407,25 +6405,27 @@ I am, &c.
 .bn 152.png
 .pn +1
 
-
-
-
+.sp 4
+.h2
 LETTER VII.[162]
 
-[Footnote 162: This Letter was revised by M. Nicole.]
-
-/#
+.fs 80%
+.in +3
+.ti -3
 METHOD OF DIRECTING THE INTENTION ADOPTED BY THE CASUISTS—PERMISSION
 TO KILL IN DEFENCE OF HONOR AND PROPERTY,
 EXTENDED EVEN TO PRIESTS AND MONKS—CURIOUS QUESTION
 RAISED BY CARAMUEL, AS TO WHETHER JESUITS MAY BE ALLOWED
 TO KILL JANSENISTS.
-#/
+.in
+.fs
 
+[Footnote 162: This Letter was revised by M. Nicole.]
 
-/*
+.sp 2
+
+.rj
 <sc>Paris</sc>, <i>April 25, 1656</i>.
-*/
 
 <sc>Sir</sc>,—Having succeeded in pacifying the good father, who
 had been rather disconcerted by the story of John d’Alba,
@@ -7171,23 +7171,25 @@ pp. 212–221.)]
 .bn 170.png
 .pn +1
 
-
-
-
+.sp 4
+.h2
 LETTER VIII.[173]
 
-[Footnote 173: This Letter also was revised by M. Nicole.]
-
-/#
+.fs 80%
+.in +3
+.ti -3
 CORRUPT MAXIMS OF THE CASUISTS RELATING TO JUDGES—USURERS—THE
 CONTRACT MOHATRA—BANKRUPTS—RESTITUTION—DIVERS
 RIDICULOUS NOTIONS OF THESE SAME CASUISTS.
-#/
+.in
+.fs
 
+[Footnote 173: This Letter also was revised by M. Nicole.]
 
-/*
+.sp 2
+
+.rj
 <sc>Paris</sc>, <i>May 28, 1656</i>.
-*/
 
 <sc>Sir</sc>,—You did not suppose that anybody would have the
 curiosity to know who we were; but it seems there are people
@@ -7926,21 +7928,24 @@ own masterly defence of himself in the subsequent letters.]
 .bn 188.png
 .pn +2
 
-
-
+.sp 4
+.h2
 LETTER IX.
 
-/#
+.fs 80%
+.in +3
+.ti -3
 FALSE WORSHIP OF THE VIRGIN INTRODUCED BY THE JESUITS—DEVOTION
 MADE EASY—THEIR MAXIMS ON AMBITION, ENVY,
 GLUTTONY, EQUIVOCATION, AND MENTAL RESERVATIONS—FEMALE
 DRESS—GAMING—HEARING MASS.
-#/
+.in
+.fs
 
+.sp 2
 
-/*
+.rj
 <sc>Paris</sc>, <i>July 3, 1656</i>.
-*/
 
 <sc>Sir</sc>,—I shall use as little ceremony with you as the
 worthy monk did with me, when I saw him last. The moment
@@ -8748,22 +8753,24 @@ Binet; both of them pieces well worth the seeing.
 .bn 206.png
 .pn +1
 
-
-
-
+.sp 4
+.h2
 LETTER X.
 
-/#
+.fs 80%
+.in +3
+.ti -3
 PALLIATIVES APPLIED BY THE JESUITS TO THE SACRAMENT OF
 PENANCE, IN THEIR MAXIMS REGARDING CONFESSION, SATISFACTION,
 ABSOLUTION, PROXIMATE OCCASIONS OF SIN, CONTRITION,
 AND THE LOVE OF GOD.
-#/
+.in
+.fs
 
+.sp 2
 
-/*
+.rj
 <sc>Paris</sc>, <i>August 2, 1656</i>.
-*/
 
 <sc>Sir</sc>,—I have not come yet to the policy of the Society,
 but shall first introduce you to one of its leading principles.
@@ -9592,27 +9599,30 @@ am, &c.
 .bn 225.png
 .pn +1
 
-
-
-
+.sp 4
+.h2
 LETTER XI.
 
+.ce
 TO THE REVEREND FATHERS, THE JESUITS.[228]
+
+.fs 80%
+.in +3
+.ti -3
+RIDICULE A FAIR WEAPON WHEN EMPLOYED AGAINST ABSURD OPINIONS—RULES
+TO BE OBSERVED IN THE USE OF THIS WEAPON—THE
+PROFANE BUFFOONERY OF FATHERS LE MOINE AND GARASSE.
+.in
+.fs
+
+.sp 2
 
 [Footnote 228: In this and the following letters, Pascal changes his style, from that
 of dialogue to that of direct address, and from that of the liveliest irony
 to that of serious invective and poignant satire.]
 
-/#
-RIDICULE A FAIR WEAPON WHEN EMPLOYED AGAINST ABSURD OPINIONS—RULES
-TO BE OBSERVED IN THE USE OF THIS WEAPON—THE
-PROFANE BUFFOONERY OF FATHERS LE MOINE AND GARASSE.
-#/
-
-
-/*
+.rj
 <i>August 18, 1656.</i>
-*/
 
 <sc>Reverend Fathers</sc>,—I have seen the letters which you
 are circulating in opposition to those which I wrote to one
@@ -10334,22 +10344,22 @@ that of Nicole and others.]
 .bn 243.png
 .pn +1
 
-
-
-
+.sp 4
+.h2
 LETTER XII.
 
+.ce
 TO THE REVEREND FATHERS, THE JESUITS.
 
-/#
-REFUTATION OF THEIR CHICANERIES REGARDING ALMS-GIVING AND
-SIMONY.
-#/
+.fs 80%
+.ce
+REFUTATION OF THEIR CHICANERIES REGARDING ALMS-GIVING AND SIMONY.
+.fs
 
+.sp 2
 
-/*
+.rj
 <i>September 9, 1656.</i>
-*/
 
 <sc>Reverend Fathers</sc>,—I was prepared to write you on the
 subject of the abuse with which you have for some time past
@@ -11013,25 +11023,27 @@ which have been substantiated against them.]
 .bn 260.png
 .pn +1
 
-
-
-
+.sp 4
+.h2
 LETTER XIII.
 
-TO THE REVEREND FATHERS OF THE SOCIETY
-OF JESUS.
+.ce
+TO THE REVEREND FATHERS OF THE SOCIETY OF JESUS.
 
-/#
+.fs 80%
+.in +3
+.ti -3
 THE DOCTRINE OF LESSIUS ON HOMICIDE THE SAME WITH THAT
 OF VALENTIA—HOW EASY IT IS TO PASS FROM SPECULATION TO
 PRACTICE—WHY THE JESUITS HAVE RECOURSE TO THIS DISTINCTION,
 AND HOW LITTLE IT SERVES FOR THEIR VINDICATION.
-#/
+.in
+.fs
 
+.sp 2
 
-/*
+.rj
 <i>September 30, 1656.</i>
-*/
 
 <sc>Reverend Fathers</sc>,—I have just seen your last production,
 in which you have continued your list of Impostures up
@@ -11712,24 +11724,27 @@ the sinner that goeth two ways!”[254]
 .bn 277.png
 .pn +1
 
-
-
-
+.sp 4
+.h2
 LETTER XIV.
 
+.ce
 TO THE REVEREND FATHERS, THE JESUITS.
 
-/#
+.fs 80%
+.in +3
+.ti -3
 IN WHICH THE MAXIMS OF THE JESUITS ON MURDER ARE REFUTED
 FROM THE FATHERS—SOME OF THEIR CALUMNIES ANSWERED BY
 THE WAY—AND THEIR DOCTRINE COMPARED WITH THE FORMS
 OBSERVED IN CRIMINAL TRIALS.
-#/
+.in
+.fs
 
+.sp 2
 
-/*
+.rj
 <i>October 23, 1656.</i>
-*/
 
 <sc>Reverend Fathers</sc>,—If I had merely to reply to the three
 remaining charges on the subject of homicide, there would
@@ -12453,26 +12468,29 @@ off with a safe conscience.
 .bn 295.png
 .pn +1
 
-
-
-
+.sp 4
+.h2
 LETTER XV.[267]
+
+.ce
+TO THE REVEREND FATHERS, THE JESUITS.
+
+.fs 80%
+.in +3
+.ti -3
+SHOWING THAT THE JESUITS FIRST EXCLUDE CALUMNY FROM THEIR
+CATALOGUE OF CRIMES, AND THEN EMPLOY IT IN DENOUNCING
+THEIR OPPONENTS.
+.in
+.fs
 
 [Footnote 267: Pascal was assisted by M. Arnauld in the preparation of this letter.
 (Nicole, iv. 162.)]
 
-TO THE REVEREND FATHERS, THE JESUITS.
+.sp 2
 
-/#
-SHOWING THAT THE JESUITS FIRST EXCLUDE CALUMNY FROM THEIR
-CATALOGUE OF CRIMES, AND THEN EMPLOY IT IN DENOUNCING
-THEIR OPPONENTS.
-#/
-
-
-/*
+.rj
 <i>November 25, 1656.</i>
-*/
 
 <sc>Reverend Fathers</sc>,—As your scurrilities are daily increasing,
 and as you are employing them in the merciless
@@ -13199,25 +13217,26 @@ prevent the discovery.
 .bn 314.png
 .pn +1
 
-
-
-
+.sp 4
+.h2
 LETTER XVI.[277]
+
+.ce
+TO THE REVEREND FATHERS, THE JESUITS.
+
+.fs 80%
+.ce
+SHAMEFUL CALUMNIES OF THE JESUITS AGAINST PIOUS CLERGYMEN AND INNOCENT NUNS.
+.fs
+
+.sp 2
 
 [Footnote 277: The plan and materials of this letter were furnished by M. Nicole.
 (Nicole, iv. 243.)]
 
-TO THE REVEREND FATHERS, THE JESUITS.
 
-/#
-SHAMEFUL CALUMNIES OF THE JESUITS AGAINST PIOUS CLERGYMEN
-AND INNOCENT NUNS.
-#/
-
-
-/*
+.rj
 <i>December 4, 1656.</i>
-*/
 
 <sc>Reverend Fathers</sc>,—I now come to consider the rest of
 your calumnies, and shall begin with those contained in your
@@ -14342,28 +14361,31 @@ into a stroke at the disingenuousness of his opponents.]
 .bn 341.png
 .pn +1
 
-
-
-
+.sp 4
+.h2
 LETTER XVII.[317]
 
-[Footnote 317: M. Nicole furnished the materials for this letter. (Nicole, iv. 324.)]
-
+.ce
 TO THE REVEREND FATHER ANNAT, JESUIT.[318]
+
+.fs 80%
+.in +3
+.ti -3
+THE AUTHOR OF THE LETTERS VINDICATED FROM THE CHARGE OF
+HERESY—AN HERETICAL PHANTOM—POPES AND GENERAL COUNCILS
+NOT INFALLIBLE IN QUESTIONS OF FACT.
+.in
+.fs
+
+[Footnote 317: M. Nicole furnished the materials for this letter. (Nicole, iv. 324.)]
 
 [Footnote 318: <i>Francis Annat</i>, the same person formerly referred to at p. 102.
 He became French provincial of the Jesuits, and confessor to Louis XIV.]
 
-/#
-THE AUTHOR OF THE LETTERS VINDICATED FROM THE CHARGE OF
-HERESY—AN HERETICAL PHANTOM—POPES AND GENERAL COUNCILS
-NOT INFALLIBLE IN QUESTIONS OF FACT.
-#/
+.sp 2
 
-
-/*
+.rj
 <i>January 23, 1657.</i>
-*/
 
 <sc>Reverend Father</sc>,—Your former behavior had induced
 me to believe that you were anxious for a truce in our hostilities;
@@ -15376,24 +15398,27 @@ under fictitious names.]
 .bn 366.png
 .pn +1
 
-
-
-
+.sp 4
+.h2
 LETTER XVIII.
 
+.ce
 TO THE REVEREND FATHER ANNAT, JESUIT.
 
-/#
+.fs 80%
+.in +3
+.ti -3
 SHOWING STILL MORE PLAINLY, ON THE AUTHORITY OF FATHER ANNAT
 HIMSELF, THAT THERE IS REALLY NO HERESY IN THE CHURCH,
 AND THAT IN QUESTIONS OF FACT WE MUST BE GUIDED BY OUR
 SENSES, AND NOT BY AUTHORITY EVEN OF THE POPES.
-#/
+.in
+.fs
 
+.sp 2
 
-/*
+.rj
 <i>March 24, 1657.</i>
-*/
 
 <sc>Reverend Father</sc>,—Long have you labored to discover
 some error in the creed or conduct of your opponents; but I
@@ -16392,14 +16417,16 @@ to preserve her tranquillity.
 .bn 391.png
 .pn +1
 
-
-
-
+.sp 4
+.h2
 LETTER XIX.
 
-FRAGMENT OF A NINETEENTH PROVINCIAL LETTER, ADDRESSED TO
-PERE ANNAT.
+.fs 80%
+.ce
+FRAGMENT OF A NINETEENTH PROVINCIAL LETTER, ADDRESSED TO PERE ANNAT.
+.fs
 
+.sp 2
 
 <sc>Reverend Sir</sc>,—If I have caused you some dissatisfaction,
 in former Letters, by my endeavors to establish the innocence
@@ -16461,12 +16488,11 @@ in the Church, their reply was....
 
 .tb
 
-
 THE END
 .bn 393.png
 .pn +1
 
-
+.pb // [** clean up the rest of this later...]
 
 
 CARTERS’ CATALOGUE.
