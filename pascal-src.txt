@@ -123,7 +123,7 @@ Calumnies against Port-Royal—Port-Royalists no heretics—M. de St. Cyran and 
 The author of the Letters vindicated from the charge of heresy—The five propositions—The popes fallible in matters of fact—Persecution of the Jansenists—The grand object of the Jesuits, | 341
 
 <al=c>#LETTER XVIII.:Page_366# | <span>
-The sense of Jansenius not the sense of Calvin—Resistibility of grace—Jansenius no heretic--The popes may be surprised—Testimony of the senses—Condemnation of Galileo—Conclusion, | 366
+The sense of Jansenius not the sense of Calvin—Resistibility of grace—Jansenius no heretic—The popes may be surprised—Testimony of the senses—Condemnation of Galileo—Conclusion, | 366
 
 <al=c>#LETTER XIX.:Page_391# | <span>
 Fragment of a nineteenth Provincial Letter, addressed to Père Annat, | 391
@@ -405,9 +405,14 @@ reasoned high on similar points,
 
 [Footnote 5: Dupin, Eccl. Hist., 17th cent. 1–14.]
 
-/*
+.fs 80%
+.in +4
+.ll -4
+.ce
 “They found no end, in wandering mazes lost.”
-*/
+.ll
+.in
+.fs
 
 Those who appealed to them for the settlement of the question,
 had too much reason to say, as the man in Terence does
@@ -589,15 +594,15 @@ vi. cap. 1; Ignat. Epist., &c.)]
 
 [Footnote 11: Balde, whom the Jesuits honor in their schools as a modern Horace,
 thus celebrates the longevity of the Society, in his <cite>Carmen Seculare de
-Societate Jesu</cite>, 1640:--
+Societate Jesu</cite>, 1640:—
 
-/*
+.nf b
 “Profuit quisquis voluit nocere.
-Cuncta subsident sociis; ubique
-Exules vivunt, et ubique cives!
-Sternimus victi, supreamus imi,
-  Surgimus plures toties cadendo.”
-*/
+ Cuncta subsident sociis; ubique
+ Exules vivunt, et ubique cives!
+ Sternimus victi, supreamus imi,
+   Surgimus plures toties cadendo.”
+.nf-
 ]
 
 In prosecuting the ends of their institution, the Jesuits
@@ -799,7 +804,7 @@ Cinq Propositions, p. 48.]
 The reader may be curious to know something more about
 these famous five propositions, condemned by the pope, which,
 in fact, may be said to have given occasion to the Provincial
-Letters. They were as follows:--
+Letters. They were as follows:—
 .bn 023.png
 .pn +1
 
@@ -1990,7 +1995,7 @@ many a sufficient guarantee, the solemn assertion of Pascal
 himself. In a conversation that took place within a year of
 his death, and which has been preserved by his sister, he thus
 answers the chief articles of accusation that had been brought
-against the Provincials:--
+against the Provincials:—
 
 “I have been asked, first, if I repented of having written
 the Provincial Letters? I answered that, far from repenting,
@@ -5127,19 +5132,19 @@ friends describe Escobar as a good man, a laborious student, and very
 devout in his way. It is said that, when he heard that his name and
 writings were so frequently noticed in the Provincial Letters, he was
 quite overjoyed to think that his fame would extend as far as the <em>little
-letters</em> had done. Boileau has celebrated him in the following couplet:--
+letters</em> had done. Boileau has celebrated him in the following couplet:—
 
-/*
-Si Bourdaloue un peu sévère,
-Nous dit, craignez la volupté:
-Escobar, lui dit-on, mon père,
-Nous la permet pour la santé.
+.nf b
+   Si Bourdaloue un peu sévère,
+   Nous dit, craignez la volupté:
+   Escobar, lui dit-on, mon père,
+   Nous la permet pour la santé.
 
 “If Bourdaloue, a little too severe,
-Cries, Fly from pleasure’s fatal fascination
-Dear Father, cries another, Escoba,
-Permits it as a healthy relaxation.”
-*/
+ Cries, Fly from pleasure’s fatal fascination
+ Dear Father, cries another, Escoba,
+ Permits it as a healthy relaxation.”
+.nf-
 ]
 
 “Who is Escobar?” I inquired.
@@ -5379,7 +5384,7 @@ weight in both cases.’”
 that rule. Who can assure me, considering the freedom
 your doctors claim to examine everything by reason, that
 what appears safe to one may seem so to all the rest? The
-diversity of judgments is so great”--
+diversity of judgments is so great”—
 
 “You don’t understand it,” said he, interrupting me; “no
 doubt they are often of different sentiments, but what signifies
@@ -5573,17 +5578,18 @@ could collect, ranging them mostly according to their terminations, and
 placing them in contrast with the venerable and well-known names of
 the ancient fathers. To a French ear these names must have sounded
 as uncouth and barbarous as those of the Scotch which Milton has
-satirized to the ear of an Englishman:--
+satirized to the ear of an Englishman:—
 
-/*
+.nf b
 “Cries the stall-reader, ‘Bless us! what a word on
-A title-page is this!’ Why, is it harder, sirs, than Gordon,
-Colkitto, or Macdonnel, or Galasp?
-Those rugged names to our like mouths grow sleek,
-That would have made Quintilian stare and gasp.”
+ A title-page is this!’ Why, is it harder, sirs, than Gordon,
+ Colkitto, or Macdonnel, or Galasp?
+ Those rugged names to our like mouths grow sleek,
+ That would have made Quintilian stare and gasp.”
+.nf-
 
+.rj
 (Milton’s Minor Poems.)
-*/
 ]
 
 “O my dear father!” cried I, quite alarmed, “were all
@@ -6432,7 +6438,7 @@ had been rather disconcerted by the story of John d’Alba,
 he resumed the conversation, on my assuring him that I
 would avoid all such interruptions in future, and spoke of
 the maxims of his casuists with regard to gentlemen, nearly
-in the following terms:--
+in the following terms:—
 
 “You know,” he said, “that the ruling passion of persons
 in that rank of life is ‘the point of honor,’ which is perpetually
@@ -7226,7 +7232,7 @@ monk palliates his maxims, those which I am about to lay
 before you really go to sanction corrupt judges, usurers, bankrupts,
 thieves, prostitutes and sorcerers—all of whom are
 most liberally absolved from the obligation of restoring their
-ill-gotten gains. It was thus the monk resumed the conversation:--
+ill-gotten gains. It was thus the monk resumed the conversation:—
 
 “At the commencement of our interviews, I engaged to
 explain to you the maxims of our authors for all ranks and
@@ -7697,7 +7703,7 @@ much with the view of allowing him to enlarge on this matter,
 as from pure astonishment at finding the books of men
 in holy orders stuffed with sentiments at once so horrible, so
 iniquitous, and so silly. He went on, therefore, without interruption
-in his discourse, concluding as follows:--
+in his discourse, concluding as follows:—
 
 “From these premises, our illustrious Molina decides the
 following question (and after this, I think you will have got
@@ -8780,7 +8786,7 @@ schemes they have fallen upon to “attract all and repel
 none.” It is absolutely necessary to know something of this
 before going any further; and, accordingly, the monk judged
 it expedient to give me some instructions on the point, nearly
-as follows:--
+as follows:—
 
 “From what I have already stated,” he observed, “you
 may judge of the success with which our doctors have labored
@@ -9577,11 +9583,14 @@ himself from which they have dared to give man a dispensation!”
 [Footnote 227: “Nothing on this point,” says Nicole in a note here, “can be finer
 than the prosopopeia in which Despréaux (Boileau) introduces God as
 judging mankind.” He then quotes a long passage from the Twelfth
-Epistle of that poet, beginning--
+Epistle of that poet, beginning—
 
-/#
+.in +4
+.ll -4
+.ce
 “Quand Dieu viendra juger les vivans et les morts,” &c.
-#/
+.ll
+.in
 
 Boileau was the personal friend of Arnauld and Pascal, and satirized
 the Jesuits with such pleasant irony that Father la Chaise, the confessor
@@ -10133,10 +10142,11 @@ things, such as roses, pomegranates, the mouth, the tongue;
 and it is in the midst of this badinage, so disgraceful in a
 clergyman, that he has the effrontery to introduce those
 blessed spirits that minister before God, and of whom no
-Christian should speak without reverence:--
+Christian should speak without reverence:—
 
-/*
-“The cherubim—those glorious choirs--
+.fs 80%
+.nf b
+“The cherubim—those glorious choirs—
   Composed of head and plumes,
 Whom God with his own Spirit inspires,
   And with his eyes illumes.
@@ -10148,9 +10158,10 @@ The waving of their wings supplies
 A fan to cool their extacies!
 But redness shines with better grace,
 Delphina, on thy beauteous face,
-Where modesty sits revelling--
+Where modesty sits revelling—
 Arrayed in purple, like a king,” &c.
-*/
+.nf-
+.fs
 
 What think you of this, fathers? Does this preference
 of the blushes of Delphina to the ardor of those spirits, which
@@ -14635,7 +14646,7 @@ this is the ground on which you persecute your opponents?
 Have you not said as much in your books, in your conversations,
 in your catechisms? A specimen of this you gave at
 the late Christmas festival at St. Louis. One of your little
-shepherdesses was questioned thus:--
+shepherdesses was questioned thus:—
 
 “For whom did Jesus Christ come into the world, my
 dear?”
