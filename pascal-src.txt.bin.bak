@@ -406,9 +406,9 @@
 );
 
 
-$::bookmarks[0] = '14371.7';
-$::bookmarks[1] = '13597.22';
-$::bookmarks[2] = '7276.37';
+$::bookmarks[0] = '13265.29';
+$::bookmarks[1] = '7475.53';
+$::bookmarks[2] = '12487.27';
 $::bookmarks[3] = '7276.60';
 
 $::pngspath = '/Users/dan/dp/pp/pascal/pngs/';
