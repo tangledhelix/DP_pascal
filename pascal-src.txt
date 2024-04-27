@@ -403,8 +403,6 @@ known with certainty, and has been lost to the world.[5] The
 probability is, that like Milton’s “grand infernal peers,” who
 reasoned high on similar points,
 
-[Footnote 5: Dupin, Eccl. Hist., 17th cent. 1–14.]
-
 .fs 80%
 .in +4
 .ll -4
@@ -418,6 +416,8 @@ Those who appealed to them for the settlement of the question,
 had too much reason to say, as the man in Terence does
 to his lawyers—“<lang=la><i>Fecistis probe; incertior sum multo quam
 dudum.</i></lang>”[6]
+
+[Footnote 5: Dupin, Eccl. Hist., 17th cent. 1–14.]
 
 [Footnote 6: “Well done, gentlemen; you have left me more in the dark than
 ever.”]
@@ -2901,6 +2901,12 @@ grace, in order to pray to God?”
 “No,” said he; “not according to M. le Moine.”
 
 To lose no time, I went to the Jacobins,[91] and requested
+.bn 072.png
+.pn +1
+an interview with some whom I knew to be New Thomists,
+and I begged them to tell me what “proximate power”
+was. “Is it not,” said I, “that power to which nothing is
+wanting in order to act?”
 
 [Footnote 91: <i>Jacobins</i>, another name for the Dominicans in France, where they
 were so called from the street in Paris, Rue de St. Jacques, where their
@@ -2913,12 +2919,6 @@ in various parts of the world, by preaching up crusades against the
 heretics. He was the founder of the Inquisition, and his order was, before
 the Reformation, what the Jesuits were after it—the soul of the
 Romish hierarchy, and the bitterest enemies of the truth.]
-.bn 072.png
-.pn +1
-an interview with some whom I knew to be New Thomists,
-and I begged them to tell me what “proximate power”
-was. “Is it not,” said I, “that power to which nothing is
-wanting in order to act?”
 
 “No,” said they.
 
@@ -13397,8 +13397,6 @@ piety that very sacrament which they held in abomination?
 How should they have assumed the habit of the holy sacrament?
 taken the name of the Daughters of the Holy Sacrament?
 called their church the Church of the Holy Sacrament?
-
-[Footnote 281: Pp. 96, 4.]
 .bn 318.png
 .pn +1
 How should they have requested and obtained from
@@ -13446,6 +13444,8 @@ such a prominence in all their writings, that I defy you, fathers,
 with all your cunning, to detect in them either the
 least appearance of ambiguity, or the slightest correspondence
 with the sentiments of Geneva.
+
+[Footnote 281: Pp. 96, 4.]
 
 Everybody knows, fathers, that the essence of the Genevan
 heresy consists, as it does according to your own showing, in
@@ -14081,16 +14081,6 @@ you must either prove that they do not believe in Jesus
 Christ, or must pass for the most abandoned calumniators.
 Prove it, then, fathers. Name that “<em>worthy clergyman</em>,”
 who, you say, attended that assembly at Bourg-Fontaine[308]
-
-[Footnote 307: <lang=fr><i>Misérables que vous êtes</i></lang>—one of the bitterest expressions which
-Pascal has applied to his opponents and one which they have deeply
-felt, but the full force of which can hardly be rendered into English.]
-
-[Footnote 308: With regard to this famous assembly at Bourg-Fontaine, in which
-it was alleged a conspiracy was formed by the Jansenists against the
-Christian religion, the curious reader may consult the work of M. Arnauld
-entitled <cite>Morale Pratique des Jesuites</cite>, vol. viii., where there is a
-detailed account of the whole proceedings. (Nicole, iv. 283.)]
 .bn 334.png
 .pn +1
 in 1621, and discovered to Brother Filleau the design there
@@ -14130,6 +14120,16 @@ Brisacier. That publication you are incapable of answering;
 and yet you do not scruple to abuse it in a more shameful
 manner than ever, for the purpose of charging women, whose
 piety is universally known, with the vilest blasphemy.
+
+[Footnote 307: <lang=fr><i>Misérables que vous êtes</i></lang>—one of the bitterest expressions which
+Pascal has applied to his opponents and one which they have deeply
+felt, but the full force of which can hardly be rendered into English.]
+
+[Footnote 308: With regard to this famous assembly at Bourg-Fontaine, in which
+it was alleged a conspiracy was formed by the Jansenists against the
+Christian religion, the curious reader may consult the work of M. Arnauld
+entitled <cite>Morale Pratique des Jesuites</cite>, vol. viii., where there is a
+detailed account of the whole proceedings. (Nicole, iv. 283.)]
 
 [Footnote 309: <i>The Secret Chaplet of the most Holy Sacrament.</i>—Such was the
 title of a very harmless piece of mystic devotion of three or four pages,
