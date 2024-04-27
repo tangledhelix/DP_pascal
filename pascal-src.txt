@@ -1,7 +1,7 @@
 // This is a ppgen source file.
 
 // Title      : The provincial letters of Blaise Pascal
-// Author     : Pascal, Blaise; M’Crie, Rev. Thomas, translator/editor
+// Author     : Pascal, Blaise; M‘Crie, Rev. Thomas, translator/editor
 // Project ID : 61524e807a9ac
 
 .dt The provincial letters of Blaise Pascal | Project Gutenberg
@@ -25,7 +25,7 @@ A NEW TRANSLATION
 BY
 
 .ce
-<xl>THE REV. THOMAS M’CRIE.</xl>
+<xl>THE REV. THOMAS M‘CRIE.</xl>
 
 .ce
 <s>EDINBURGH.</s>
