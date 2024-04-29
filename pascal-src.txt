@@ -18398,7 +18398,7 @@ Holy Word.”—<i>Observer.</i></s>
 .in
 
 .nf c
-<l>* Doddridge’s Expositor.<l>
+<l>* Doddridge’s Expositor.</l>
 .nf-
 
 .in +2
@@ -18763,6 +18763,7 @@ Delivered in London. Series of 1854–5–6. \|Each $1\_00.
 .it CHILD’S OWN STORY-BOOK.
 .it LIMED TWIGS.
 .it NEW COBWEBS.
+.ul-
 
 .tb
 
