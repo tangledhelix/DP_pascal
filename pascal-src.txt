@@ -15,20 +15,17 @@
 
 .sp 4
 
-.ce
+.nf c
 A NEW TRANSLATION
 
-.ce
 <l>WITH HISTORICAL INTRODUCTION AND NOTES,</l>
 
-.ce
 BY
 
-.ce
 <xl>THE REV. THOMAS M‘CRIE.</xl>
 
-.ce
 <s>EDINBURGH.</s>
+.nf-
 
 .sp 4
 
@@ -41,10 +38,11 @@ If my letters are condemned at Rome, that which I condemn in them is condemned i
 
 .sp 4
 
-.ce 3
+.nf c
 <xl>NEW YORK:</xl>
 <l>ROBERT CARTER & BROTHERS</l>
 No. 530 BROADWAY.
+.nf-
 
 .hr 25%
 
@@ -17997,9 +17995,8 @@ THE END
 285, to No. 530 Broadway, corner of Spring-street.</i>
 
 .nf r
-.ce
+.ce 2
 530 Broadway, New York,
-.ce
 August, 1856.
 .nf-
 
