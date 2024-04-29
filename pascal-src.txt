@@ -17967,14 +17967,12 @@ in the Church, their reply was....
 THE END
 
 .if h
-.pb
 .sp 4
-.nf c
-<xl>Footnotes</xl>
-.nf-
-.if-
+.h2
+Footnotes
 
-.fm lz=th
+.fm lz=h rend=no
+.if-
 
 .bn 393.png
 .pn +1
