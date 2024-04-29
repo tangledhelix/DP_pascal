@@ -269,14 +269,18 @@ offered for the elect, though, in point of exhibition, it is
 offered to all; and the saints obtain the gift of perseverance
 in holiness to the end.[2]
 
+.fs 80%
 .fn 1
 Non quia per nos sancti et immaculati futuri essemus, sed elegit
 prædestinavitque ut essemus. (De Prædest., Aug. Op., tom. x. 815.)
 .fn-
+.fs
 
+.fs 80%
 .fn 2
 De dono Persever. (Ib., 822.)
 .fn-
+.fs
 
 Pelagius, whose real name was Morgan, and who is supposed
 to have been a Welshman, belonged to that numerous
@@ -302,9 +306,11 @@ with a constitution in which the seeds of evil were implanted—the
 authorship of sin was ascribed, directly and primarily,
 to the Creator.[3]
 
+.fs 80%
 .fn 3
 Neander, Bibl. Repos., iii. 94; Leydecker, de Jansen. Dogm., 413.
 .fn-
+.fs
 
 Augustine was a powerful but unsteady writer, and has
 expressed himself so inconsistently as to have divided the
@@ -388,12 +394,14 @@ Fonseca, who declared that the very same thing had burst
 upon his mind with all the force of inspiration, when lecturing
 on the subject some years before.[4]
 
+.fs 80%
 .fn 4
 The question of the middle knowledge is learnedly handled by
 Voetius (Disp. Theol., i. 264), by Hoornbeck (Socin. Confut.), and
 other Protestant divines, who have shown it to be untenable, useless,
 and fraught with absurdity.
 .fn-
+.fs
 
 Abstruse as these questions may appear, they threatened
 a serious rupture in the Romish Church. The Molinists were
@@ -425,14 +433,18 @@ had too much reason to say, as the man in Terence does
 to his lawyers—“<lang=la><i>Fecistis probe; incertior sum multo quam
 dudum.</i></lang>”[6]
 
+.fs 80%
 .fn 5
 Dupin, Eccl. Hist., 17th cent. 1–14.
 .fn-
+.fs
 
+.fs 80%
 .fn 6
 “Well done, gentlemen; you have left me more in the dark than
 ever.”
 .fn-
+.fs
 
 But this interminable dispute was destined to assume a
 more popular form, and lead to more practical results. In
@@ -490,25 +502,31 @@ approve, without condemning Augustine; with the Protestant
 synod he could not agree, unless he chose to be denounced
 as a Calvinist.
 
+.fs 80%
 .fn 7
 He was the son of a poor artisan, whose name was Jan, or John
 Ottho; hence Jansen, corresponding to our Johnson, which was Latinized
 into Jansenius.
 .fn-
+.fs
 
+.fs 80%
 .fn 8
 Petitot, Collect. des Mémoires, Notice sur Port-Royal, tom. xxxiii.,
 p. 19. This author’s attempt to fix the charge of a conspiracy between
 Jansen and St. Cyran to overturn the Church, is a piece of special
 pleading, bearing on its face its own refutation.
 .fn-
+.fs
 
+.fs 80%
 .fn 9
 The followers of Jansen were not more charitable than he in their
 judgments of the Reformed, and showed an equal zeal with the Jesuits
 to persecute them, when they had it in their power. (Benoit, Hist. de
 l’Edit de Nantes, iii. 200.)
 .fn-
+.fs
 
 But the natural enemies of Jansen were, without doubt, the
 Jesuits. To the history of this Society we can only now advert
@@ -605,13 +623,16 @@ treachery, and intolerance, it seems destined to fall only in
 the ruins of that Church of whose unchanging spirit it is the
 genuine type and representative.[11]
 
+.fs 80%
 .fn 10
 <lang=la><i>Cæca quadam obedientia.—Ut Christum Dominum in superiore
 quolibet agnoscere studeatis.—Perinde ac si cadaver essent, vel similiter
 atque senis baculus.—Ad majorem Dei gloriam.</i></lang> (Constit. Jesuit. pars
 vi. cap. 1; Ignat. Epist., &c.)
 .fn-
+.fs
 
+.fs 80%
 .fn 11
 Balde, whom the Jesuits honor in their schools as a modern Horace,
 thus celebrates the longevity of the Society, in his <cite>Carmen Seculare de
@@ -626,6 +647,7 @@ Societate Jesu</cite>, 1640:—
 .nf-
 
 .fn-
+.fs
 
 In prosecuting the ends of their institution, the Jesuits
 have adhered with singular fidelity to its distinguishing spirit.
@@ -660,6 +682,7 @@ and the most flexible casuists of their age,”[14] it has been
 commonly remarked, that they have never produced a single
 great man.
 
+.fs 80%
 .fn 12
 Their famous missionary, Francis Xavier, whom they canonized,
 was ignorant of a single word in the languages of the Indians whom
@@ -669,14 +692,19 @@ their learned Brahmans, he baptized them until his arm was exhausted
 with the task, and boasted of every one he baptized as a regenerated
 convert!
 .fn-
+.fs
 
+.fs 80%
 .fn 13
 Macintosh, Hist. of England, ii. 353.
 .fn-
+.fs
 
+.fs 80%
 .fn 14
 Macintosh, Hist. of England, ii. 357.
 .fn-
+.fs
 
 Casuistry, the art in which the Jesuits so much excelled,
 is, strictly speaking, that branch of theology which treats of
@@ -729,6 +757,7 @@ sapped the foundation of all moral obligation. “They are a
 people,” said Boileau, “who lengthen the creed and shorten
 the decalogue.”
 
+.fs 80%
 .fn 15
 Augustine himself is chargeable with having been the first to introduce
 the scholastic mode of treating morality in the form of trifling
@@ -736,6 +765,7 @@ questions, more fitted to gratify curiosity, and display acumen, than to
 edify or enlighten. His example was followed and miserably abused,
 by the moralists of succeeding ages. (Buddei Isagoge, vol. i. p. 568.)
 .fn-
+.fs
 
 Such was the community with which the Bishop of Ypres
 ventured to enter the lists. Already had he incurred their
@@ -773,15 +803,19 @@ of standing boldly forward on the ground of Scripture,
 he attempted, with more prudence than wisdom, to shelter
 himself behind the venerable name of Augustine.
 
+.fs 80%
 .fn 16
 Lancelot. Tour to Alet, p. 173; Leydecker, p. 122.
 .fn-
+.fs
 
+.fs 80%
 .fn 17
 The whole title was: “Augustinus Cornelii Jansenii episcopi, seu
 doctrina sancti Augustini de humanæ naturæ sanctitate ægritudinæ
 medica, adversus Pelagianos et Massilienses.” Louvain, 1640.
 .fn-
+.fs
 
 If by thus preferring the shield of tradition to the sword
 of the Spirit, Jansen expected to out-manœuvre the Jesuits,
@@ -830,14 +864,18 @@ decision of this kind overstepped the limits of papal authority,
 and that the pope’s infallibility did not extend to a judgment
 of facts.[19]
 
+.fs 80%
 .fn 18
 Leydecker, p. 132; Lancelot, p. 180.
 .fn-
+.fs
 
+.fs 80%
 .fn 19
 Ranke, Hist. of the Popes, vol. iii. 143; Abbé Du Mas, Hist. des
 Cinq Propositions, p. 48.
 .fn-
+.fs
 
 The reader may be curious to know something more about
 these famous five propositions, condemned by the pope, which,
@@ -921,15 +959,20 @@ writings of the party, especially when arguing against the
 Protestants, this departure became still more strongly marked,
 and more deplorably manifested.[22]
 
+.fs 80%
 .fn 20
 Letter xviii. pp. 310–313.
 .fn-
+.fs
 
+.fs 80%
 .fn 21
 Witsii Œconom. Fœd., lib. iii.; Turret. Theol., Elenct. xv. quest.
 4; De Moor Comment, iv. 496; Mestrezat, Serm. sur Rom., viii. 274.
 .fn-
+.fs
 
+.fs 80%
 .fn 22
 I refer here particularly to Arnauld’s treatise, entitled “Renversement
 de la Morale de Jesus Christ par les Calvinistes,” which was answered
@@ -940,6 +983,7 @@ friends, in their violent tirades against the Reformed, neither acted in
 good faith, nor in consistency with the sentiments of their much admired
 leaders, Augustine and Jansen.
 .fn-
+.fs
 .bn 025.png
 .pn +1
 
@@ -975,13 +1019,17 @@ that force of character by which men of strong minds
 silently but surely govern others, his proselytes soon increased,
 and he became the nucleus of a new class of reformers.
 
+.fs 80%
 .fn 23
 Fontaine, Mémoires, i. 200; Mosheim, Eccl. Hist., cent. xvii. 2.
 .fn-
+.fs
 
+.fs 80%
 .fn 24
 Lancelot, p. 123.
 .fn-
+.fs
 
 St. Cyran was soon called to preside over the renowned
 .bn 026.png
@@ -1054,15 +1102,19 @@ full assurance of salvation through the merits of the only
 Saviour, form one of the most interesting chapters in the
 martyrology of the Church.
 
+.fs 80%
 .fn 25
 Mémoires pour servir a l’Histoire de Port-Royal, vol. i. pp. 35, 57,
 142.
 .fn-
+.fs
 
+.fs 80%
 .fn 26
 Ib., p. 456. The title of this work was, “The Secret Chaplet of
 the Holy Sacrament.”
 .fn-
+.fs
 
 But St. Cyran aimed at higher objects than the management
 of a nunnery. His energetic mind planned a system
@@ -1157,14 +1209,18 @@ Church; the schools were soon dispersed, and the Jesuits
 never rested till they had destroyed every vestige of the obnoxious
 establishment.
 
+.fs 80%
 .fn 27
 Sacy, or Saci, was the inverted name of Isaac Le Maitre, celebrated
 for his translation of the Bible.
 .fn-
+.fs
 
+.fs 80%
 .fn 28
 Moshein, Eccl. Hist., cent. xvii. §2.
 .fn-
+.fs
 
 The enemies of Port-Royal have attempted to show that
 St. Cyran and his associates had formed a deep-laid plot for
@@ -1206,12 +1262,14 @@ piteous can hardly be imagined than that of such men struggling
 between the dictates of conscience, and the night-mare
 of that “strong delusion,” which led them to “believe a lie.”
 
+.fs 80%
 .fn 29
 We may refer particularly to Petitot in his Collection des Mémoires,
 tom. xxxiii., Paris, 1824; and to a History of the Company of Jesus by
 J. Cretineau-Joly, Paris, 1845. With high pretensions to impartiality,
 these works abound with the most glaring specimens of special pleading.
 .fn-
+.fs
 
 In every feature that distinguished the Port-Royalists, they
 stood opposed to the Jesuits. In theology they were antipodes—in
@@ -1236,9 +1294,11 @@ could not well endure the existence of a sect within
 the Church, which seemed to favor the Reformation by exposing
 the corruptions of the clergy.[30]
 
+.fs 80%
 .fn 30
 Voltaire, Siècle de Louis XIV, t. ii.
 .fn-
+.fs
 .bn 032.png
 .pn +1
 
@@ -1287,10 +1347,12 @@ observed, “We are now old, is it not time to rest?”
 “Rest!” exclaimed Arnauld, “have we not all eternity to
 rest in?”
 
+.fs 80%
 .fn 31
 Mémoires de P. Royal, i. 13. Bayle insists that his father had
 twenty-two children. Dict., art. <cite>Arnauld</cite>.
 .fn-
+.fs
 
 Such was the character of the man who now entered the
 lists against the redoubtable Society. His first offence was
@@ -1315,9 +1377,11 @@ enter the field at the critical moment, and with their
 single arm turn the tide of battle. Need we say that we
 allude to the author of the <sc>Provincial Letters</sc>?
 
+.fs 80%
 .fn 32
 Weisman, Hist. Eccl., ii. 204.
 .fn-
+.fs
 
 Bayle commences his Life of Pascal by declaring him to be
 “one of the sublimest geniuses that the world ever produced.”
@@ -1444,6 +1508,7 @@ and “The Provincials” is a phrase which it would now
 be fully as ridiculous to attempt to change as it could be at
 first to apply it to the Letters.
 
+.fs 80%
 .fn 33
 The title under which the Letters appeared when first collected into
 a volume was, “<lang=fr><i>Lettres écrites par Louis de Montalte, a un Provincial
@@ -1456,6 +1521,7 @@ Bumpkin to his Friends,” and instead of “The Provincials” called “The
 Bumpkins”—“<lang=fr><i>Campagnardes</i></lang>.” (Remarques sur la langue Fran., p.
 ii. 306. Dict. Univ., art. <cite>Provincial</cite>.)
 .fn-
+.fs
 
 The most trifling particulars connected with such a publication
 possess an interest. The Letters, we learn, were published
@@ -1510,21 +1576,29 @@ and the great body of the populace; and that never
 was Jansenism at a lower ebb, or more generally anathematized
 than when the first Provincial Letter appeared.
 
+.fs 80%
 .fn 34
 Daniel, Entretiens, p. 19.
 .fn-
+.fs
 
+.fs 80%
 .fn 35
 Petitot, Notices, p. 121.
 .fn-
+.fs
 
+.fs 80%
 .fn 36
 Benoit, Hist. de l’Edit. de Nantes, iii. 198.
 .fn-
+.fs
 
+.fs 80%
 .fn 37
 Daniel, Entretiens, p. 11.
 .fn-
+.fs
 
 This, however, was not all. Besides having the tide of
 public favor turned against them, the Jesuits found themselves
@@ -1554,9 +1628,11 @@ raillery, and the world leaves them unpitied to suffer
 a sweet death, more cruel in its sweetness than the bitterest
 punishment.”[38]
 
+.fs 80%
 .fn 38
 Nicole, Notes sur la xi. Lettre iii. 332.
 .fn-
+.fs
 
 The Letters were published anonymously, under the fictitious
 signature of Louis de Montalte, and the greatest care
@@ -1597,9 +1673,11 @@ incident to his brother-in-law, who was in an adjoining apartment;
 and he had reason to congratulate him on the narrow
 escape which he had made.[39]
 
+.fs 80%
 .fn 39
 Recueil de Port-Royal, 278, 279; Petitot, pp. 122, 123.
 .fn-
+.fs
 
 As Pascal proceeded, he transmitted his manuscripts to
 Port-Royal des Champs, where they were carefully revised
@@ -1623,10 +1701,13 @@ the sixteenth, on account of a search made after it in the
 printing office, he apologizes for its length on the ground
 that “he had found no time to make it shorter.”[42]
 
+.fs 80%
 .fn 40
 Histoire des Provinciales, p. 12.
 .fn-
+.fs
 
+.fs 80%
 .fn 41
 Petitot, p. 124. The eighteenth letter embraces the delicate topic
 of papal authority, as well as the distinction between <em>faith</em> and <em>fact</em>,
@@ -1635,10 +1716,13 @@ mind of Pascal must have labored to find some plausible ground for
 vindicating his consistency as a Roman Catholic. To the Protestant
 reader, it must appear the most unsatisfactory of all the Letters.
 .fn-
+.fs
 
+.fs 80%
 .fn 42
 Prov. Let., p. 340.
 .fn-
+.fs
 .bn 041.png
 .pn +1
 
@@ -1706,26 +1790,36 @@ model of taste and style.”[46] To this day the same high eulogiums
 are passed on the work by the best scholars of
 France.[47]
 
+.fs 80%
 .fn 43
 Perrault, Parallele des Anc. et Mod., Bayle, art. <cite>Pascal</cite>.
 .fn-
+.fs
 
+.fs 80%
 .fn 44
 D’Artigny, Nouveaux Mémoires iii. p. 34.
 .fn-
+.fs
 
+.fs 80%
 .fn 45
 Voltaire, Siècle de Louis XIV., tom. ii. pp. 171, 274.
 .fn-
+.fs
 
+.fs 80%
 .fn 46
 D’Alembert, Destruct. des Jesuites, p. 54.
 .fn-
+.fs
 
+.fs 80%
 .fn 47
 Bordas-Demoulin, Eloge de Pascal, p. xxv. (This was the prize
 essay before the French Academy, in June, 1842.)
 .fn-
+.fs
 
 To these testimonies it would be superfluous to add any
 criticism of our own, were it not to prepare the English
@@ -1779,10 +1873,13 @@ school. This Apology was condemned by the Sorbonne, and
 subsequently at Rome; its author died of chagrin, and the
 Jesuits fell into temporary disgrace.[50]
 
+.fs 80%
 .fn 48
 Nicole, Hist. des Provinciales.
 .fn-
+.fs
 
+.fs 80%
 .fn 49
 The names of these unfortunate productions alone survive; 1.
 “First Reply to Letters, &c., by a Father of the Company of Jesus.”
@@ -1791,10 +1888,13 @@ discovered and refuted by a Father of the Company of Jesus.”
 3. “Reply to a Theologian,” &c. 4. “Reply to the Seventeenth Letter,
 by Francis Annat,” &c., &c.
 .fn-
+.fs
 
+.fs 80%
 .fn 50
 Eichhorn, Geschichte der Litteratur, vol. i. pp. 420–423.
 .fn-
+.fs
 
 But, with that tenaciousness of life and elasticity of limb
 which have ever distinguished the Society, it was not long
@@ -1861,6 +1961,7 @@ Subsequent <lang=fr><i>mandements</i></lang>, still more stringent, soon saved t
 poor nuns from the temptation of ambiguous submissions, and
 reconciled Pascal and his friends.[51]
 
+.fs 80%
 .fn 51
 Recueil de Port-Royal, pp. 314–323. Some papers passed between
 Pascal and his friends on this topic. Pascal committed these on his
@@ -1871,6 +1972,7 @@ is that they were destroyed. Had they been preserved, they might
 have thrown some further light on the opinions of Pascal regarding
 papal authority.
 .fn-
+.fs
 .bn 046.png
 .pn +1
 
@@ -1885,11 +1987,13 @@ longer allowable to write truth. <sc>If my letters are condemned
 at Rome, that which I condemn in them is condemned
 in heaven.</sc>”[52]
 
+.fs 80%
 .fn 52
 <lang=fr><i>Si mes Lettres sont condamnées à Rome, ce que j’y condamne, est
 condamné dans le ciel.</i></lang> (Pensées de Blaise Pascal, tom. ii. 163. Paris,
 1824.)
 .fn-
+.fs
 
 It is only necessary to add, that Pascal continued to maintain
 his sentiments on this subject unchanged to the last. On
@@ -1922,15 +2026,19 @@ made by Nicole, showing that the real ground of Pascal’s
 brief disagreement with his friends was directly the reverse
 of that which had been assigned.[54]
 
+.fs 80%
 .fn 53
 “How came you,” said the archbishop to M. Beurrier, “to administer
 the sacraments to such a person? Didn’t you know that he was
 a Jansenist?” (Recueil, 348.)
 .fn-
+.fs
 
+.fs 80%
 .fn 54
 Recueil de Port-Royal, pp. 327–330; Petitot, p. 165.
 .fn-
+.fs
 
 Few books have passed through more editions than the
 Provincials. The following, among many others, may be
@@ -1965,10 +2073,13 @@ the suppression of the Provincials only served to promote
 their popularity; and their enemies found that, if they would
 silence, they must answer them.
 
+.fs 80%
 .fn 55
 Walchii Biblioth. Theol., ii. 295.
 .fn-
+.fs
 
+.fs 80%
 .fn 56
 The title of Nicole’s translation, now rarely to be met with, is, <lang=la><i>Ludovici
 Montaltii Litteræ Provinciales, de Morali et Politica Jesuitarum
@@ -1976,21 +2087,28 @@ Disciplina. A Willelmo Wendrockio, Salisburgensi Theologo.</i></lang> Several
 editions of this translation were printed. I have the first, published at
 Cologne in 1658, and the fifth, much enlarged, Cologne, 1679.
 .fn-
+.fs
 
+.fs 80%
 .fn 57
 Avertissement, Les Provinciales, ed. 1767. Mad. de Joncourt, or
 Joncoux, took a deep interest in the falling fortunes of Port-Royal.
 (See some account of her in Madame Schimmelpenninck’s History of
 the Demolition of Port-Royal, p. 135.)
 .fn-
+.fs
 
+.fs 80%
 .fn 58
 Bayle, Dict., art. <cite>Pascal</cite>.
 .fn-
+.fs
 
+.fs 80%
 .fn 59
 Daniel, Entretiens, p. 111.
 .fn-
+.fs
 
 Forty years elapsed after the publication of the Provincials
 before the Jesuits ventured on a reply. At length, in 1697,
@@ -2095,17 +2213,23 @@ groundless, his answers jesuitical and evasive, and his arguments
 untenable. The “Apology” was never answered, and
 Daniel’s work sank out of sight.
 
+.fs 80%
 .fn 60
 Bayle, Dict., art. <cite>Pascal</cite>, note K.
 .fn-
+.fs
 
+.fs 80%
 .fn 61
 Abbé de Castres, Les Trois Siècles, ii. 63.
 .fn-
+.fs
 
+.fs 80%
 .fn 62
 Barbier, Dict. des Ouvrages Anon. et Pseudon.
 .fn-
+.fs
 
 Subsequent apologists of the Jesuits have followed the
 .bn 051.png
@@ -2160,6 +2284,7 @@ preceding and subsequent context, that I might not run the
 risk of citing that for an answer which was in fact an objection,
 which would have been very unjust and blamable.”[63]
 
+.fs 80%
 .fn 63
 Tabaraud, <cite>Dissertation sur la foi qui est due au Temoignage de
 Pascal dans ses Lettres Provinciales</cite>, p 12.—This work, published some
@@ -2168,6 +2293,7 @@ of the Jesuits in the Provincials, accompanied with a mass of authorities.
 The above sentiments have been introduced into Pascal’s
 Thoughts. (See Craig’s translation, p. 185.)
 .fn-
+.fs
 
 If this solemn declaration, emitted by one whose heart was
 a stranger to deceit, and whose shrewdness placed him beyond
@@ -2190,9 +2316,11 @@ Church and of Europe,” were formally condemned, and when
 it may be said that the Provincial Letters met at once their
 full vindication and their final triumph.[64]
 
+.fs 80%
 .fn 64
 Vie de Bossuet, t. iv. p. 19; Tabaraud, Dissert. sur la foi, &c., p. 43.
 .fn-
+.fs
 
 Another class of objectors, whom the Jesuits have had
 the good fortune to number among their apologists, are the
@@ -2254,31 +2382,43 @@ of Father Latour to enter the Academy—an object for
 the accomplishment of which, it is well known, he made the
 most unworthy concessions to the Jesuits.[70]
 
+.fs 80%
 .fn 65
 “The shocking doctrine of Jansenius and of St. Cyran, afforded
 at least as much room for ridicule as the pliant doctrine of Molina, Tambourin,
 and Vasquez.” (D’Alembert, Dest. of the Jesuits, p. 55.)
 .fn-
+.fs
 
+.fs 80%
 .fn 66
 Voltaire, Siècle de Louis XIV., ii. 367.
 .fn-
+.fs
 
+.fs 80%
 .fn 67
 Eichhorn, Geschichte der Lit., i. 426.
 .fn-
+.fs
 
+.fs 80%
 .fn 68
 Prov. Let., p. 118.
 .fn-
+.fs
 
+.fs 80%
 .fn 69
 Ib., p. 142.
 .fn-
+.fs
 
+.fs 80%
 .fn 70
 Tabaraud, p. 117; Bord. Demoulin, Eloge de Pascal, Append.
 .fn-
+.fs
 
 Later critics, in speaking of the Provincials, have indulged
 in a similar strain of vague depreciation; as a specimen of
@@ -2321,13 +2461,17 @@ the world (which he never expected), but that they
 sought, for their own politic ends, to veil its impurities, and
 countenance its evil customs.
 
+.fs 80%
 .fn 71
 Schlegel, Lectures on Hist. of Lit. ii. 188.
 .fn-
+.fs
 
+.fs 80%
 .fn 72
 Letters from Spain, p. 86.
 .fn-
+.fs
 
 Disguising their hostility to science, under the mask of
 friendship to literature, the Jesuits have succeeded in making
@@ -2363,9 +2507,11 @@ the Jesuits have shown in smuggling themselves into places
 of power and trust, is that by which they have succeeded in
 hoodwinking the merely literary portion of society.
 
+.fs 80%
 .fn 73
 Macintosh, History of England, vol. ii. 359, note.
 .fn-
+.fs
 
 But, not to dwell longer on these objections, the Provincials
 are liable to another charge, seldomer advanced, and
@@ -2426,16 +2572,20 @@ the cloister during the dark ages, reached its maturity in the
 hands of a designing priesthood, who still find it too convenient
 a tool for their purposes to part with it.
 
+.fs 80%
 .fn 74
 Eichhorn, Geschichte der Litter., vol. i. pp. 423–425; Weisman,
 Hist. Eccl., vol. ii. 21; Jurieu, Prejugez Legitimes cont. le Papisme, p.
 386; Claude, Defence of the Reformation, p. 29.
 .fn-
+.fs
 
+.fs 80%
 .fn 75
 Jurieu, Justification de la Morale des Reformez, contre M. Arnauld,
 i. p. 30.
 .fn-
+.fs
 
 There are other respects in which we cannot fail to detect,
 throughout these Letters, the enfeebling and embarrassing
@@ -2451,6 +2601,7 @@ dread of heresy, or from a wish to spare the dignity of the
 pope, it is easy to see the timidity, the circumspection, the
 delicacy with which he touches on the point of papal authority.
 
+.fs 80%
 .fn 76
 A disingenuous attempt has been sometimes made to identify these
 nefarious maxims with certain principles held by some of our reformers.
@@ -2469,6 +2620,7 @@ which they have, most presumptuously, perverted in justification of
 their feats in this department. (D’Alembert, Dest. of the Jesuits, p.
 101.)
 .fn-
+.fs
 
 The Jansenists have been called the Methodists of the
 Church of Rome; but the term is applicable to them rather
@@ -2515,9 +2667,11 @@ not the Beast, they cringed before him; he placed his
 dragon-foot upon their necks, and their wisdom and their
 virtues were lost forever to France.”[77]
 
+.fs 80%
 .fn 77
 Taylor, Natural Hist. of Enthusiasm, p. 256.
 .fn-
+.fs
 .bn 060.png
 .pn +1
 
@@ -2549,6 +2703,7 @@ by M. Michelet and M. Quinet, are equally startling,
 and will, in all probability, issue in another expulsion of the
 Jesuits from France.
 
+.fs 80%
 .fn 78
 De l’Existence et de l’Institut des Jesuites. Par le R. P. de Ravignan,
 de la Compagnie de Jesus. Paris, 1845, p. 83. <em>Probabilism</em> is
@@ -2556,10 +2711,13 @@ the doctrine, that if any opinion in morals has been held by any <em>grave
 doctor</em> of the Church, it is <em>probably true</em>, and may be safely followed in
 practice.
 .fn-
+.fs
 
+.fs 80%
 .fn 79
 Gilly, Narrative of an Excursion to Piedmont, p. 156.
 .fn-
+.fs
 
 The policy of the Society, as hitherto exhibited in the
 countries where they have settled, describes a regular cycle
@@ -2634,9 +2792,11 @@ formally censured and ignominiously burnt, along with the
 Bible which Pascal loved, and the martyrs who have suffered
 for “the truth as it is in Jesus.”
 
+.fs 80%
 .fn 80
 Douglas on Errors in Religion, p. 113.
 .fn-
+.fs
 
 .fm lz=t
 
@@ -2695,6 +2855,7 @@ condemned these propositions wherever they might occur, he
 condemned them in Jansenius, if they were really contained
 in that work.[82]
 
+.fs 80%
 .fn 81
 Anthony Arnauld, or Arnaud, priest and doctor of the Sorbonne,
 was the son of Anthony Arnauld, a famous advocate, and born at Paris,
@@ -2714,7 +2875,9 @@ letters from M. Arnauld, in the second of which he exposed the calumnies
 and falsities with which the Jesuits had assailed him in a multitude
 of pamphlets. This is the letter referred to in the text.
 .fn-
+.fs
 
+.fs 80%
 .fn 82
 The book which occasioned these disputes was entitled <cite>Augustinus</cite>,
 and was written by Cornelius Jansenius or Jansen, bishop of Ypres,
@@ -2723,6 +2886,7 @@ work, were condemned by the pope; and armed with these, as with a
 scourge, the Jesuits continued to persecute the Jansenists till they accomplished
 their ruin.
 .fn-
+.fs
 
 The question here was, if he could, without presumption,
 entertain a doubt that these propositions were in Jansenius,
@@ -2786,6 +2950,7 @@ of late, and will not believe things till it sees them. But,
 as I said before, this point is of very little moment, as it has
 no concern with religion.[83]
 
+.fs 80%
 .fn 83
 And yet “the question of fact,” which Pascal professes to treat so
 lightly, became the turning point of all the subsequent persecutions directed
@@ -2798,6 +2963,7 @@ the five propositions to be contained in his book.—(See Narrative of
 the Demolition of the Monastery of Port-Royal, by Mary Anne Schimmelpenninck
 p. 170, &c.)
 .fn-
+.fs
 .bn 066.png
 .pn +1
 
@@ -2843,6 +3009,7 @@ matter,” he said; “that is not a heresy—it is an orthodox
 opinion; all the Thomists[84] maintain it; and I myself have
 defended it in my Sorbonic thesis.”[85]
 
+.fs 80%
 .fn 84
 The Thomists were so called after Thomas Aquinas, the celebrated
 “Angelic Doctor” of the schools. He flourished in the thirteenth century,
@@ -2853,11 +3020,14 @@ the Franciscans took the side of Duns Scotus, and were called Scotists;
 while the Dominicans espoused the cause of Thomas Aquinas, and
 were sometimes called Thomists.
 .fn-
+.fs
 
+.fs 80%
 .fn 85
 <i>Sorbonique</i>—an act or thesis of divinity, delivered in the hall of the
 college of the Sorbonne by candidates for the degree of doctor.
 .fn-
+.fs
 
 I did not venture again to propose my doubts, and yet I
 was as far as ever from understanding where the difficulty
@@ -2891,12 +3061,14 @@ of their opinion?”
 “No,” he replied; “we anathematize it as heretical and
 impious.”[86]
 
+.fs 80%
 .fn 86
 The Jansenists, in their dread of being classed with Lutherans and
 Calvinists, condescended to quibble on this question. In reality, as we
 shall see, they agreed with the Reformers for they denied that any could
 actually obey the commandments without efficacious grace.
 .fn-
+.fs
 
 Confounded by this reply, I soon discovered that I had
 overacted the Jansenist, as I had formerly overdone the
@@ -2910,6 +3082,7 @@ his belief, and that he and all his party would defend it to
 the death, as the pure doctrine of St. Thomas, and of St.
 Augustine their master.
 
+.fs 80%
 .fn 87
 <i>Molinist.</i> The Jesuits were so called, in this dispute, after Lewis
 Molina, a famous Jesuit of Spain, who published a work, entitled <cite>Concordia
@@ -2919,6 +3092,7 @@ divine prescience. This new invention was termed <lang=la><i>Scientia Media</i><
 middle knowledge. All who adopted the sentiments of Molina, whether
 Jesuits or not, were termed Molinists.
 .fn-
+.fs
 
 This was spoken so seriously as to leave me no room for
 doubt; and under this impression I returned to my first doctor,
@@ -2991,6 +3165,7 @@ I shall give you some of their addresses. You have only to
 make a separate visit to one called M. le Moine,[88] and to
 Father Nicolai.”[89]
 
+.fs 80%
 .fn 88
 <i>Pierre le Moine</i> was a doctor of the Sorbonne, whom Cardinal
 Richelieu employed to write against Jansenius. This Jesuit was the
@@ -3001,13 +3176,16 @@ Holy Fathers,” which he suspected to be written by Arnauld. It was
 Le Moine who, according to Nicole, had the chief share in raising the
 storm against Arnauld, of whom he was the bitter and avowed enemy.
 .fn-
+.fs
 
+.fs 80%
 .fn 89
 <i>Father Nicolai</i> was a Dominican—an order of friars who professed
 to be followers of St. Thomas. He is here mentioned as a representative
 of his class; but Nicole informs us that he abandoned the principles
 of his order, and became a Molinist, or an abettor of Pelagianism.
 .fn-
+.fs
 
 “I have no acquaintance with any of these persons,”
 said I.
@@ -3022,6 +3200,7 @@ I happened, in fact, to know some of them.
 Dominicans whom they call the ‘New Thomists,’[90] for they
 are all the same with Father Nicolai.”
 
+.fs 80%
 .fn 90
 <i>New Thomists.</i> It is more difficult to trace or remember the various
 sects into which the Roman Church is divided, than those of the
@@ -3035,6 +3214,7 @@ grace</em>, which was given to all, and yet not sufficient for any actual
 performance without the efficacious. The ridiculous incongruity of this
 doctrine is admirably exposed by Pascal in his second letter.
 .fn-
+.fs
 
 I knew some of them also whom he named; and, resolved
 to profit by this counsel, and to investigate the matter, I
@@ -3091,6 +3271,7 @@ and I begged them to tell me what “proximate power”
 was. “Is it not,” said I, “that power to which nothing is
 wanting in order to act?”
 
+.fs 80%
 .fn 91
 <i>Jacobins</i>, another name for the Dominicans in France, where they
 were so called from the street in Paris, Rue de St. Jacques, where their
@@ -3104,6 +3285,7 @@ heretics. He was the founder of the Inquisition, and his order was, before
 the Reformation, what the Jesuits were after it—the soul of the
 Romish hierarchy, and the bitterest enemies of the truth.
 .fn-
+.fs
 
 “No,” said they.
 
@@ -3160,10 +3342,12 @@ fortune; but I have discovered since then that such meetings
 are not rare—that, in fact, they are constantly mixing in
 each other’s society.[92]
 
+.fs 80%
 .fn 92
 This is a sly hit at the Dominicans for combining with their natural
 enemies the Jesuits, in order to accomplish the ruin of M. Arnauld.
 .fn-
+.fs
 
 “I know a man,” said I, addressing myself to M. le
 Moine’s disciple, “who holds that all the righteous have always
@@ -3178,6 +3362,7 @@ call that power <em>proximate power</em>, he will be a Thomist, and
 therefore a Catholic; if not, he will be a Jansenist, and
 therefore a heretic.”
 
+.fs 80%
 .fn 93
 <lang=la><i>Distinguo.</i></lang> “I draw a distinction”—a humorous allusion to the
 endless distinctions of the Aristotelian school, in which the writings of
@@ -3187,6 +3372,7 @@ was particularly famous for these <em>distinguos</em>, frequently introducing
 three or four of them in succession on one head; and the disciple in the
 test is made to echo the favorite phrase of his master.
 .fn-
+.fs
 
 “He calls it neither proximate nor non-proximate,” said I.
 
@@ -3248,10 +3434,12 @@ into the bargain; for we are the majority, and should it be
 necessary, we can bring a sufficient number of Cordeliers[94]
 into the field to carry the day.”
 
+.fs 80%
 .fn 94
 <i>Cordeliers</i>, a designation of the Franciscans, or monks of the order
 of St. Francis.
 .fn-
+.fs
 
 On hearing this solid argument, I took my leave of them,
 to write you the foregoing account of my interview, from
@@ -3276,17 +3464,21 @@ but I can easily see that it will do no other harm than diminish
 the credit[96] of the Sorbonne, and deprive it of that
 authority which is so necessary to it on other occasions.
 
+.fs 80%
 .fn 95
 The Royal Academy, which compiled the celebrated dictionary of
 the French language, and was held at that time to be the great umpire
 in literature.
 .fn-
+.fs
 
+.fs 80%
 .fn 96
 The edition of 1657 had it, <lang=fr><i>Rendre la Sorbonne meprisable</i></lang>—“Render
 the Sorbonne contemptible”—an expression much more just, but
 which the editors durst not allow to remain in the subsequent editions.
 .fn-
+.fs
 
 Meanwhile, I leave you at perfect liberty to hold by the
 word <em>proximate</em> or not, just as you please; for I love you
@@ -3359,9 +3551,11 @@ said I, “this grace is <em>sufficient</em> without being sufficient.”
 is no need of anything more for acting; and if it does not
 suffice, why—it is not sufficient.”
 
+.fs 80%
 .fn 97
 The Dominicans.
 .fn-
+.fs
 
 “But,” asked I, “where, then, is the difference between
 them and the Jansenists?” “They differ in this,” he replied,
@@ -3425,11 +3619,13 @@ thing signified by that word is held by the Jacobins as well
 as by the Jesuits; and the result will show that these last are
 not the greatest dupes.”[98]
 
+.fs 80%
 .fn 98
 <lang=fr><i>Et la suite fera voir que ces derniers ne sont pas les plus dupes.</i></lang>
 This clause, which appears in the last Paris edition, is wanting in the
 ordinary editions. The following sentence seems to require it.
 .fn-
+.fs
 
 I acknowledged that they were a shrewd class of people,
 .bn 079.png
@@ -3494,6 +3690,7 @@ a man may really act?” “How!” cried the good man;
 of <em>efficacious grace</em> for acting effectively, is a point of <em>faith</em>—it
 is heresy to deny it.”
 
+.fs 80%
 .fn 99
 <lang=fr><i>Il opine du bonnet comme un moine en Sorbonne</i></lang>—literally, “He
 votes with his cap like a monk in the Sorbonne”—alluding to the custom
@@ -3503,6 +3700,7 @@ was a trick of the Jesuits, or Molinist party, to prevent their opponents
 from entering closely into the merits of the controversy, which
 required frequent references to the fathers. (Nicole, i. 184.)
 .fn-
+.fs
 
 “Where are we now?” I exclaimed; “and which side am
 I to take here? If I deny the sufficient grace, I am a Jansenist.
@@ -3684,6 +3882,7 @@ losing our own credit, than by admitting the name of sufficient
 grace, while we denied that it was such in effect? Such
 is the real history of the case.”
 
+.fs 80%
 .fn 100
 “It is certain,” says Bayle, “that the obligation which the Romish
 Church is under to respect the doctrine of St. Augustine on the subject
@@ -3707,6 +3906,7 @@ condemns do not reject free-will, except as signifying the liberty of indifferen
 The Thomists, also, reject it under this notion, and yet they
 pass for very good Catholics.” (Bayle’s Dict., art. <cite>Augustine</cite>.)
 .fn-
+.fs
 
 This was spoken in such a melancholy tone, that I really
 began to pity the man; not so, however, my companion.
@@ -3733,6 +3933,7 @@ in the sense of the Jesuits</em>. St. Thomas, whom we have
 sworn to follow even to the death, is diametrically opposed
 to such doctrine.”[101]
 
+.fs 80%
 .fn 101
 It is a singular fact that the Roman Church, which boasts so much
 of her unity, and is ever charging the Reformed with being Calvinists,
@@ -3742,6 +3943,7 @@ is one principle more essential than another to the Reformation, it is that
 of entire independence of all masters in the faith: “Nullius addictus
 jurare in verba magistri.”
 .fn-
+.fs
 
 To this my friend, who took up the matter more seriously
 than I did, replied: “Come now, father, your fraternity has
@@ -3777,6 +3979,7 @@ darkness, and without the crown, as a punishment for the
 coldness which you manifest to a cause so important to his
 Church.”[105]
 
+.fs 80%
 .fn 102
 “The famous St. Bernard, abbot of Clairval, whose influence
 throughout all Europe was incredible—whose word was a law, and
@@ -3785,22 +3988,29 @@ to which the most respectful obedience was due; this eminent ecclesiastic
 was the person who contributed most to enrich and aggrandize the Cistercian
 order.” (Mosh. Eccl. Hist., cent. xii.)
 .fn-
+.fs
 
+.fs 80%
 .fn 103
 Thomas Aquinas, a scholastic divine of the thirteenth century, who
 was termed the <i>Angelic Doctor</i>.
 .fn-
+.fs
 
+.fs 80%
 .fn 104
 Augustine.
 .fn-
+.fs
 
+.fs 80%
 .fn 105
 Who can help regretting that sentiments so evangelical, so truly
 noble, and so eloquently expressed, should have been held by Pascal
 in connection with a Church which denounced him as a heretic for upholding
 them!
 .fn-
+.fs
 
 He might have gone on in this strain much longer, for he
 was kindling as he advanced, but I interrupted him by rising
@@ -3818,11 +4028,13 @@ I may tell you, that it appears to me that both the proximate
 power and this same sufficient grace may be safely doubted
 by anybody, provided he is not a Jacobin.[106]
 
+.fs 80%
 .fn 106
 An ironical reflection on the cowardly compromise of the Jacobins,
 or Dominicans, for having pledged themselves to the use of the term
 “sufficient,” in order to please the Jesuits.
 .fn-
+.fs
 
 I have just come to learn, when closing my letter, that the
 censure[107] has passed. But as I do not yet know in what
@@ -3830,10 +4042,12 @@ terms it is worded, and as it will not be published till the
 15th of February, I shall delay writing you about it till the
 next post.—I am, &c.
 
+.fs 80%
 .fn 107
 The censure of the Theological Faculty of the Sorbonne passed
 against M. Arnauld, and which is fully discussed in Letter iii.
 .fn-
+.fs
 
 .fm lz=t
 
@@ -3871,12 +4085,14 @@ and <em>remote</em> power. I am sorry for it; and still more sorry
 that my small power cannot discharge me from my obligations
 to you,” &c.
 
+.fs 80%
 .fn 108
 The Cardinal de Richelieu, the celebrated founder of the French
 Academy. The Sorbonne owed its magnificence to the liberality of this
 eminent statesman, who rebuilt its house, enlarged its revenues, enriched
 its library, and took it under his special patronage.
 .fn-
+.fs
 
 My next extract is from the pen of a lady, whom I shall
 not indicate in any way whatever. She writes thus to a
@@ -3967,6 +4183,7 @@ schismatics, but apostates and infidels—with “denying the
 mystery of transubstantiation, and renouncing Jesus Christ
 and the Gospel.”[109]
 
+.fs 80%
 .fn 109
 The charge of “denying the mystery of transubstantiation,” certainly
 did not justly apply to the Jansenists as such; these religious
@@ -3979,6 +4196,7 @@ practically at variance with transubstantiation, and many other errors
 of the Church to which they nominally belonged. (Mad. Schimmelpenninck’s
 Demolition of Port-Royal, pp. 77–80, &c.)
 .fn-
+.fs
 
 After having published these startling[110] accusations, it was
 resolved to examine their writings, in order to pronounce
@@ -3990,14 +4208,18 @@ to discover something that they might lay hold upon, and at
 length they produce one proposition of a doctrinal character,
 which they exhibit for censure.
 
+.fs 80%
 .fn 110
 <lang=fr><i>Atroces</i></lang>—“atrocious.” (Edit. 1657.)
 .fn-
+.fs
 
+.fs 80%
 .fn 111
 <lang=fr><i>Des plus detestables erreurs</i></lang>—“the most detestable errors.” (Edit.
 1657.) <lang=fr><i>Erreurs</i></lang>—“errors.” (Nicole’s Edit., 1767.)
 .fn-
+.fs
 
 What else could any one infer from such proceedings, than
 that this proposition, selected under such remarkable circumstances,
@@ -4011,9 +4233,11 @@ there was a very great difference; for the passages from the
 fathers being unquestionably catholic, the proposition of M.
 Arnauld, if heretical, must be widely opposed[112] to them.
 
+.fs 80%
 .fn 112
 <lang=fr><i>Horriblement contraire</i></lang>—“horribly contrary.” (Edit. 1657.)
 .fn-
+.fs
 .bn 092.png
 .pn +1
 
@@ -4064,6 +4288,7 @@ language, as when he says “that his fall did not happen
 through his own coldness or negligence, but through the failure
 of grace, and the withdrawment of God?”[113]
 
+.fs 80%
 .fn 113
 The meaning of Chrysostom is good, but the expressions of these
 ancient fathers are often more remarkable for their strength than their
@@ -4073,6 +4298,7 @@ can only be in the sense of a temporary suspension of its influences;
 and that this withdrawment of grace must be regarded as the punishment,
 and not as the cause, of his own negligence.
 .fn-
+.fs
 
 Such considerations as these kept everybody in a state of
 breathless suspense, to learn in what this diversity could
@@ -4188,10 +4414,12 @@ weakness, they have judged it more to the purpose, and
 much less troublesome, to censure than to reply—it being a
 much easier matter with them to find monks than reasons.”[114]
 
+.fs 80%
 .fn 114
 That is, they could more readily procure monks to vote against M.
 Arnauld, than arguments to answer him.
 .fn-
+.fs
 
 “Why then,” said I, “if this be the case, their censure is
 not worth a straw; for who will pay any regard to it, when
@@ -4226,6 +4454,7 @@ triumph; again it is by a comedy, in which Jansenius is represented
 as carried off by devils; at another time it is by an
 almanac; and now it is by this censure.”[115]
 
+.fs 80%
 .fn 115
 The allusions in the text afford curious illustrations of the mode of
 warfare pursued by the Jesuits of the seventeenth century. The first
@@ -4247,6 +4476,7 @@ Prints of the Famous Jesuitical Almanac,” in which the Jesuits were
 so successfully held up to ridicule, that they could hardly show face for
 some time in the streets of Paris. (Nicole, i. p. 208.)
 .fn-
+.fs
 .bn 097.png
 .pn +1
 
@@ -4270,9 +4500,11 @@ from this prudent arrangement, suffered for their temerity.
 They found themselves rather too vigorously[116] refuted by his
 second apology.
 
+.fs 80%
 .fn 116
 <lang=fr><i>Vertement</i></lang>—“smartly.” (Edit. 1657.)
 .fn-
+.fs
 
 “On the same principle, they had recourse to that rare and
 very novel device of the half-hour and the sand-glass.[117] By
@@ -4282,13 +4514,17 @@ arguments, to produce books which might convict them of
 forgery, to insist on a reply, and reduce them to the predicament
 of having none to give.
 
+.fs 80%
 .fn 117
 See Letter ii.
 .fn-
+.fs
 
+.fs 80%
 .fn 118
 <lang=fr><i>Ces docteurs</i></lang>—“those doctors.” (Edit. 1767.)
 .fn-
+.fs
 .bn 098.png
 .pn +1
 
@@ -4362,6 +4598,7 @@ who are no doctors, have nothing to do with their quarrels.
 Tell our friends the news of the censure, and love me while
 I am, &c.[119]
 
+.fs 80%
 .fn 119
 In Nicole’s edition, this letter is signed with the initials “E. A. A.
 B. P. A. F. D. E. P.” which seem merely a chance medley of letters, to
@@ -4372,6 +4609,7 @@ means for abolishing Christianity; among the persons present at which,
 indicated by initials, Anthony Arnauld was ridiculously accused of having
 been one under the initials A. A. (See Bayle’s Dict., art. <cite>Ant. Arnauld</cite>.)
 .fn-
+.fs
 
 .fm lz=t
 
@@ -4470,6 +4708,7 @@ books; and presenting to me the first that came to hand,
 Father Bauny[120]—the fifth edition too, you see, which shows
 that it is a good book.”
 
+.fs 80%
 .fn 120
 Etienne Bauni, or Stephen Bauny, was a French Jesuit. His
 “Summary,” which Pascal has immortalized by his frequent references
@@ -4484,6 +4723,7 @@ written in 1657, by Father Pirot, and acknowledged by the Jesuits as
 having been written under their direction! (Nicole, Hist. des Provinciales,
 p. 30.)
 .fn-
+.fs
 
 “It is a pity, however,” whispered the Jansenist in my
 ear, “that this same book has been condemned at Rome, and
@@ -4524,6 +4764,7 @@ not be as a punishment for that omission.” And a few lines
 below, he adds: “The same thing may be said of a culpable
 commission.”
 
+.fs 80%
 .fn 121
 Francis Annat was born in the year 1590. He was made rector of
 the College of Toulouse, and appointed by the Jesuits their French
@@ -4541,6 +4782,7 @@ from the unfounded charges which the Jesuits have reiterated on this
 point. (Notes Preliminaires, vol. i. p. 256, &c.; Entretiens de Cleandre
 et Eudoxe, p. 79.)
 .fn-
+.fs
 
 “You see,” said the monk, “how he speaks of sins of
 <em>omission</em> and of <em>commission</em>. Nothing escapes him. What
@@ -4560,6 +4802,7 @@ joy? Are you sure there is nothing here like that <em>sufficiency</em>
 was taken in with that once already! Are you
 quite in earnest?”
 
+.fs 80%
 .fn 122
 When Madame du Valois, a lady of birth and high accomplishments,
 one of the nuns of Port-Royal, among other trials by which she
@@ -4575,6 +4818,7 @@ heaven, though without the sacraments, for the cause of truth, than,
 receiving the sacraments, to be cited to irrevocable judgment for committing
 perjury.” (Narrative of Dem. of Port-Royal, p. 176.)
 .fn-
+.fs
 
 “How now!” cried the monk, beginning to get angry;
 “here is no matter for jesting. I assure you there is no such
@@ -4583,12 +4827,14 @@ thing as equivocation here.”
 “I am not making a jest of it,” said I; “but that is what
 I really dread, from pure anxiety to find it true.”[123]
 
+.fs 80%
 .fn 123
 Will it be believed that the Jesuits actually had the consummate
 hypocrisy to pretend that Pascal meant to throw ridicule on the grace
 of God, while he was merely exposing to merited contempt their own
 perversions of the doctrine?
 .fn-
+.fs
 
 “Well then,” he said, “to assure yourself still more of it,
 here are the writings of M. le Moine,[124] who taught the doctrine
@@ -4608,9 +4854,11 @@ physician who can heal it. 4. God inspires it with a desire
 to be healed. 5. God inspires a desire to pray and solicit
 his assistance.”
 
+.fs 80%
 .fn 124
 See before, page 70.
 .fn-
+.fs
 
 “And unless all these things occur and pass through the
 soul,” added the monk, “the action is not properly a sin, and
@@ -4710,6 +4958,7 @@ trust-worthy in one article, you are to be suspected in them
 all; and thus you shut them up to conclude, either that
 religion is false, or that you must know very little about it.”
 
+.fs 80%
 .fn 125
 The Jesuits were notorious for the assiduity with which they sought
 admission into the families, and courted the confidence of the great, with
@@ -4728,6 +4977,7 @@ himself forgotten, paid a visit to his former penitent, and gave him back
 the portrait, which renewed all his former passion, and soon brought
 him again to the feet of his confessor!
 .fn-
+.fs
 
 Here my friend the Jansenist, following up my remarks,
 said to him: “You would do well, father, if you wish to
@@ -4855,6 +5105,7 @@ that the best of saints, though unconscious of any culpability,
 ought always, as St. Paul says of himself, to remain in
 ‘fear and trembling?’[126]
 
+.fs 80%
 .fn 126
 “The doubtsome faith of the pope,” as it was styled by our Reformers,
 is here lamentably apparent. The “fear and trembling” of the
@@ -4869,6 +5120,7 @@ the sway of priestly domination, accounts for the <em>gloom</em> which has
 characterized, in all ages, the devotion of the best and most intelligent
 Romanists.
 .fn-
+.fs
 
 “You perceive, then, father, that this knowledge of the
 evil, and love of the opposite virtue, which you imagine to be
@@ -5032,9 +5284,11 @@ and yet the action itself is nevertheless sinful, for it is enough
 to constitute it such that he has done what he was bound
 not to do.’”
 
+.fs 80%
 .fn 127
 Augustine.
 .fn-
+.fs
 
 The Jesuit seemed to be confounded more with the passage
 from Aristotle, I thought, than that from St. Augustine;
@@ -5107,6 +5361,7 @@ they have said it; and in one sense you will find the account
 amply verified by the sequel of this communication, in which
 I propose to treat of their maxims.
 
+.fs 80%
 .fn 128
 <cite>Imago Primi Seculi.</cite>—The work to which Pascal here refers was
 printed by the Jesuits in Flanders in the year 1640, under the title of
@@ -5119,10 +5374,13 @@ Pratique des Jésuites.” The small specimen which Pascal has given
 conveys but an imperfect idea of the mingled blasphemy and absurdity
 of this Jesuitical production.
 .fn-
+.fs
 
+.fs 80%
 .fn 129
 Isa. xviii. 2.
 .fn-
+.fs
 
 Determined to obtain the best possible information, I did
 not trust to the representations of our friend the Jansenist,
@@ -5143,11 +5401,13 @@ to me were lax. This led him to explain to me the spirit of
 the Society, which is not known to every one; and you will
 perhaps have no objections to learn something about it.
 
+.fs 80%
 .fn 130
 The reader is requested to notice how completely the charge brought
 against the Provincial Letters by Voltaire and others is here anticipated
 and refuted. (See Hist. Introduction.)
 .fn-
+.fs
 
 “You imagine,” he began, “that it would tell considerably
 in their favor to show that some of their fathers are as friendly
@@ -5206,6 +5466,7 @@ directors to guide them. They have a few for the select
 few; while whole multitudes of lax casuists are provided for
 the multitudes that prefer laxity.[131]
 
+.fs 80%
 .fn 131
 “It must be observed that most of those Jesuits who were so severe
 in their writings, were less so towards their penitents. It has been said
@@ -5215,6 +5476,7 @@ on the part of the Jesuits, inasmuch as speculative severity suits
 persons of rigid morals, and practical condescension attracts the multitude.”
 (D’Alembert, Account of Dest. of Jesuits, p. 44.)
 .fn-
+.fs
 .bn 119.png
 .pn +1
 
@@ -5231,12 +5493,14 @@ particularly hard case indeed, if they cannot furnish him
 with means of evading the duty, of one kind or another, the
 lawfulness of which they will be ready to guarantee.
 
+.fs 80%
 .fn 132
 Petau was one of the obscure writers who were employed by the
 Jesuits to publish defamatory libels against M. Arnauld and the bishops
 who approved of his book on Frequent Communion. (Coudrette, ii.
 426.)
 .fn-
+.fs
 
 “By this policy they keep all their friends, and defend
 themselves against all their foes; for, when charged with
@@ -5276,6 +5540,7 @@ of the crucifix in their churches:—all which is amply detailed
 in the decree of that Congregation, dated the 9th of
 July, 1646, and signed by Cardinal Capponi.[133]
 
+.fs 80%
 .fn 133
 The policy to which Pascal refers was introduced by Matthew
 Ricci, an Italian Jesuit, who succeeded the famous Francis Xavier in
@@ -5310,6 +5575,7 @@ impertiendam</i></lang>; or with Bellarmine who devotes a chapter expressly
 to prove that true and proper worship is to be given to images.
 (Stillingfleet on Popery, by Dr. Cunningham, p. 77.)
 .fn-
+.fs
 .bn 121.png
 .pn +1
 
@@ -5383,10 +5649,13 @@ it difficult to sleep without taking supper? “Yes, my good
 father,” said I; “and for that reason I am obliged often to
 take a refreshment at mid-day, and supper at night.”[135]
 
+.fs 80%
 .fn 134
 Lent.
 .fn-
+.fs
 
+.fs 80%
 .fn 135
 “According to the rules of the Roman Catholic fast, one meal alone
 is allowed on a fast-day. Many, however, fall off before the end of
@@ -5394,6 +5663,7 @@ Lent, and take to their breakfast and suppers, under the sanction of
 some good-natured doctor, who declares fasting injurious to their health.”
 (Blanco White, Letters from Spain, p. 272.)
 .fn-
+.fs
 
 “I am extremely happy,” he replied, “to have found out
 a way of relieving you without sin: go in peace—you are
@@ -5406,6 +5676,7 @@ On going thither with him he took up a book, exclaiming,
 with great rapture, “Here is the authority for you: and, by
 my conscience, such an authority! It is <sc>Escobar</sc>!”[136]
 
+.fs 80%
 .fn 136
 Father Antoine Escobar of Mendoza was a Jesuit of Spain, and born
 at Valladolid in 1589, where he died in 1669. His principal work is his
@@ -5438,6 +5709,7 @@ letters</em> had done. Boileau has celebrated him in the following couplet:—
 .nf-
 
 .fn-
+.fs
 
 “Who is Escobar?” I inquired.
 
@@ -5450,9 +5722,11 @@ presents it thus sealed to the four living creatures, Suarez,
 Vasquez, Molina, and Valencia,[137] in presence of the four-and-twenty
 Jesuits who represent the four-and-twenty elders?’”
 
+.fs 80%
 .fn 137
 Four celebrated casuists.
 .fn-
+.fs
 
 He read me, in fact, the whole of that allegory, which he
 pronounced to be admirably appropriate, and which conveyed
@@ -5496,9 +5770,11 @@ and a dram of hippocrass too.’[138] I had no recollection of
 the hippocrass,” said the monk; “I must take a note of that
 in my memorandum-book.”
 
+.fs 80%
 .fn 138
 <i>Hippocrass</i>—a medicated wine.
 .fn-
+.fs
 
 “He must be a nice man, this Escobar,” observed I.
 
@@ -5515,12 +5791,14 @@ pleased for an hour after midnight, not being till then fully
 twenty-one; and therefore having a right to break the fast-day,
 you are not obliged to keep it.’”
 
+.fs 80%
 .fn 139
 All persons above the age of one-and-twenty are bound to observe
 the rules of the Roman Catholic fast during Lent. The obligation of
 fasting begins at midnight, just when the leading clock of every town
 strikes twelve. (Letters from Spain, p. 270.)
 .fn-
+.fs
 
 “Well, that is vastly entertaining!” cried I.
 
@@ -5538,11 +5816,13 @@ from fasting, will he be held obliged? He will not,
 even though he should have had that design.’ There now!
 would you have believed that?”
 
+.fs 80%
 .fn 140
 <lang=la><i>Ad insequendam amicam.</i></lang> (Tom. ii. tr. 27, part 2, c. 6, n. 143.) The
 accuracy with which the references are made to the writings of these
 casuists shows anything but a design to garble or misrepresent them.
 .fn-
+.fs
 
 “Indeed, good father, I do not believe it yet,” said I.
 “What! is it no sin for a man not to fast when he has it in
@@ -5566,12 +5846,14 @@ that they cannot give them up without becoming the
 common talk of the world, or subjecting themselves to personal
 inconvenience.’”
 
+.fs 80%
 .fn 141
 In the technical language of theology, an “occasion of sin” is any
 situation or course of conduct which has a tendency to induce the commission
 of sin. “Proximate occasions” are those which have a direct
 and immediate tendency of this kind.
 .fn-
+.fs
 
 “I am glad to hear it, father,” I remarked; “and now
 that we are not obliged to avoid the occasions of sin, nothing
@@ -5628,6 +5910,7 @@ Glad to see him come to the point to which I had been
 drawing him on, I expressed my satisfaction, and requested
 him to explain what was meant by a probable opinion?[142]
 
+.fs 80%
 .fn 142
 “The casuists are divided into <lang=la><i>Probabilistæ</i></lang> and <lang=la><i>Probabilioristæ</i></lang>.
 The first, among whom were the Jesuits, maintain that a certain degree
@@ -5639,6 +5922,7 @@ on always taking the <em>safest</em> or most probable side. The French proverb,
 effects of these two systems in Spain.” (Letters from Spain, p. 277.)
 Nicole has a long dissertation on the subject in his Notes on this Letter.
 .fn-
+.fs
 
 “That,” he replied, “our authors will answer better than
 I can do. The generality of them, and, among others, our
@@ -5765,9 +6049,11 @@ may always say with Diana, on his finding that Father Bauny
 was on his side, while Father Lugo was against him: <lang=la><i>Sæpe
 premente deo, fert deus alter opem</i></lang>.”[143]
 
+.fs 80%
 .fn 143
 “When one god presses hard, another brings relief.”
 .fn-
+.fs
 
 “I understand you,” resumed I; “but a practical difficulty
 has just occurred to me, which is this, that supposing
@@ -5843,6 +6129,7 @@ of his authorities, which amount to two hundred and ninety-six,
 and the most ancient of them is only about eighty years
 old.”
 
+.fs 80%
 .fn 144
 In the twelfth century, in consequence of the writings of Peter
 Lombard, commonly called the “Master of the Sentences,” the Christian
@@ -5856,6 +6143,7 @@ practice of choosing a certain priest, not only to be the occasional confessor,
 but <em>the director of the conscience</em>, was greatly encouraged by the
 Jesuits.” (Letters from Spain, p. 89.)
 .fn-
+.fs
 
 “It would appear, then,” I remarked, “that all these have
 come into the world since the date of your Society?”
@@ -5879,6 +6167,7 @@ Scarcia, Quaranta, Scophra, Pedezza, Cabrezza, Bisbe, Dias,
 De Clavasis, Villagut, Adam à Manden, Iribarne, Binsfeld,
 Volfangi à Vorberg, Vosthery, Strevesdorf.”[145]
 
+.fs 80%
 .fn 145
 In this extraordinary list of obscure and now forgotten casuistical
 writers, most of them belonging to Spain, Portugal, and Flanders, the
@@ -5901,6 +6190,7 @@ satirized to the ear of an Englishman:—
 (Milton’s Minor Poems.)
 
 .fn-
+.fs
 
 “O my dear father!” cried I, quite alarmed, “were all
 these people Christians?”
@@ -5949,10 +6239,12 @@ alarmed.
 and the councils, whom you cannot gainsay, and who are all
 in the way of the Gospel.”[146]
 
+.fs 80%
 .fn 146
 That is, they were all, in Pascal’s opinion, favorable to the Gospel
 scheme of morality.
 .fn-
+.fs
 .bn 134.png
 .pn +1
 
@@ -6045,11 +6337,13 @@ to give alms of their superfluity, even though the affirmative
 were true, it will seldom or never happen to be obligatory in
 practice.’”
 
+.fs 80%
 .fn 147
 Luke xi. 41.—<lang=la><i>Quod superest, date eleemosynam</i></lang> (Vulgate); τα ἐνοντα
 ότε (Gr.); <lang=la><i>Ea quæ penes vos sunt date</i></lang> (Beza); “Give alms of such
 things as ye have.” (Eng. Ver.)
 .fn-
+.fs
 
 “I see very well how that follows from the doctrine of
 Vasquez,” said I. “But how would you answer this objection,
@@ -6059,6 +6353,7 @@ muster as much ambition as to have no superfluity; as it
 is safe, according to the Gospel, to have no ambition at all,
 in order to have some superfluity for the purpose of alms-giving?”[148]
 
+.fs 80%
 .fn 148
 When Pascal speaks of alms-giving “working out our salvation,”
 it is evident that he regarded it only as the evidence of our being in
@@ -6076,6 +6371,7 @@ which he could not endure. “One thing I have observed,” he
 says in his Thoughts—“that let a man be ever so poor, he has always
 something to leave on his death-bed.”
 .fn-
+.fs
 
 “Why,” returned he, “the answer would be, that both
 .bn 137.png
@@ -6116,10 +6412,12 @@ sollicitantes</i></lang>? and how our four-and-twenty, in another
 chapter of the Practice according to the School of our Society,
 explain the bull of Pius V. <lang=la><i>contra clericos</i></lang>, &c.?”[149]
 
+.fs 80%
 .fn 149
 These bulls were directed against gross and unnatural crimes prevailing
 among the clergy. (Nicolo, ii. pp. 372–376.)
 .fn-
+.fs
 
 “I know nothing about all that,” said I.
 .bn 138.png
@@ -6133,10 +6431,12 @@ no small difficulty, too, in procuring a copy. I don’t know
 how it is, but everybody of late has been in search of
 him.”[150]
 
+.fs 80%
 .fn 150
 An allusion to the popularity of the Letters, which induced many
 to inquire after the casuistical writings so often quoted in them.
 .fn-
+.fs
 
 “The passage to which I referred,” returned the monk,
 “may be found in treatise 1, example 8, no. 102. Consult
@@ -6155,9 +6455,11 @@ a particular vow to a Lenten life,[151] cannot be absolved from
 it even though they should become bishops. And yet Diana
 avers that notwithstanding this decision they <em>are</em> absolved.”
 
+.fs 80%
 .fn 151
 <i>Lenten life</i>—an abstemious life, or life of fasting.
 .fn-
+.fs
 
 “And how does he reconcile that?” said I.
 
@@ -6266,12 +6568,14 @@ makes nearly all of us innocent. I beseech you, my dear
 sir, let me know all about it. I will not leave you till you
 have told me all the maxims which your casuists have established.”
 
+.fs 80%
 .fn 152
 <lang=fr><i>Prevaricateurs.</i></lang>—Alluding probably to such texts as Rom. iv. 15:
 “The law worketh wrath; for where no law is, there is no transgression.”—<lang=la><i>Ubi
 enim non est lex, nec prevaricatio</i></lang> (Vulg.); or Rom. v.
 13, &c.
 .fn-
+.fs
 
 “Alas!” the monk exclaimed, “our main object, no doubt,
 should have been to establish no other maxims than those
@@ -6295,6 +6599,7 @@ The grand project of our Society, for the good of religion, is
 never to repulse any one, let him be what he may, and so
 avoid driving people to despair.[154]
 
+.fs 80%
 .fn 153
 The Rules (<lang=la><i>Regulæ Communes</i></lang>) of the Society of Jesus, it must be
 admitted, are rigid enough in the enforcement of moral decency and
@@ -6319,7 +6624,9 @@ fear of God.” “But,” says the author, “whatever they might be then,
 it is plain that they have since lost the seed of that herb for it no longer
 grows in their garden.” (Jesuites sur l’Echaufaud, ch. 6.)
 .fn-
+.fs
 
+.fs 80%
 .fn 154
 It has been observed, with great truth, by Sir James Macintosh,
 that “casuistry, the inevitable growth of the practices of confession and
@@ -6327,6 +6634,7 @@ absolution, has generally vibrated betwixt the extremes of impracticable
 severity and contemptible indulgence.” (Hist. of England, vol. ii.
 p. 359.)
 .fn-
+.fs
 
 “They have got maxims, therefore, for all sorts of persons;
 for beneficiaries, for priests, for monks; for gentlemen,
@@ -6339,11 +6647,13 @@ irregular people. In short, nothing has escaped their foresight.”
 clergy, the nobility, and the commons.[155] Well, I am quite
 impatient to hear them.”
 
+.fs 80%
 .fn 155
 <lang=fr><i>Tiers etat.</i></lang>—These were the three orders into which the people of
 France were divided; the <lang=fr><i>tiers etat</i></lang> or third estate, corresponding to our
 commons.
 .fn-
+.fs
 
 “Let us commence,” resumed the father, “with the beneficiaries.
 You are aware of the traffic with benefices that is
@@ -6420,6 +6730,7 @@ of a mass, or, in other words, for the matter of fourpence or
 fivepence. Verily, father, little as I pretend to be a <em>grave</em>
 man, I might contrive to make this opinion probable.”
 
+.fs 80%
 .fn 156
 With all respect for Pascal and his good intention, it is plain that
 there is a wide difference between the duty, illustrated by the apostle
@@ -6447,7 +6758,9 @@ the popish priests—by this craft they have their wealth—and the whole
 of its history proves that it was invented for no other purposes than imposture
 and extortion.
 .fn-
+.fs
 
+.fs 80%
 .fn 157
 Heb. vii. 27.—It is astonishing to see an acute mind like that of
 Pascal so warped by superstition as not to perceive that in this, and
@@ -6465,6 +6778,7 @@ though this name has been applied to the Christian people who offer up
 the “spiritual sacrifices” of praise and good works. (Heb. xiii. 15, 16;
 1 Pet. ii. 5.)
 .fn-
+.fs
 
 “It would cost you no great pains to do that,” replied the
 monk; “it is visibly probable already. The difficulty lies in
@@ -6494,9 +6808,11 @@ Sancius says, He may without any sin; and I hold his opinion
 to be safe, and one which may be followed in practice—<lang=la><i>et
 tuta et sequenda in praxi</i></lang>.”[158]
 
+.fs 80%
 .fn 158
 Treatise 10, p 474; ib., p. 441; Quest. 32, p. 457.
 .fn-
+.fs
 
 “Follow this opinion in practice!” cried I. “Will any
 priest who has fallen into such irregularities, have the assurance
@@ -6533,14 +6849,18 @@ and women, were that possible, but even inanimate bodies,
 and even brute beasts—<lang=la><i>bruta animalia</i></lang>—were transformed
 into priests to celebrate mass.’”[160]
 
+.fs 80%
 .fn 159
 Tom. ii. tr. 25. n. 33. And yet they will pretend to hold that their
 Church is infallible!
 .fn-
+.fs
 
+.fs 80%
 .fn 160
 Book of the Hierarchy, p. 611, Rouen edition.
 .fn-
+.fs
 
 I was so astounded at the extravagance of this imagination,
 that I could not utter a word, and allowed him to go on
@@ -6562,11 +6882,13 @@ justè præcepit</i></lang>—but only probably so; and consequently,
 you are only probably bound to obey him, and probably
 not bound—<lang=la><i>probabiliter obligatus, et probabiliter deobligatus</i></lang>.’”
 
+.fs 80%
 .fn 161
 Op. Mor. p. 1, disp. 2, p. 6. <i>Ferdinand de Castro Palao</i> was a
 Jesuit of Spain, and author of a work on Virtues and Vices, published
 in 1631.
 .fn-
+.fs
 
 “Certainly, father,” said I, “it is impossible too highly to
 estimate this precious fruit of the double probability.”
@@ -6774,9 +7096,11 @@ TO KILL JANSENISTS.
 .in
 .fs
 
+.fs 80%
 .fn 162
 This Letter was revised by M. Nicole.
 .fn-
+.fs
 
 .sp 2
 
@@ -6917,9 +7241,11 @@ the vengeance of God, and his sins will not be forgotten.’
 Besides all that is said in the Gospel about forgiving offences,
 as in the 6th and 18th chapters of St. Matthew.’”
 
+.fs 80%
 .fn 163
 <cite>In praxi</cite>: liv. xxi., num. 62, p. 260.
 .fn-
+.fs
 
 “Well, father, if after that he says anything contrary to
 the Scripture, it will not be from lack of scriptural knowledge,
@@ -6951,13 +7277,17 @@ that our great Hurtado de Mendoza says, that ‘we may <em>pray
 God</em> to visit with speedy death those who are bent on persecuting
 us, if there is no other way of escaping from it.’”[165]
 
+.fs 80%
 .fn 164
 De Just., liv. ii., c. 9, d. 12, n. 79.
 .fn-
+.fs
 
+.fs 80%
 .fn 165
 In his book, De Spe, vol. ii., d. 15, sec. 4, 848.
 .fn-
+.fs
 
 “May it please your reverence,” said I, “the Church
 has forgotten to insert a petition to that effect among her
@@ -6977,9 +7307,11 @@ when it happens; provided always it is for the sake of the
 profit that is to accrue from the event, and not from personal
 aversion.’”
 
+.fs 80%
 .fn 166
 De Sub. Pecc., diff. 9; Diana, p. 5; tr. 14, r. 99.
 .fn-
+.fs
 
 “Good!” cried I. “That is certainly a very happy hit;
 and I can easily see that the doctrine admits of a wide application.
@@ -7052,6 +7384,7 @@ Church. But the good father was in such an excellent key
 for talking, that it would have been cruel to have interrupted
 him; so he went on with his discourse.
 
+.fs 80%
 .fn 167
 Before the age of Louis XIV. the practice of duelling prevailed in
 France to such a frightful extent that a writer, who is not given to exaggerate
@@ -7066,6 +7399,7 @@ bloody combat of four against four determined him to put an end to the
 practice, by making it death, without benefit of clergy, to send or accept
 a challenge.
 .fn-
+.fs
 
 “In short,” said he, “Sanchez (mark, now, what great
 names I am quoting to you!) Sanchez, sir, goes a step further;
@@ -7097,9 +7431,11 @@ by this means, we escape at once from exposing our life in
 the combat, and from participating in the sin which our opponent
 would have committed by fighting the duel!”[168]
 
+.fs 80%
 .fn 168
 Sanchez, Theol. Mor., liv. ii. c. 39, n. 7.
 .fn-
+.fs
 
 “A most pious assassination!” said I. “Still, however,
 pious though it be, it is assassination, if a man is permitted to
@@ -7122,9 +7458,11 @@ all the stricter friendship—<lang=la><i>arctior amicitia</i></lang>.’[169] Y
 you do not even understand what the terms signify, and yet
 you pretend to talk like a doctor.”
 
+.fs 80%
 .fn 169
 Escobar, tr. 6, ex. 4, n. 26, 56.
 .fn-
+.fs
 
 “I grant you this is something quite new to me,” I replied;
 “and I should gather from that definition that few, if
@@ -7416,11 +7754,13 @@ take his life, he is also warranted to kill him who would deprive
 him of his reputation or his property, in the same way
 as the men of the world.’”
 
+.fs 80%
 .fn 170
 Francois Amicus, or L’Amy, was chancellor of the University of
 Gratz. In his <cite>Cours Theologique</cite>, published in 1642 he advances the
 most dangerous tenets, particularly on the subject of murder.
 .fn-
+.fs
 
 “I was not aware of that,” said I; “in fact, I have been
 accustomed simply enough to believe the very reverse, without
@@ -7429,6 +7769,7 @@ that the Church had such an abhorrence of bloodshed as
 not even to permit ecclesiastical judges to attend in criminal
 cases.”[171]
 
+.fs 80%
 .fn 171
 This is true; but in the case of heretics, at least, they found out a
 convenient mode of compromising the matter. Having condemned
@@ -7440,6 +7781,7 @@ and compassion, and the benefit of our prayers, not to do anything injurious
 to this miserable man, tending to death or the mutilation of his
 body!” (Crespin, Hist. des Martyres, p. 185.)
 .fn-
+.fs
 .bn 167.png
 .pn +1
 
@@ -7528,6 +7870,7 @@ of paper—not of passages; for I have got as many more in
 reserve, and good ones too, as would require volumes to contain
 them.—I am, &c.[172]
 
+.fs 80%
 .fn 172
 It may be noticed here, that Father Daniel has attempted to evade
 the main charge against the Jesuits in this letter by adroitly altering the
@@ -7544,6 +7887,7 @@ that they have any reference to God, but sufficient if they refer
 to our own convenience, cupidity or vanity. (Apologie des Lettres Provinciales,
 pp. 212–221.)
 .fn-
+.fs
 
 .fm lz=t
 
@@ -7563,9 +7907,11 @@ RIDICULOUS NOTIONS OF THESE SAME CASUISTS.
 .in
 .fs
 
+.fs 80%
 .fn 173
 This Letter also was revised by M. Nicole.
 .fn-
+.fs
 
 .sp 2
 
@@ -7673,10 +8019,12 @@ sign that he is far from thinking it allowable in
 judges; and everybody has applauded this as a reform of
 great benefit to all parties.”
 
+.fs 80%
 .fn 174
 The president referred to was Pompone de Bellievre, on whom M.
 Pelisson pronounced a beautiful eulogy.
 .fn-
+.fs
 
 The worthy monk was surprised at this piece of intelligence,
 and replied: “Are you sure of that? I heard nothing
@@ -7859,6 +8207,7 @@ acquired his wealth unjustly and by notorious crimes—<lang=la><i>ex
 injustitia et notorio delicto</i></lang>; only, in this case, he is not at
 liberty to retain so large an amount as he otherwise might.’”
 
+.fs 80%
 .fn 175
 The Jesuits exemplified their own maxim in this case by the famous
 bankruptcy of their College of St. Hermenigilde at Seville. We have
@@ -7875,6 +8224,7 @@ the money left them for <em>pious uses</em>—such as ransoming captives, and
 almsgiving—they had devoted it to the purposes of what they termed
 “our poor little house of profession.” (Theatre Jesuitique, p. 200, &c.)
 .fn-
+.fs
 
 “Indeed, father! what a strange sort of charity is this,
 to allow property to remain in the hands of the man who
@@ -8004,14 +8354,18 @@ homicide, profligacy, &c., as they please; for the possession
 is just, and they have acquired a propriety in the fruits of
 their iniquity.’”[177]
 
+.fs 80%
 .fn 176
 Molina, t. ii., tr. 2, disp. 338, n. 8; Lessius, liv. ii., ch. 20, dist. 19,
 n. 168.
 .fn-
+.fs
 
+.fs 80%
 .fn 177
 Escobar, tr. 3, ex. 1, n. 23, tr. 5, ex. 5, n. 53.
 .fn-
+.fs
 
 “My dear father,” cried I, “this is a mode of acquisition
 which I never heard of before; and I question much if the
@@ -8031,10 +8385,12 @@ mulier accepisset ab eo qui alienare non potest, ut a religioso
 et filio familias</i></lang>. In this case she must give back the
 money.’ And so says Escobar.”[178]
 
+.fs 80%
 .fn 178
 Molina, l. tom. i.; De Just., tr. 2, disp. 94; Escobar, tr. 1, ex. 8, n.
 59, tr. 3, ex. 1, n. 23.
 .fn-
+.fs
 
 “May it please your reverence,” said I, “the monks,
 .bn 181.png
@@ -8068,6 +8424,7 @@ of this sort, according to the different conditions of the individuals
 who commit them, and some may bring a higher
 price than others.’ This he confirms by very solid arguments.”[179]
 
+.fs 80%
 .fn 179
 Tr. 31, c. 9, n. 231.—“Occultæ fornicariæ debetur pretium in conscientia,
 et multo majore ratione, quam publicæ. Copia enim quam
@@ -8076,6 +8433,7 @@ facit meretrix; nec ulla est lex positiva quæ reddit eam incapacem
 pretii. Idem dicendum de pretio promisso virgini, conjugatæ, moniali,
 et cuicumque alii. Est enim omnium eadem ratio.”
 .fn-
+.fs
 
 He then pointed out to me, in his authors, some things of
 this nature so indelicate that I should be ashamed to repeat
@@ -8106,9 +8464,11 @@ received a sum of money from one of the parties before him,
 in order to pronounce a judgment in his favor, obliged to
 make restitution?’”
 
+.fs 80%
 .fn 180
 Quoted by Escobar, tr. 3, ex. 2, n. 138.
 .fn-
+.fs
 
 “You were just telling me a little ago, father, that he
 was not.”
@@ -8131,10 +8491,12 @@ unless it was given him out of mere generosity, he is not
 obliged to restore what he has received from a man in whose
 favor he has pronounced an unjust decision.’”[181]
 
+.fs 80%
 .fn 181
 Molina, 94, 99; Reginald. l. 10, 184; Filiutius, tr. 31; Escobar,
 tr. 3; Lessius, l. 2, 14.
 .fn-
+.fs
 
 This preposterous decision fairly dumbfounded me, and
 while I was musing on its pernicious tendencies, the monk
@@ -8246,9 +8608,11 @@ purse no less heavy, and a heart much lighter, than when he
 left it:—<lang=la><i>abjecta scrupuli sarcina, retento auri pondere, levior
 domum repetiit</i></lang>.’[182]
 
+.fs 80%
 .fn 182
 Cellot, liv. viii., de la Hierarch, c. 16, 2.
 .fn-
+.fs
 
 “Say, after hearing that, if it is useful or not to know our
 maxims? Will you laugh at them now? or rather, are you
@@ -8305,6 +8669,7 @@ with seven seals; or the Brussels edition of 1651. Both of
 these are better and larger than the previous editions published
 at Lyons in the years 1644 and 1646.[183]
 
+.fs 80%
 .fn 183
 “Since all this, a new edition has been printed at Paris, by Piget,
 more correct than any of the rest. But the sentiments of Escobar may
@@ -8325,6 +8690,7 @@ de Cleandre et d’Eudoxe, p. 277.) We reserve our remarks on
 the pretended falsifications charged against Pascal, till we come to his
 own masterly defence of himself in the subsequent letters.
 .fn-
+.fs
 
 .fm lz=t
 
@@ -8402,6 +8768,7 @@ the <i>Ave Maria</i> every day, in honor of the heart of
 Mary’—which last devotion, he says, possesses the additional
 virtue of securing us the heart of the Virgin.”[184]
 
+.fs 80%
 .fn 184
 “Towards the conclusion of the tenth century, new accessions
 were made to the worship of the Virgin. In this age, (the tenth century)
@@ -8413,6 +8780,7 @@ and a hundred and fifty salutations of the blessed Virgin; while the
 crown consists in six or seven repetitions of the Lord’s Prayer, and
 seven times ten salutations, or <em>Ave Marias</em>.” (Mosheim. cent. x.)
 .fn-
+.fs
 
 “But, father,” said I, “only provided we give her our own
 in return, I presume?”
@@ -8426,10 +8794,12 @@ offer, at present, that <em>poor little slave</em> which you call your
 heart.’ And so he contents himself with the <em>Ave Maria</em>
 which he had prescribed.”[185]
 
+.fs 80%
 .fn 185
 These are the devotions presented at pp. 33, 59, 145, 156, 172, 258,
 420 of the first edition.
 .fn-
+.fs
 
 “Why, this is extremely easy work,” said I, “and I should
 really think that nobody will be damned after that.”
@@ -8449,9 +8819,11 @@ about one’s person a rosary, or an image of the Virgin.[186]
 you with easy devotions to obtain the good graces of
 Mary?’”
 
+.fs 80%
 .fn 186
 See the devotions, at pp. 14, 326, 447.
 .fn-
+.fs
 
 “Extremely easy indeed, father,” I observed.
 
@@ -8490,6 +8862,7 @@ with false peace and fool-hardy confidence, than to draw them
 off from sin by that genuine conversion which grace alone
 can effect.”[187]
 
+.fs 80%
 .fn 187
 The Jesuits raised a great outcry against Pascal for having, in this
 letter, as they alleged, turned the worship of the Virgin into ridicule.
@@ -8501,6 +8874,7 @@ sad to see the straits to which these sincere devotees were reduced, in
 their attempts to reconcile this practice with the honor due to God and
 his Son.
 .fn-
+.fs
 
 “What does it matter,” replied the monk, “by what road
 we enter paradise, provided we do enter it? as our famous
@@ -8551,6 +8925,7 @@ single work emanates from us which does not breathe the
 spirit of the Society. That, sir, is a piece of information
 quite <em>apropos</em>.”[188]
 
+.fs 80%
 .fn 188
 Father Daniel makes an ingenious attempt to take off the force of
 this statement, by representing it as no more than what is done by
@@ -8563,6 +8938,7 @@ that Daniel has said on the point, it may be sufficient to ask, Why not
 try the simple plan of denouncing the error and censuring the author?
 (See Letter v., p. 117.)
 .fn-
+.fs
 
 “My good father,” said I, “you oblige me very much, and
 I only regret that I did not know this sooner, as it will induce
@@ -8599,12 +8975,14 @@ associated with toil and sorrow; and, in short, represented
 as the foe of sports and diversions, which are, in fact, the
 flowers of joy and the seasoning of life.’”
 
+.fs 80%
 .fn 189
 There is an allusion here to the phrase which is perpetually occurring
 in the <i>Constitutions</i> of the Jesuits, “<lang=la><i>Ad majorem Dei gloriam</i></lang>—To
 the greater glory of God,” which is the reason ostentatiously paraded
 for almost all their laws and customs.
 .fn-
+.fs
 
 “But, father, I am sure, I have heard at least, that there
 have been great saints who led extremely austere lives.”
@@ -8654,11 +9032,13 @@ the saints into ridicule. For if that is not the picture of a
 man entirely denied to those feelings which the Gospel obliges
 us to renounce, I confess that I know nothing of the matter.”[190]
 
+.fs 80%
 .fn 190
 If Rome be in the right, Pascal’s notion is correct. The religion
 of the monastery is the only sort of piety or seriousness known to, or
 sanctioned by, the Romish Church.
 .fn-
+.fs
 
 “You may now perceive, then, the extent of your ignorance,”
 he replied; “for these are the features of a feeble,
@@ -8698,11 +9078,13 @@ the purpose of hurting the commonwealth, or having more
 opportunity to offend God, these adventitious circumstances
 render it mortal.’”
 
+.fs 80%
 .fn 191
 The Romish distinction of sins into <em>venial</em> and <em>mortal</em>, afforded too
 fair a pretext for such sophistical conclusions to be overlooked by Jesuitical
 casuists.
 .fn-
+.fs
 
 “Very savory doctrine, indeed, father.”
 
@@ -8743,6 +9125,7 @@ to envy him. It is thus that God, who is infinitely
 just, has given even to frogs a certain complacency in their
 own croaking.’”
 
+.fs 80%
 .fn 192
 Francois Garasse was a Jesuit of Angouleme; he died in 1631.
 He was much followed as a preacher, his sermons being copiously interlarded
@@ -8753,6 +9136,7 @@ to the folly of this writer, that Father Garasse lost his life in consequence
 of his attentions to his countrymen who were infected with the
 plague.
 .fn-
+.fs
 
 “Very fine decisions in favor of vanity, ambition, and avarice!”
 cried I; “and envy, father, will it be more difficult to
@@ -8777,9 +9161,11 @@ God and his saints.’”
 consideration, how do you come to permit men’s lives to be
 taken away in order to preserve it?”[193]
 
+.fs 80%
 .fn 193
 See before, Letter vii., p. 159.
 .fn-
+.fs
 
 “You mistake the matter entirely,” returned the monk;
 “you were told that temporal good was of no consideration
@@ -8829,12 +9215,14 @@ according to Sanchez, provided he does not thereby injure his
 health; because the natural appetite may be permitted to
 enjoy its proper functions.’”[194]
 
+.fs 80%
 .fn 194
 “<lang=la><i>An comedere et libere usque ad satietatem absque necessitate ob solam
 voluptatem, sit peccatum? Cum Sanctio negative respondeo, modo non
 obsit valetudini, quia licite potest appetitus naturalis suis actibus frui.</i></lang>”
 (N. 102.)
 .fn-
+.fs
 
 “Well, father, that is certainly the most complete passage,
 and the most finished maxim in the whole of your
@@ -8857,13 +9245,17 @@ to use ambiguous terms, leading people to understand
 them in another sense from that in which we understand
 them ourselves.’”[196]
 
+.fs 80%
 .fn 195
 “<lang=la><i>Si quis se usque ad vomitum ingurgitet.</i></lang>” (Esc., n. 56.)
 .fn-
+.fs
 
+.fs 80%
 .fn 196
 Op. mor., p. 2, l. 3, c. 6, n. 13.
 .fn-
+.fs
 
 “I know that already, father,” said I.
 
@@ -8898,10 +9290,13 @@ to interpose in a whisper, <em>that I say</em>, and then continue
 aloud, <em>that I have done that</em>. This, you perceive, is telling
 the truth.”[198]
 
+.fs 80%
 .fn 197
 Tr. 25, chap. 11, n. 331, 328.
 .fn-
+.fs
 
+.fs 80%
 .fn 198
 The method by which Father Daniel evades this charge is truly
 Jesuitical. First, he attempts to involve the question in a cloud of
@@ -8919,6 +9314,7 @@ to a judge, when questioned at the bar, one is not capable of perjury.”
 (Journal de l’Abbé le Dieu, apud Dissertation sur la foi qui es
 due au temoignage de Pascal, &c., p. 50.)
 .fn-
+.fs
 
 “I grant it,” said I; “it might possibly, however, be
 found to be telling the truth in a low key, and falsehood in a
@@ -9026,9 +9422,11 @@ who may behold her, all decked out in rich and precious
 attire, she would not sin in so dressing.’[199] And among others,
 he cites our Father Sanchez as being of the same mind.”
 
+.fs 80%
 .fn 199
 Esc. tr. 1, ex. 8; Summary of Sins, c. 46, p. 1094.
 .fn-
+.fs
 
 “But, father, what do your authors say to those passages of
 Scripture which so strongly denounce everything of that sort?”
@@ -9057,6 +9455,7 @@ for old women, would be to consult good sense and a good
 mirror, to yield to decency and necessity, and to retire at the
 first approach of the shades of night.’”[200]
 
+.fs 80%
 .fn 200
 “They had their Father Le Moine,” said Cleandre, “and I am surprised
 they did not oppose him to Pascal. That father had a lively
@@ -9071,6 +9470,7 @@ speak simply. Perhaps, too, he did not feel himself equal for the combat,
 and did not like to commit himself.” (Entretiens de Cleandre et
 d’Eudoxe, p. 78.)
 .fn-
+.fs
 
 “A most judicious advice,” I observed.
 .bn 203.png
@@ -9132,19 +9532,25 @@ the same time, so arranged that when the first is at the commencement,
 the second is at the gospel, the third at the consecration,
 and the last at the communion.’”
 
+.fs 80%
 .fn 201
 “<lang=la><i>Nec obest alia prava intentio, ut aspiciendi libidinose fœminas.</i></lang>”
 (Esc. tr. 1, ex. 11, n. 31.)
 .fn-
+.fs
 
+.fs 80%
 .fn 202
 Select., p. 2, d. 16, Sub. 7.
 .fn-
+.fs
 
+.fs 80%
 .fn 203
 Bauny, Hurtado, Azor, &c. Escobar, “Practice for Hearing Mass
 according to our Society,” Lyons edition.
 .fn-
+.fs
 
 “Certainly, father, according to that plan, one may hear
 mass any day at Notre Dame in a twinkling.”
@@ -9260,13 +9666,17 @@ and a great many people may be washed from their stains
 almost as cleverly as they contracted them—<lang=la><i>plurimi vix citius
 maculas contrahunt quam eluunt</i></lang>.’”
 
+.fs 80%
 .fn 204
 See before, p 116.
 .fn-
+.fs
 
+.fs 80%
 .fn 205
 <cite>Imago Primi Seculi</cite>, l. iii., c. 8.
 .fn-
+.fs
 
 “Pray, then, father, do teach me some of these most salutary
 lessons of <em>finesse</em>.”
@@ -9308,9 +9718,11 @@ to answer such a question; because the confessor has no
 right to subject his penitent to the shame of disclosing his
 frequent relapses.’”
 
+.fs 80%
 .fn 206
 Esc. tr. 7, a. 4, n. 135; also, Princ., ex. 2, n. 73.
 .fn-
+.fs
 
 “Indeed, father! I might as well say that a physician has
 no right to ask his patient if it is long since he had the fever.
@@ -9323,6 +9735,7 @@ priest occupies? If so, how far is he from realizing such a
 disposition, who, by concealing the frequency of his relapses,
 conceals the aggravations of his offence!”[207]
 
+.fs 80%
 .fn 207
 The practice of auricular confession was about three hundred years
 old before the Reformation, having remained undetermined till the year
@@ -9338,6 +9751,7 @@ have I to do with men,” says this father, “that they should hear my
 confessions, as if they were to heal all my diseases!” (Confes., lib. x.,
 p. 3.)
 .fn-
+.fs
 
 I saw that this puzzled the worthy monk, for he attempted
 to elude rather than resolve the difficulty, by turning my attention
@@ -9369,9 +9783,11 @@ her consent.’ All this is quoted by Escobar,[208] with many
 other very curious decisions as to these circumstances, which
 you may consult at your leisure.”
 
+.fs 80%
 .fn 208
 Princ., ex. 2. n. 39, 41, 61, 62.
 .fn-
+.fs
 
 “These ‘artifices of devotion’ are vastly convenient in
 their way,” I observed.
@@ -9411,6 +9827,7 @@ are at liberty to give absolution indifferently to all who ask
 it, and without ascertaining beforehand if Jesus Christ looses
 in heaven those whom you loose on earth?”[209]
 
+.fs 80%
 .fn 209
 John xx. 23: “Receive ye the Holy Ghost: Whose soever sins ye
 remit, they are remitted unto them; and whose soever sins ye retain,
@@ -9423,6 +9840,7 @@ the schoolmen held that the power of binding and loosing committed to
 the ministers of the Church is not absolute, but must be limited by <lang=la><i>clave
 non errante</i></lang>, or when no error is committed in the use of the keys.
 .fn-
+.fs
 
 “What!” cried the father, “do you suppose that we do
 not know that ‘the confessor (as one remarks) ought to sit in
@@ -9466,9 +9884,11 @@ Filiutius’ own.”
 “You are mistaken though,” said the father, “for he has
 extracted it, word for word, from Suarez.”[210]
 
+.fs 80%
 .fn 210
 In 3 part, t. 4, disp. 32, sect. 2, n. 2.
 .fn-
+.fs
 
 “But, father, that last passage from Filiutius overturns
 what he had laid down in the former. For confessors can
@@ -9497,9 +9917,11 @@ greater excess than ever in the same delinquencies, still, in
 my opinion, they may receive absolution.’[211] There now!
 that, I am sure, should silence you.”
 
+.fs 80%
 .fn 211
 Summary of Sins, c. 46, p. 1090, 1, 2.
 .fn-
+.fs
 
 “But, father,” said I, “you impose a great hardship, I
 think, on the confessors, by thus obliging them to believe the
@@ -9530,6 +9952,7 @@ to the eucharist must be genuine, constant, resolute,
 and not languid and sluggish, or subject to after-thoughts
 and relapses?’”
 
+.fs 80%
 .fn 212
 Denis Petau (Dionysius Petavius) a learned Jesuit, was born at
 Orleans in 1593, and died in 1652. The catalogue of his works alone
@@ -9545,6 +9968,7 @@ kind of predilection for austere opinions, being naturally of a melancholy
 temper. When invited by the pope to visit Rome, he replied, “I
 am too old to <lang=la><i>flit</i></lang>”—<lang=fr><i>demenager</i></lang>. (Dict. Univ., art. <cite>Petau</cite>.)
 .fn-
+.fs
 
 “Don’t you observe,” replied the monk, “that Father Petau
 is speaking of the <em>ancient Church</em>? But all that is now
@@ -9580,9 +10004,11 @@ says, ‘that were this not true, confession would be
 interdicted to the greater part of mankind; and the only resource
 left for poor sinners would be a branch and a rope!’”[213]
 
+.fs 80%
 .fn 213
 Reply to the Moral Theol., p. 211.
 .fn-
+.fs
 .bn 214.png
 .pn +1
 
@@ -9614,13 +10040,17 @@ asks this author, ‘what is to be done in the case of masters
 and servants, or cousins, who, living under the same roof, are
 by this occasion tempted to sin?’”
 
+.fs 80%
 .fn 214
 Esc., Practice of the Society, tr. 7, ex. 4, n. 226.
 .fn-
+.fs
 
+.fs 80%
 .fn 215
 P. 1082, 1089
 .fn-
+.fs
 
 “They ought to be separated,” said I.
 
@@ -9647,9 +10077,11 @@ or has some reason for keeping him—<lang=la><i>si non potest honeste
 ejicere, aut habeat aliquam causam retinendi</i></lang>—provided she
 promises to act more virtuously for the future.’”[216]
 
+.fs 80%
 .fn 216
 Theol. Mor., tr. 4, De Pœnit., q. 13 pp. 93, 94.
 .fn-
+.fs
 
 “Well, father,” cried I, “you have certainly succeeded in
 relaxing the obligation of avoiding the occasions of sin to a
@@ -9702,12 +10134,15 @@ almost a heresy, to hold that <em>contrition</em> is necessary; or that
 pains of hell, which excludes a disposition to offend, is not
 sufficient with the sacrament?’”[218]
 
+.fs 80%
 .fn 217
 The work ascribed to Pintereau was entitled, “Les Impostures et
 les Ignorances du Libelle intituló la Theologie Morale des Jesuites: par
 l’Abbè du Boisic.”
 .fn-
+.fs
 
+.fs 80%
 .fn 218
 That is, the sacrament of penance, as it is called. “That contrition
 is at all times necessarily required for obtaining remission of sins
@@ -9726,6 +10161,7 @@ which worketh repentance to salvation not to be repented of. By which
 spiritual cozenage many poor souls are most miserably deluded.” (Ussher’s
 Tracts, p. 153.)
 .fn-
+.fs
 
 “What, father! do you mean to say that it is almost an
 article of faith, that attrition, induced merely by fear of punishment,
@@ -9755,11 +10191,13 @@ attrition is sufficient with the sacrament should not turn out
 to be true.’ Comitolus, too, says that ‘we should not be too
 sure that attrition suffices with the sacrament.’”[219]
 
+.fs 80%
 .fn 219
 These quotations, carefully marked in the original, afford a sufficient
 answer to Father Daniel’s long argument, which consists chiefly
 of citations from Jesuit writers who hold the views above given.
 .fn-
+.fs
 
 Here the worthy father interrupted me. “What!” he
 cried, “you read our authors then, it seems? That is all
@@ -9810,6 +10248,7 @@ as sent by God, as, in fact, all evil, says Diana, except sin,
 comes from him, that kind of sorrow is sufficient.’[221] Our
 Father Lamy holds the same doctrine.”[222]
 
+.fs 80%
 .fn 220
 It may be remembered that Diana, though not a Jesuit, was claimed
 by the Society as a favorer of their casuists. This writer was once held
@@ -9818,14 +10257,19 @@ the world as a perfect oracle in cases of conscience. He is now forgotten.
 His style, like that of most of these scholastics, is described as
 “insipid, stingy, and crawling.” (Biogr. Univ., Anc. et Mod.)
 .fn-
+.fs
 
+.fs 80%
 .fn 221
 Esc. Pratique de notre Société, tr. 7, ex. 4, n. 91.
 .fn-
+.fs
 
+.fs 80%
 .fn 222
 Tr. 8, disp. 3, n. 13.
 .fn-
+.fs
 
 “You surprise me, father; for I see nothing in all that
 attrition of which you speak but what is natural; and in this
@@ -9835,6 +10279,7 @@ way a sinner may render himself worthy of absolution without
 supernatural grace at all. Now everybody knows that this
 is a heresy condemned by the Council.”[223]
 
+.fs 80%
 .fn 223
 Of Trent. Nicole attempts to prove that the “imperfect contrition”
 of this Council includes the love of God, and that they condemned as
@@ -9843,6 +10288,7 @@ a movement of the Holy Spirit.” He is more successful in showing
 that the Jesuits were heretical when judged by Augustine and the Holy
 Scriptures. (Note 2, sur la x. Lettre.)
 .fn-
+.fs
 
 “I should have thought with you,” he replied; “and yet
 it seems this must not be the case, for the fathers of our College
@@ -9865,6 +10311,7 @@ obstacle in the way of it—<lang=la><i>imo obstat potius quominus effectus
 sequatur</i></lang>.’ Nobody could well desire more to be said in
 commendation of attrition.”[224]
 
+.fs 80%
 .fn 224
 The Jesuits are so fond of their “attrition,” or purely natural repentance,
 that one of their own theologians (Cardinal Francis Tolet)
@@ -9873,6 +10320,7 @@ making him speak the opposite sentiment. The forgery was exposed;
 but the worthy fathers, according to custom, allowed it to pass without
 notice, <lang=la><i>ad majorem Dei gloriam</i></lang>. (Nicole, iii. 95.)
 .fn-
+.fs
 
 “I believe that, father,” said I; “but you must allow me to
 tell you my opinion, and to show you to what a dreadful
@@ -9954,9 +10402,11 @@ commandment of love, by having its works, so that (such is
 the goodness of God!) we are commanded, not so much to
 love him, as not to hate him.’
 
+.fs 80%
 .fn 225
 Tr. 1, ex. 2, n. 21; and tr. 5, ex. 4, n. 8.
 .fn-
+.fs
 
 “Such is the way in which our doctors have discharged
 men from the ‘painful’ obligation of actually loving God.
@@ -9984,6 +10434,7 @@ good graces of their Father than the Jews, who were the
 slaves, had in obtaining the mercy of their Lord and
 Master.’”[226]
 
+.fs 80%
 .fn 226
 Shocking as these principles are, it might be easy to show that they
 necessarily flow from the Romish doctrine, which substitutes the imperfect
@@ -10003,6 +10454,7 @@ system the radical error of his own creed carried out to its proper consequences
 (Reponse Gen. au Livre de M. Arnauld, par Elie Merlat,
 p. 30.)
 .fn-
+.fs
 
 “O father!” cried I; “no patience can stand this any
 longer. It is impossible to listen without horror to the sentiments
@@ -10067,6 +10519,7 @@ false the light must be that has guided them to such precipices;
 and that he would fill their hearts with that love of
 himself from which they have dared to give man a dispensation!”
 
+.fs 80%
 .fn 227
 “Nothing on this point,” says Nicole in a note here, “can be finer
 than the prosopopeia in which Despréaux (Boileau) introduces God as
@@ -10085,6 +10538,7 @@ the Jesuits with such pleasant irony that Father la Chaise, the confessor
 of Louis XIV., though himself a Jesuit, is said to have taken a pleasure
 in repeating his verses.
 .fn-
+.fs
 
 After some remarks of this nature, I took my leave of the
 monk, and I see no great likelihood of my repeating my
@@ -10118,11 +10572,13 @@ PROFANE BUFFOONERY OF FATHERS LE MOINE AND GARASSE.
 
 .sp 2
 
+.fs 80%
 .fn 228
 In this and the following letters, Pascal changes his style, from that
 of dialogue to that of direct address, and from that of the liveliest irony
 to that of serious invective and poignant satire.
 .fn-
+.fs
 
 .rj
 <i>August 18, 1656.</i>
@@ -10172,6 +10628,7 @@ but it were no less impiety of another sort, to be
 wanting in contempt for the falsities which the spirit of man
 opposes to them.[229]
 
+.fs 80%
 .fn 229
 “Religion, they tell us, ought not to be ridiculed; and they tell us
 truth: yet surely the corruptions in it may; for we are taught by the
@@ -10179,6 +10636,7 @@ tritest maxim in the world, that religion being the best of things, its corrupti
 are likely to be the worst.” (Swift’s Apology for a Tale of a
 Tub.)
 .fn-
+.fs
 
 For, fathers (since you will force me into this argument),
 I beseech you to consider that, just in proportion as Christian
@@ -10220,12 +10678,14 @@ yet laugh at it—<lang=la><i>videbunt justi et timebunt, et super eum ridebunt<
 And Job says: “<lang=la><i>Innocens subsannabit eos</i></lang>—The
 innocent shall laugh at them.”[230]
 
+.fs 80%
 .fn 230
 Prov. i. 26; Ps. lii. 6; Job xxii. 19. In the first passage, the figure
 is evidently what theologians call <em>anthropopathic</em>, or speaking of God
 after the manner of men, and denotes his total disregard of the wicked
 in the day of their calamity.
 .fn-
+.fs
 
 It is worthy of remark here, that the very first words
 which God addressed to man after his fall, contain, in the
@@ -10249,11 +10709,14 @@ one.” St. Victor, after making the same remark, adds,
 this species of raillery is an act of justice, merited by him
 against whom it was directed.”[232]
 
+.fs 80%
 .fn 231
 In most of the editions, it is “St. Chrysostom,” but I have followed
 that of Nicole.
 .fn-
+.fs
 
+.fs 80%
 .fn 232
 We may be permitted to question the correctness of this interpretation,
 and the propriety of introducing it in the present connection. For
@@ -10274,6 +10737,7 @@ will a man write down all such satires, when the jest is pointed
 against himself and his party! D’Artigny quotes, within a few pages,
 with evident relish, a bitter satire against a Protestant minister.
 .fn-
+.fs
 
 Thus you see, fathers, that ridicule is, in some cases, a
 very appropriate means of reclaiming men from their errors,
@@ -10462,10 +10926,12 @@ the reprehension, and not at the things reprehended, truly,
 fathers, I shall never scruple to tell them that they are
 grossly mistaken, and that their zeal is miserably blind.
 
+.fs 80%
 .fn 233
 “Religious,” is a general term, applied in the Romish Church to
 all who are in holy orders.
 .fn-
+.fs
 
 Strange zeal, indeed! which gets angry at those that censure
 public faults, and not at those that commit them! Novel
@@ -10573,6 +11039,7 @@ wanting in due consideration: and that you have more reason
 to congratulate yourself on my moderation than to complain
 of my indiscretion.
 
+.fs 80%
 .fn 234
 “So far,” says Nicole, “from his having told all that he might
 against the Jesuits, he has spared them on points so essential and important,
@@ -10582,6 +11049,7 @@ writer, “had Pascal exposed the late infamous things put out by
 their miserable casuists, and unfolded the chain and succession of their
 regicide authors?” (Dissertation sur la foi due au Pascal, &c., p. 14.)
 .fn-
+.fs
 
 The third rule, fathers, is: That when there is need to employ
 a little raillery, the spirit of piety will take care to employ
@@ -10704,6 +11172,7 @@ observes that “some have taken away the cross from the
 top of it, leaving the characters barely thus, I. H. S.—which,”
 says he, “is a stripped Jesus!”
 
+.fs 80%
 .fn 235
 The apologists of the Jesuits attempted to justify this extraordinary
 illustration, by referring to the use which Augustine and other fathers
@@ -10712,6 +11181,7 @@ the wounded traveller. But Nicole has shown that fanciful as these
 ancient interpreters often were, it is doing them injustice to <em>father</em> on
 them the absurdity of Father Garasse. (Nicole’s Notes, iii. 340.)
 .fn-
+.fs
 
 Such is the indecency with which you treat the truths of
 religion, in the face of the inviolable law which binds us always
@@ -10744,6 +11214,7 @@ it to a future occasion, for I have something more to say to
 you about it; but what I have now produced is enough to
 show that you have sinned at once against truth and discretion.
 
+.fs 80%
 .fn 236
 Brisacier, who became rector of the College of Rouen, was a bitter
 enemy of the Port-Royalists. His defamatory libel against the nuns of
@@ -10751,10 +11222,13 @@ Port-Royal, entitled “Le Jansenisme Confondu,” published in 1651,
 was censured by the Archbishop of Paris, and vigorously assailed by
 M. Arnauld.
 .fn-
+.fs
 
+.fs 80%
 .fn 237
 The priests of Port-Royal.
 .fn-
+.fs
 
 But it may be said, perhaps, that you have not offended
 against the last rule at least, which binds you to desire the
@@ -10841,6 +11315,7 @@ not find verified, in your case, these words in the Proverbs:
 “If a wise man contendeth with a foolish man, whether he
 rage or laugh, there is no rest.”[239]
 
+.fs 80%
 .fn 238
 This is the real question, which brings the matter to a point, and
 serves to answer all the evasions of the Jesuits. They boast of their
@@ -10851,10 +11326,13 @@ others, on the duty of dethroning and assassinating heretical kings?
 They have not; and till this is done, they must be held, <em>as Jesuits</em>, responsible
 for the sentiments which they refuse to disavow.
 .fn-
+.fs
 
+.fs 80%
 .fn 239
 Prov. xxix. 9.
 .fn-
+.fs
 
 .tb
 
@@ -10866,10 +11344,12 @@ shortly receive, I trust, a suitable reply; after which, fathers,
 I rather think you will not feel very anxious to continue this
 species of warfare.[240]
 
+.fs 80%
 .fn 240
 This postscript, which appeared in the earlier editions, is dropt in
 that of Nicole and others.
 .fn-
+.fs
 
 .fm lz=t
 
@@ -10943,6 +11423,7 @@ of people to the last. At all events, remember that it is
 you that oblige me to enter upon this eclaircissement, and let
 us see which of us comes off best in defending themselves.
 
+.fs 80%
 .fn 241
 Pierre du Moulin is termed by Bayle “one of the most celebrated
 ministers which the Reformed Church in France ever had to boast of.”
@@ -10955,6 +11436,7 @@ excepting his “Buckler of the Faith,” and his “Anatomy of the
 Mass,” which were translated into English. (Quick’s Synodicon, ii.,
 105.)
 .fn-
+.fs
 
 The first of your Impostures, as you call them, is on the
 opinion of Vasquez upon alms-giving. To avoid all ambiguity,
@@ -11156,9 +11638,11 @@ not so much bestowing on them what is our property, as
 rendering to them what is their own; and it may be said to
 be an act of justice, rather than a work of mercy.”
 
+.fs 80%
 .fn 242
 De Eleemosyna, c. 6.
 .fn-
+.fs
 
 It is thus that the saints recommend the rich to share with
 the poor the good things of this earth, if they would expect
@@ -11289,9 +11773,11 @@ sight of your aberrations. But, fathers, you shall not escape
 by these vain artifices; for I shall put some questions to you
 so simple, that they will not admit of coming under your <lang=la><i>distinguo</i></lang>.[243]
 
+.fs 80%
 .fn 243
 See before, page 73.
 .fn-
+.fs
 .bn 253.png
 .pn +1
 
@@ -11401,9 +11887,11 @@ advice of your grave doctors, who, in such cases, oblige confessors
 to absolve their penitents, and to wash them from that
 spiritual leprosy of which the bodily disease is the type.
 
+.fs 80%
 .fn 244
 See before, page 140.
 .fn-
+.fs
 
 Seriously, fathers, it would be extremely easy to hold you
 up to ridicule in this matter, and I am at a loss to know why
@@ -11509,15 +11997,19 @@ no? And take care what you say. If you answer, No,
 what becomes of your doctor, and your doctrine of probability?
 If you say, Yes—I delate you to the Parliament.[246]
 
+.fs 80%
 .fn 245
 See before, p. 177.
 .fn-
+.fs
 
+.fs 80%
 .fn 246
 “The Parliament of Paris was originally the court of the kings of
 France, to which they committed the supreme administration of justice.”
 (Robertson’s Charles V., vol. i. 171.)
 .fn-
+.fs
 
 In this predicament I must now leave you, fathers; for
 my limits will not permit me to overtake your next accusation,
@@ -11552,6 +12044,7 @@ overrules its effects to the glory of the truth which it assails;
 whereas verity endures forever, and eventually triumphs
 over its enemies, being eternal and almighty as God himself.[247]
 
+.fs 80%
 .fn 247
 In most of the French editions, another letter is inserted after this,
 being a refutation of a reply which appeared at the time to Letter xii.
@@ -11566,6 +12059,7 @@ which neither he nor his authors dreamt of—in short, like all Jesuitical
 answers, it is anything and everything but a refutation of the charges
 which have been substantiated against them.
 .fn-
+.fs
 
 .fm lz=t
 
@@ -11625,6 +12119,7 @@ other the canons of the Church which have uniformly condemned
 them, people will see, at one glance, what they should
 shun and what they should follow.
 
+.fs 80%
 .fn 248
 The Church of Rome has not left those whom she terms heretics so
 doubtfully to “take advantage” of Jesuitical aberrations. She has done
@@ -11632,6 +12127,7 @@ everything in her power to <em>give</em> them this advantage. By identifying
 herself, at various times, with the Jesuits, she has virtually stamped
 their doctrines with her approbation.
 .fn-
+.fs
 
 Your fourth charge turns on a maxim relating to murder,
 which you say I have falsely ascribed to Lessius. It is as
@@ -11786,6 +12282,7 @@ to believe, that the very different instructions which he received
 from a curate, who is no great favorite of yours, have
 contributed not a little in this case to save the life of a Jesuit.
 
+.fs 80%
 .fn 249
 The reference here is to an affray which made a considerable noise
 at the time, between Father Borin, a Jesuit, and M. Guille, one of the
@@ -11795,6 +12292,7 @@ while he was in the act of preparing dinner, by his majesty’s order, for
 Christina, queen of Sweden, in honor, perhaps, of her conversion to
 the Romish faith. (Nicole, iv. 37)
 .fn-
+.fs
 
 Tell us no more, then, of inconveniences which may, in
 many instances, be so easily got over, and in the absence of
@@ -11916,9 +12414,11 @@ with a safe conscience in practice</sc>, and that even with
 more safety than those which have not been so well examined
 as matters of speculation.”[250]
 
+.fs 80%
 .fn 250
 In Prælog., n. 15.
 .fn-
+.fs
 
 Verily, fathers, your friend Escobar reasons uncommonly
 well sometimes; and, in point of fact, there is such a close
@@ -11979,6 +12479,7 @@ whole of the curés united to impose silence on him, and to
 oblige him, by a canonical process, to retract his doctrine.
 The case is now pending in the Episcopal court.
 
+.fs 80%
 .fn 251
 The doctrines advanced by Lamy are too gross for repetition. Suffice
 it to say, that they sanctioned the murder not only of the slanderer,
@@ -11989,6 +12490,7 @@ threatened to rob him of his. These horrid maxims were condemned
 by civil tribunals and theological faculties; but the Jesuits persisted in
 justifying them. (Nicole, Notes, iv. 41, &c.)
 .fn-
+.fs
 
 What say you now, fathers? Why attempt, after that,
 to maintain that “no Jesuit ever held that it was lawful to
@@ -12201,6 +12703,7 @@ own generals have foreseen that the corruption of your doctrine
 on morals might prove fatal, not only to your Society,
 but to the Church universal.[253]
 
+.fs 80%
 .fn 252
 It is very sad to see Pascal reduced to the necessity of saluting the
 founder of the sect which he held up to the scorn of the world, as <em>Saint
@@ -12217,7 +12720,9 @@ list of saints, by another! Jansenius, in his correspondence with St.
 Cyran, indignantly complains of pope Gregory XV. for having canonized
 Ignatius and Xavier. (Leydecker, Hist. Jansen. 23.)
 .fn-
+.fs
 
+.fs 80%
 .fn 253
 This is rather a singular fact, and applies only to one of the Society’s
 generals, viz., Vitelleschi, who, in a circular letter, addressed,
@@ -12231,6 +12736,7 @@ them had fallen before the temptations of the world, and their
 sole endeavor now was to make themselves necessary to mankind, let
 the means be what they might.” (Ranke’s Hist. of the Popes, iii. 139.)
 .fn-
+.fs
 
 Meanwhile, I repeat that you can derive no advantage from
 the doctrine of Vasquez. It would be strange, indeed, if,
@@ -12281,9 +12787,11 @@ the deceitful and the double-hearted: “<lang=la><i>Væ duplici corde, et
 ingredienti duabus viis!</i></lang>—Woe be to the double hearts, and
 the sinner that goeth two ways!”[254]
 
+.fs 80%
 .fn 254
 Ecclesiasticus (Apocrypha), ii. 12.
 .fn-
+.fs
 
 .fm lz=t
 
@@ -12367,9 +12875,11 @@ may be considered as only the instrument, in the same way
 as a sword in the hand of him that wields it. But, these
 instances excepted, whosoever kills incurs the guilt of murder.”[255]
 
+.fs 80%
 .fn 255
 City of God, book i. ch. 28.
 .fn-
+.fs
 
 It appears, then, fathers, that the right of taking away the
 life of man is the sole prerogative of God, and that having
@@ -12454,9 +12964,11 @@ of Exodus. And the law <cite>Furem</cite>, in the <cite>Lex Cornelia</cite>, whi
 is borrowed from Ulpian, forbids the killing of robbers even
 by night, if they do not put us in danger of our lives.[256]
 
+.fs 80%
 .fn 256
 See Cujas, tit. dig. de just. et jur. ad l. 3.
 .fn-
+.fs
 
 Tell us now, fathers, what authority you have to permit
 what all laws, human as well as divine, have forbidden; and
@@ -12494,9 +13006,11 @@ by force; self-defence, therefore, being permitted, it follows
 that murder, without which self-defence is often impracticable,
 may be considered as permitted also.”
 
+.fs 80%
 .fn 257
 L. 2, c. 9, n. 66, 72.
 .fn-
+.fs
 
 It is false, fathers, that because self-defence is allowed,
 murder may be allowed also. This barbarous method of
@@ -12554,9 +13068,11 @@ allowable to kill at three, or four, or five ducats.” And
 thus, fathers, I shall have Reginald in addition to Molina, to
 bear me out.
 
+.fs 80%
 .fn 258
 L. ii., c. 9, n. 74.
 .fn-
+.fs
 
 It will be equally easy for me to refute your fourteenth
 Imposture, touching Molina’s permission to “kill a thief who
@@ -12596,10 +13112,13 @@ over his assailant. I know there are some who are of a contrary
 judgment; but I do not approve of their opinion, even
 in the external tribunal.”[260]
 
+.fs 80%
 .fn 259
 Treat. i., examp. 7, n. 44.
 .fn-
+.fs
 
+.fs 80%
 .fn 260
 In casuistical divinity, a distinction is drawn between the internal
 and the external tribunal, or <lang=la><i>forum</i></lang>, as it is called. The internal tribunal,
@@ -12609,6 +13128,7 @@ actions according to the law of God. The external tribunal, or the
 estimation of men, and according to civil law. (Voet. Disp. Theol., iv.
 62.)
 .fn-
+.fs
 
 Thus, fathers, it is unquestionable that your authors have
 given permission to kill in defence of property and honor,
@@ -12655,9 +13175,11 @@ vicious passion, which, when proposed as the end of our conduct,
 is enough to tarnish the holiest of actions, is considered
 by you capable of sanctifying the most criminal of them!
 
+.fs 80%
 .fn 261
 Part. 5, tr. 19, misc. 2, resol. 99.
 .fn-
+.fs
 
 What a subversion of all principle is here, fathers! And
 who does not see to what atrocious excesses it may lead?
@@ -12709,10 +13231,13 @@ that the devil, who is their original author, had never discovered
 men sufficiently devoted to his will to publish them
 among Christians.[263]
 
+.fs 80%
 .fn 262
 Doubts 4th and 10th.
 .fn-
+.fs
 
+.fs 80%
 .fn 263
 “I am happy,” says Nicole, in a note, “to state here an important
 fact, which confers the highest honor on M. Arnauld. A work of considerable
@@ -12726,6 +13251,7 @@ than M. Arnauld, has published something similar, in a work entitled
 <cite>Recueil de Pieces concernant l’ Histoire de la Compagnie de Jesus,
 par le P. Jouvenci</cite>.”
 .fn-
+.fs
 
 From all that I have hitherto said, it is easy to judge what
 a contrariety there is betwixt the licentiousness of your opinions
@@ -12753,6 +13279,7 @@ believer or an unbeliever, she uniformly looks upon him, if
 not as one, at least as capable of becoming one, of her own
 children.[264]
 
+.fs 80%
 .fn 264
 Surely Pascal is here describing the Church of Christ as she ought
 to be, and not the Church of Rome as she existed in 1656, at the very
@@ -12765,6 +13292,7 @@ Of what Church, if not the Romish, can it be said with truth, that, “in
 her was found the blood of prophets, and of saints, and of all that
 were slain on the earth?”
 .fn-
+.fs
 
 Such, fathers, are the holy reasons which, ever since the
 time that God became man for the redemption of men, have
@@ -12904,10 +13432,12 @@ a sentence of death, accompanied though it be with these
 religious circumstances; from which we may easily conceive
 what idea the Church entertains of murder.
 
+.fs 80%
 .fn 265
 <em>Providing for their consciences</em>—that is, for the relief of conscience,
 by confessing to a priest, and receiving absolution.
 .fn-
+.fs
 
 Such, then, being the manner in which human life is disposed
 of by the legal forms of justice, let us now see how
@@ -13052,9 +13582,11 @@ but shall content myself, in the mean time, with believing that
 it was, to say the very least, <em>a probable buffet</em>. This gets me
 off with a safe conscience.
 
+.fs 80%
 .fn 266
 See Letter xiii., p. 264.
 .fn-
+.fs
 
 .fm lz=t
 
@@ -13077,10 +13609,12 @@ THEIR OPPONENTS.
 .in
 .fs
 
+.fs 80%
 .fn 267
 Pascal was assisted by M. Arnauld in the preparation of this letter.
 (Nicole, iv. 162.)
 .fn-
+.fs
 
 .sp 2
 
@@ -13198,14 +13732,18 @@ Dicastille, Jesuits, &c.; so that, were this doctrine not probable,
 it would be difficult to find any one such in the whole
 compass of theology.”
 
+.fs 80%
 .fn 268
 Quidni non nisi veniale sit, detrahentes autoritatem magnam, tibi
 noxiam, falso crimine elidere?
 .fn-
+.fs
 
+.fs 80%
 .fn 269
 Dicastillus, De Just., l. 2, tr. 2, disp. 12, n. 404.
 .fn-
+.fs
 
 Wretched indeed must that theology be, and rotten to
 the very core, which, unless it has been decided to be safe in
@@ -13368,6 +13906,7 @@ as a pastor worthy of your Church. It is with much pleasure
 that I make this declaration, and I beg these gentlemen
 to remember what I have now said.”
 
+.fs 80%
 .fn 270
 M. De Ville, Vicar-General of M., the Cardinal of Lyons; M.
 Scarron, Canon and Curate of St. Paul; M. Margat, Chanter; MM.
@@ -13379,6 +13918,7 @@ the King’s First Advocate in the Court of the Treasurers of France; MM.
 De Cotton, father and son; and M. Boniel; who have all signed the
 original copy of the Declaration, along with M. Puys and Father Alby.
 .fn-
+.fs
 
 They do remember it, fathers; and, allow me to add, they
 were more scandalized by the reconciliation than by the
@@ -13476,13 +14016,17 @@ trace or vestige of it in the whole book,” who would
 imagine that the passage is to be found, word for word, in
 the place referred to?
 
+.fs 80%
 .fn 271
 Apology for the Society of Jesus, p. 128.
 .fn-
+.fs
 
+.fs 80%
 .fn 272
 First Part, p. 24.
 .fn-
+.fs
 
 Truly, fathers, if this be the means of securing your reputation,
 so long as you remain unanswered, it is also, unfortunately,
@@ -13573,13 +14117,17 @@ be no longer a liar, no longer frail and changeable, no longer
 a sinner, like other men; if you wait, I say, till then, you
 will never apply the blood of Jesus Christ to a single soul.”[274]
 
+.fs 80%
 .fn 273
 Tr. 4, q. 22, p. 100.
 .fn-
+.fs
 
+.fs 80%
 .fn 274
 Part. 4, p. 21
 .fn-
+.fs
 
 What do you really think now, fathers, of these impious
 and extravagant expressions? According to them, if we
@@ -13631,6 +14179,7 @@ which you have not put into requisition; nor is it possible
 that the maxim which excuses the vice could have been
 lodged in better hands.
 
+.fs 80%
 .fn 275
 That is, the Protestant ministers of Paris, who are called “the
 ministers of Charenton,” from the village of that name near Paris, where
@@ -13644,6 +14193,7 @@ among whom were the famous Claude and Daillé, were driven from
 their homes, their chapel burnt to the ground, and their people scattered
 abroad.
 .fn-
+.fs
 
 But those sorts of slander to which we have adverted are
 rather too easily discredited; and, accordingly, you have others
@@ -13693,10 +14243,12 @@ crime as heresy, and to fix upon me the suspicion of many
 others besides; but, by asserting my innocence, I am merely
 applying the proper remedy to the scandal already in existence.”
 
+.fs 80%
 .fn 276
 In the first edition it was said to be the Landgrave of Darmstat, by
 mistake, as shown in a note by Nicole.
 .fn-
+.fs
 
 Truly, fathers, never were your reverences more roughly
 handled, and never was a poor man more completely vindicated.
@@ -13847,10 +14399,12 @@ SHAMEFUL CALUMNIES OF THE JESUITS AGAINST PIOUS CLERGYMEN AND INNOCENT NUNS.
 
 .sp 2
 
+.fs 80%
 .fn 277
 The plan and materials of this letter were furnished by M. Nicole.
 (Nicole, iv. 243.)
 .fn-
+.fs
 
 
 .rj
@@ -13890,12 +14444,14 @@ from another, dated January 6, 1620, where he says:
 due, I have no fear but that the little credit which I have in
 this place will bring me as much money as I require.”
 
+.fs 80%
 .fn 278
 Jansenius, who was made Bishop of Ipres or Ypres, in 1636. The
 letters to which Pascal refers were printed at that time by the Jesuits
 themselves, who retained the originals in their possession; these having
 come into their hands in consequence of the arrest of M. De St. Cyran.
 .fn-
+.fs
 
 If you are convicted slanderers on this subject, you are
 no less so in regard to the ridiculous story about the charity-box
@@ -13943,10 +14499,12 @@ merely intend to make you ashamed of yourselves, and to let
 the whole world understand that, after this, there is nothing
 of which you are not capable.
 
+.fs 80%
 .fn 279
 The Jesuits must pass through a long novitiate, before they are admitted
 as “professed” members of the Society.
 .fn-
+.fs
 
 You will not fail, I am certain, notwithstanding all this, to
 say that I belong to Port-Royal; for this is the first thing
@@ -13983,9 +14541,11 @@ facies eorum ignominiâ, et quærent nomen tuum, Domine</i></lang>—Fill
 their faces with shame, that they may seek thy name,
 O Lord.”[280]
 
+.fs 80%
 .fn 280
 Ps. lxxxiii. 16.
 .fn-
+.fs
 
 A stop must be put to this insolence, which does not spare
 the most sacred retreats. For who can be safe after a calumny
@@ -14058,9 +14618,11 @@ with all your cunning, to detect in them either the
 least appearance of ambiguity, or the slightest correspondence
 with the sentiments of Geneva.
 
+.fs 80%
 .fn 281
 Pp. 96, 4.
 .fn-
+.fs
 
 Everybody knows, fathers, that the essence of the Genevan
 heresy consists, as it does according to your own showing, in
@@ -14131,6 +14693,7 @@ mass is offered for the Church only, and for the faithful in
 her communion; whereas that of the cross has been offered
 for all the world, as the Scripture testifies.”[298]
 
+.fs 80%
 .fn 282
 It is hardly necessary to observe, that in this passage the Protestant
 faith on the supper is not fairly represented. The Reformers did not deny
@@ -14149,71 +14712,104 @@ redemption on the cross, are <em>spiritually</em> partaken of by believers in
 the holy supper.” This is the general sentiment of Protestant divines.
 (De Moor, in Marck, Compend. Theol., p. v. 679, &c.)
 .fn-
+.fs
 
+.fs 80%
 .fn 283
 Second letter of M. Arnauld, p. 259.
 .fn-
+.fs
 
+.fs 80%
 .fn 284
 Ibid., p. 243.
 .fn-
+.fs
 
+.fs 80%
 .fn 285
 Frequent Communion, 3d part, ch. 16. <lang=fr><i>Poitrine</i></lang>—that is, the
 bodily breast or stomach, in opposition to <lang=fr><i>cœur</i></lang>—the heart or soul.
 .fn-
+.fs
 
+.fs 80%
 .fn 286
 Ibid., 1st part, ch. 40.
 .fn-
+.fs
 
+.fs 80%
 .fn 287
 Theolog. Fam., lec. 15.
 .fn-
+.fs
 
+.fs 80%
 .fn 288
 Ibid.
 .fn-
+.fs
 
+.fs 80%
 .fn 289
 De la Suspension. Rais. 21.
 .fn-
+.fs
 
+.fs 80%
 .fn 290
 Ibid., p. 23.
 .fn-
+.fs
 
+.fs 80%
 .fn 291
 Hours of the Holy Sacrament, in Prose.
 .fn-
+.fs
 
+.fs 80%
 .fn 292
 Letters of M. de St. Cyran, tom. i., let. 93.
 .fn-
+.fs
 
+.fs 80%
 .fn 293
 Ibid.
 .fn-
+.fs
 
+.fs 80%
 .fn 294
 Letter 32.
 .fn-
+.fs
 
+.fs 80%
 .fn 295
 Letter 72.
 .fn-
+.fs
 
+.fs 80%
 .fn 296
 Defence of the Chaplet of the H. Sacrament, p. 217.
 .fn-
+.fs
 
+.fs 80%
 .fn 297
 Theol. Famil., lec. 15.
 .fn-
+.fs
 
+.fs 80%
 .fn 298
 Ibid., p. 153.
 .fn-
+.fs
 
 I have quoted enough, fathers, to make it evident that
 there was never, perhaps, a more imprudent thing attempted
@@ -14280,6 +14876,7 @@ will turn out, not that Port-Royal is in concert with Geneva,
 but that Geneva is in concert with Port-Royal, and with the
 whole Church.
 
+.fs 80%
 .fn 299
 <i>John Mestrezat</i>, Protestant minister of Paris, was born at Geneva
 in 1592 and died in May 1657. His Sermons on the Epistle to the Hebrews
@@ -14290,7 +14887,9 @@ with such spirit that Cardinal Richelieu, taking hold of his shoulder,
 exclaimed: “This is the boldest minister in France.” (Bayle, Dict.,
 art. <cite>Mestrezat</cite>.)
 .fn-
+.fs
 
+.fs 80%
 .fn 300
 The statement of the Protestant faith, given in a preceding note,
 may suffice to show that it differs, <lang=la><i>toto cœlo</i></lang>, from that of Rome, as this
@@ -14302,6 +14901,7 @@ the <em>real</em> presence of Christ in the eucharist, though they consider the
 sense in which Romanists interpret that term to be chargeable with blasphemy
 and absurdity.
 .fn-
+.fs
 
 Certainly, fathers, you could not have been more unfortunate
 than in selecting Port-Royal as the object of attack
@@ -14349,9 +14949,11 @@ although the Church has forbidden it, this prohibition
 is annulled by the universal practice in all places of the
 earth.”[301]
 
+.fs 80%
 .fn 301
 Mascar., tr. 4, disp. 5, n. 284.
 .fn-
+.fs
 
 See what it is, fathers, to have Jesuits in all places of the
 earth! Behold the universal practice which you have introduced,
@@ -14416,9 +15018,11 @@ to take the communion on his death-bed, and that he did not
 believe in the sacrifice of the mass. Nothing can be too gross
 for calumniators by profession.
 
+.fs 80%
 .fn 302
 Ecclesiasticus (Apocrypha).
 .fn-
+.fs
 
 Your second proof furnishes an excellent illustration of this.
 To make a Calvinist of M. de St. Cyran, to whom you ascribe
@@ -14478,9 +15082,11 @@ is no more eaten with the mouth in this world than he is in
 heaven; upon which you ground the charge of heresy against
 him.
 
+.fs 80%
 .fn 303
 Freq. Com., 3 part, ch. 11.
 .fn-
+.fs
 
 You really make me sorry for you, fathers. Must we explain
 this further to you? Why do you confound that divine
@@ -14610,9 +15216,11 @@ reception! “Be ashamed of the error of your ignorance,”[304]
 as the Scripture says of ignorant impostors like you—<lang=la><i>De
 mendacio ineruditionis tuæ confundere</i></lang>.
 
+.fs 80%
 .fn 304
 Eccles. iv. 25 (Apocrypha).
 .fn-
+.fs
 
 Give up all further attempts, then, to act the masters;
 you have neither character nor capacity for the part. If,
@@ -14637,6 +15245,7 @@ semblance of plausibility to an accusation, which ought not to
 have been allowed to show its face, without being supported
 by the most unanswerable proofs.
 
+.fs 80%
 .fn 305
 <i>Jean du Verger de Hauranne, the Abbé de Saint Cyran</i> was born
 at Bayonne in 1581. He was the intimate friend of Jansenius and a
@@ -14646,6 +15255,7 @@ imprisonment he was released, but died shortly after, October, 11, 1643.
 By his followers, M. de Saint Cyran was reverenced as a saint and a
 martyr.
 .fn-
+.fs
 
 But what avails it, fathers, to oppose their innocence to
 your calumnies? You impute these errors to them, not in
@@ -14660,12 +15270,14 @@ that of your own Father Jarrige, whom you yourselves ordered
 to be hanged in effigy, for having said mass “at the
 time he was in agreement with Geneva.”[306]
 
+.fs 80%
 .fn 306
 This Father Jarrige was a famous Jesuit, who became a Protestant,
 and published, after his separation from Rome, a book, entitled
 “<cite>Le Jesuite sur l’Echaffaut</cite>—The Jesuit on the Scaffold,” in which he
 treats his old friends with no mercy.
 .fn-
+.fs
 
 What surprises me, therefore, is not the little scrupulosity
 with which you load them with crimes of the foulest and
@@ -14786,12 +15398,15 @@ and yet you do not scruple to abuse it in a more shameful
 manner than ever, for the purpose of charging women, whose
 piety is universally known, with the vilest blasphemy.
 
+.fs 80%
 .fn 307
 <lang=fr><i>Misérables que vous êtes</i></lang>—one of the bitterest expressions which
 Pascal has applied to his opponents and one which they have deeply
 felt, but the full force of which can hardly be rendered into English.
 .fn-
+.fs
 
+.fs 80%
 .fn 308
 With regard to this famous assembly at Bourg-Fontaine, in which
 it was alleged a conspiracy was formed by the Jansenists against the
@@ -14799,7 +15414,9 @@ Christian religion, the curious reader may consult the work of M. Arnauld
 entitled <cite>Morale Pratique des Jesuites</cite>, vol. viii., where there is a
 detailed account of the whole proceedings. (Nicole, iv. 283.)
 .fn-
+.fs
 
+.fs 80%
 .fn 309
 <i>The Secret Chaplet of the most Holy Sacrament.</i>—Such was the
 title of a very harmless piece of mystic devotion of three or four pages,
@@ -14811,6 +15428,7 @@ to the Court of Rome, by which it was suppressed. (Nicole, iv. 302.)
 Agnès de St. Paul was the younger sister of the Mère Angélique Arnauld,
 and both of them were sisters of the celebrated M. Arnauld.
 .fn-
+.fs
 
 Cruel, cowardly persecutors! Must, then, the most retired
 cloisters afford no retreat from your calumnies? While
@@ -14883,6 +15501,7 @@ guilt, you have lost the benefit of calumny. Such is the self-contrariety
 of evil, and so completely does it confound and
 destroy itself by its own intrinsic malignity.
 
+.fs 80%
 .fn 310
 This refers to the celebrated miracles of “the Holy Thorn,” the first
 of which, said to have lately taken place in Port-Royal, was then creating
@@ -14918,6 +15537,7 @@ miracles; and they even acknowledge that these miracles have saved
 them when their affairs have been reduced to a desperate situation.”
 (Mosh. Eccl. Hist., cent. xvii., sect. 2.)
 .fn-
+.fs
 
 You might have slandered, therefore, much more advantageously
 for yourselves, had you professed to hold, with St.
@@ -14962,19 +15582,25 @@ of the wicked; I will therefore deliver my people out
 of your hands, and ye shall know that I am their Lord and
 yours.”[313]
 
+.fs 80%
 .fn 311
 Isa. xxviii. 15.
 .fn-
+.fs
 
+.fs 80%
 .fn 312
 Isa. xxx. 12–14.
 .fn-
+.fs
 
+.fs 80%
 .fn 313
 Ezek. xiii. 23. Pascal does not, either here or elsewhere, when
 quoting from Scripture, adhere very closely to the original, nor even to
 the Vulgate version.
 .fn-
+.fs
 
 Yes, fathers, it is to be hoped that if you do not repent,
 God will deliver out of your hands those whom you have so
@@ -15006,14 +15632,18 @@ in both of the parties; so that a single calumny may prove
 mortal to an infinite number of souls, killing not only those
 who publish it, but all those besides by whom it is not repudiated.”[315]
 
+.fs 80%
 .fn 314
 This was the name given to St. Francis de Sales, bishop and prince
 of Geneva, previously to his canonization, which took place in 1665.
 .fn-
+.fs
 
+.fs 80%
 .fn 315
 Serm. 24 in Cantic.
 .fn-
+.fs
 
 Reverend fathers, my letters were not wont either to be so
 prolix, or to follow so closely on one another. Want of
@@ -15048,12 +15678,14 @@ have I been guilty of departing from this rule. I am sorry
 for what I said. I retract it; and I only wish that you may
 profit by my example.[316]
 
+.fs 80%
 .fn 316
 These two postscripts have been often admired—the former for the
 author’s elegant excuse for the length of his letter; the latter for the
 adroitness with which he turns his apology for an undesigned mistake
 into a stroke at the disingenuousness of his opponents.
 .fn-
+.fs
 
 .fm lz=t
 
@@ -15076,14 +15708,18 @@ NOT INFALLIBLE IN QUESTIONS OF FACT.
 .in
 .fs
 
+.fs 80%
 .fn 317
 M. Nicole furnished the materials for this letter. (Nicole, iv. 324.)
 .fn-
+.fs
 
+.fs 80%
 .fn 318
 <i>Francis Annat</i>, the same person formerly referred to at p. 102.
 He became French provincial of the Jesuits, and confessor to Louis XIV.
 .fn-
+.fs
 
 .sp 2
 
@@ -15150,10 +15786,12 @@ private individual;” and again in so many words, that “I am
 not of Port-Royal,” as I said in my sixteenth letter, which
 preceded your publication.
 
+.fs 80%
 .fn 319
 A threat, evidently, of administering to him the <lang=la><i>Mentiris impudentissime</i></lang>
 of the Capuchin, mentioned at p. 310.
 .fn-
+.fs
 
 You must fall on some other way, then, to prove me a
 .bn 343.png
@@ -15182,6 +15820,7 @@ in the bosom of which I desire to live and die, in communion
 with the pope, the head of the Church, and beyond the pale
 of which I am persuaded there is no salvation.
 
+.fs 80%
 .fn 320
 <i>The constitution</i>—that is, the bull of Pope Alexander VII., issued
 in October 1656, in which he not only condemned the Five Propositions,
@@ -15194,7 +15833,9 @@ that a declaration of this nature overstepped the limits of the papal authority,
 and that the pope’s infallibility did not extend to a judgment
 of <em>facts</em>.
 .fn-
+.fs
 
+.fs 80%
 .fn 321
 <i>The Five Propositions.</i>—A brief view of these celebrated Propositions
 may be here given, as necessary to the understanding of the text.
@@ -15208,6 +15849,7 @@ V. That to assert that Jesus Christ died for all men, without exception,
 is an error of the semi-Pelagians. For a fuller explication of the controversy,
 the reader must be referred to the Introduction.
 .fn-
+.fs
 .bn 344.png
 .pn +1
 
@@ -15242,6 +15884,7 @@ your maxims, and determined, as God shall give him light,
 to discuss them, without permitting any earthly consideration
 to arrest or slacken his endeavors.
 
+.fs 80%
 .fn 322
 Pascal might say this with truth, for his only relatives being nuns,
 the tie of earthly relationship was considered by him as no longer existing;
@@ -15254,6 +15897,7 @@ duplicity of the Jesuits, the sublime writer did not scruple to imitate
 it.” (Hist. de la Comp. de Jésus, par J. Cretineau-Joly, tom. iv.
 p. 54. Paris, 1845.)
 .fn-
+.fs
 .bn 345.png
 .pn +1
 
@@ -15280,6 +15924,7 @@ would grasp them all at once, and would hold them as a
 body of reprobates, every one of whom is responsible for all
 the rest.
 
+.fs 80%
 .fn 323
 “This book of the <i>Holy Virginity</i> was a translation from St. Augustine,
 made by Father Seguenot, priest of the Oratory. So far, all
@@ -15289,6 +15934,7 @@ came from the Oratory, a community always attached to the doctrine
 of St. Augustine, an attempt was made to throw the blame on
 those called Jansenists.” (Note by Nicole, iv. 332.)
 .fn-
+.fs
 
 There is a vast difference between Jesuits and all their opponents.
 There can be no doubt that you compose one
@@ -15394,13 +16040,16 @@ them. But our reply will show at once our innocence, and the
 malignity of these persons who have ascribed to us a set of impious
 tenets, of which they are themselves the sole inventors.”
 
+.fs 80%
 .fn 324
 “M. Jacques de Sainte-Beuve, one of the ablest divines of his age,
 preferred to relinquish his chair in the Sorbonne rather than concur in
 the censure of M. Arnauld, whose orthodoxy he regarded as beyond
 suspicion. He died in 1677.” (Note by Nicole.)
 .fn-
+.fs
 
+.fs 80%
 .fn 325
 This work was entitled “On the Victorious Grace of Jesus Christ;
 or, Molina and his followers convicted of the error of the Pelagians and
@@ -15408,6 +16057,7 @@ Semi-Pelagians. By the Sieur de Bonlieu. Paris, 1651.” The real
 author was the celebrated M. de la Lane, well known in that controversy.
 (Note by Nicole.)
 .fn-
+.fs
 
 Truly, father, when I found that they had spoken in this
 way before the appearance of the papal constitution—when
@@ -15433,9 +16083,11 @@ you, you persisted in calling them heretics, “because,” said
 you, “their heart belies their hand; they are Catholics outwardly,
 but inwardly they are heretics.”[326]
 
+.fs 80%
 .fn 326
 Rĕponse a quelques demandes, pp. 27, 47.
 .fn-
+.fs
 .bn 349.png
 .pn +1
 
@@ -15595,6 +16247,7 @@ proper and natural sense. The pope, accordingly, condemned
 .pn +1
 them; and all parties have acquiesced in his judgment.
 
+.fs 80%
 .fn 327
 These judgments, or <cite>Vota Consultorum</cite>, as they were called, have
 been often printed, and particularly at the end of the <cite>Journal de M. de
@@ -15602,13 +16255,16 @@ St. Amour</cite>—a book essentially necessary to the right understanding of
 all the intrigues employed in the condemnation of Jansenius. (Note
 by Nicole.)
 .fn-
+.fs
 
+.fs 80%
 .fn 328
 This was <i>Francis du Bosquet</i>, who, from being Bishop of Lodeve,
 was made Bishop of Montpelier in 1655, and died in 1676. He was one
 of the most learned bishops of his time in ecclesiastical matters. (Note
 by Nicole.)
 .fn-
+.fs
 
 It is certain, then, father, that efficacious grace has not
 been condemned. Indeed, it is so powerfully supported by
@@ -15635,9 +16291,11 @@ he has, you will have the honor of having better understood
 him, but they will not have the misfortune of having erred
 from the faith.
 
+.fs 80%
 .fn 329
 Cavill, p. 35.
 .fn-
+.fs
 
 It is matter of thankfulness to God, then, father, that there
 is in reality no heresy in the Church. The question relates
@@ -15695,11 +16353,13 @@ that has been decided in a matter of faith; because,
 as Tertullian observes, the rule of faith alone is immovable
 and irrevocable.”
 
+.fs 80%
 .fn 330
 M. de Marca, an illustrious prelate, who was Archbishop of Toulouse,
 before he was nominated to the see of Paris, of which he was
 only prevented by death from taking possession. (Nicole.)
 .fn-
+.fs
 
 Hence it has been seen that, while general and lawful
 councils have never contradicted one another in points of
@@ -15762,6 +16422,7 @@ Sirmond,[332] a Jesuit, from defending him, or from saying, in
 his life of that father, that “his writings are entirely free from
 the heresy of Nestorius.”
 
+.fs 80%
 .fn 331
 <i>Nestorian heresy</i>—so called from Nestorius, Bishop of Constantinople,
 in the fifth century, who was accused of dividing Christ into <em>two
@@ -15772,13 +16433,16 @@ to the use of the phrase, which then came into vogue, <em>the Mother
 of God</em>, as applied to the Virgin, whom he called, in preference, <em>the
 Mother of Christ</em>.
 .fn-
+.fs
 
+.fs 80%
 .fn 332
 This was James Sirmond (the uncle of Anthony, formerly mentioned),
 a learned Jesuit, and confessor to Louis XIII. He was distinguished
 as an ecclesiastical historian. (Tableau de la Litt. Fran.,
 iv. 202.)
 .fn-
+.fs
 
 It is evident, therefore, that as the Church, in condemning
 a book, assumes that the error which she condemns is contained
@@ -15826,11 +16490,13 @@ Pope Honorius was not a heretic; even though a great many
 popes and councils, after examining his writings, should have
 declared that he was so.
 
+.fs 80%
 .fn 333
 <i>The Monothelites</i>, who arose in the seventh century, were so called
 from holding that there was but <em>one will</em> in Christ, his human will being
 absorbed, as it were, in the divine.
 .fn-
+.fs
 
 I now come to the question before us, and shall allow you
 to state your case as favorably as you can. What will you
@@ -15966,14 +16632,18 @@ in the sight of God, by signing that condemnation against
 their consciences, or be denounced as heretics for refusing to
 sign it?[335]
 
+.fs 80%
 .fn 334
 See Letter i., p. 74.
 .fn-
+.fs
 
+.fs 80%
 .fn 335
 The persecution here supposed was soon lamentably realized, and
 exactly in the way which our author seemed to think impossible.
 .fn-
+.fs
 
 But there is a mystery under all this. You Jesuits cannot
 move a step without a stratagem. It remains for me to
@@ -16013,9 +16683,11 @@ can be drawn from this; for the pope has done no more than
 condemned the doctrine of the five propositions, which was
 represented to him as the doctrine of Jansenius.
 
+.fs 80%
 .fn 336
 Cavill, p. 23.
 .fn-
+.fs
 
 But it matters not; you have no intention to make use
 of this logic for any length of time. Poor as it is, it will last
@@ -16121,6 +16793,7 @@ yourself would not advise me to write you any more letters
 for it is really a sad annoyance to be obliged to have recourse
 to an Osnabruck impression.[337]
 
+.fs 80%
 .fn 337
 This postscript, which is wanting in the ordinary editions, appeared
 in the first edition at the close of this letter. From this it appears that,
@@ -16136,6 +16809,7 @@ books could be printed at Paris; they were generally sent to
 Geneva or the Low Countries for this purpose, or published furtively
 under fictitious names.
 .fn-
+.fs
 
 .fm lz=t
 
@@ -16203,13 +16877,17 @@ and which only condemns in general and without explanation
 the sense of Jansenius, leaves the point in dispute quite
 undecided.
 
+.fs 80%
 .fn 338
 Decrees of the pope.
 .fn-
+.fs
 
+.fs 80%
 .fn 339
 The papal constitution formerly referred to.
 .fn-
+.fs
 
 You have accordingly been repeatedly told, that as your
 discussion turns on a matter of fact, you would never be able
@@ -16292,10 +16970,12 @@ they be otherwise than zealous against it, believing as they
 did the declarations of those who publicly affirmed that it
 was identically the same with that of Calvin?
 
+.fs 80%
 .fn 340
 The Council of Trent is meant, when Pascal speaks of <em>the council</em>,
 without any other specification.
 .fn-
+.fs
 
 I must maintain, then, father, that you have no further
 reason to quarrel with your adversaries; for they detest that
@@ -16367,11 +17047,13 @@ turns to God with a movement as voluntary as it is irresistible,
 whensoever he is pleased to draw it to himself by the
 sweet constraint of his efficacious inspirations.[341]
 
+.fs 80%
 .fn 341
 The reader may well be at a loss to see the difference between this
 and the Reformed doctrine. Some explanations will be found in the
 Historical Introduction.
 .fn-
+.fs
 
 These, father, are the divine principles of St. Augustine
 and St. Thomas, according to which it is equally true that
@@ -16406,10 +17088,12 @@ into hostile collision with that principle of faith established
 by St. Paul, “That it is God who worketh in us both to will
 and to do.”
 
+.fs 80%
 .fn 342
 This sentiment was falsely ascribed to Luther by the Council.
 (Leydeck, De Dogm. Jan. 275.)
 .fn-
+.fs
 
 In fine, in this way we reconcile all those passages of
 Scripture which seem quite inconsistent with each other,
@@ -16461,6 +17145,7 @@ person may refuse to yield his consent to grace, if he be so
 inclined, as the council states; but that same grace provides
 that he shall never be so inclined.”
 
+.fs 80%
 .fn 343
 Diego (or Didacus) Alvarez was one of the most celebrated theologians
 of the order of St. Dominick; he flourished in the sixteenth and
@@ -16470,6 +17155,7 @@ cause of the grace of Jesus Christ, which the Jesuit Molina weakened,
 and indeed annihilated. He shone greatly in the famous Congregation
 <i>de Auxiliis</i>. (Nicole’s Note.)
 .fn-
+.fs
 
 This, father, is the uniform doctrine of St. Augustine, of
 St. Prosper, of the fathers who followed them, of the councils,
@@ -16582,9 +17268,11 @@ resisting it, so entirely coincides with his judgment, that to
 ascertain his sentiments on this subject, we have only to consult
 their writings.”
 
+.fs 80%
 .fn 344
 His Treatise <i>passim</i>, and particularly tom. 3, l. 8, c. 20.
 .fn-
+.fs
 
 Such being the language he holds on these heads, my
 opinion is, that he believes in the power of resisting grace;
@@ -16764,6 +17452,7 @@ and the replies; that so a judgment may be given
 in due form, and with proper knowledge of the case, and not
 a defamatory libel without examination.”
 
+.fs 80%
 .fn 345
 “It may be proper here to give an explanation of the hatred of
 the Jesuits against Jansenius. When the <cite>Augustinus</cite> of that author
@@ -16779,6 +17468,7 @@ the book of Jansenius in the Low Countries, by a large volume of Theological
 Theses (in folio, 1641), which are very singular productions.”
 (Note by Nicole.)
 .fn-
+.fs
 
 It is quite vain for you, father, to represent those who
 would act in the manner I have now supposed as deficient
@@ -16801,9 +17491,11 @@ been gained from it by surprise; indeed, it is highly just to
 prevent any from profiting by an act of injustice, and more
 especially before the Holy See.”
 
+.fs 80%
 .fn 346
 On the Book of Job, lib. viii., cap. 1.
 .fn-
+.fs
 
 Such, father, are the proper sentiments with which the
 popes ought to be inspired; for all divines are agreed that
@@ -16864,18 +17556,24 @@ father, is a universal evil, from the influence of which, if you
 are exempt, I shall only say, you are the only individual
 among all your compeers who can boast of that privilege.”[349]
 
+.fs 80%
 .fn 347
 <em>Surprise</em> is the word used to denote the case of the pope when taken
 at unawares or deceived by false accounts.
 .fn-
+.fs
 
+.fs 80%
 .fn 348
 Lib. i., in Dial.
 .fn-
+.fs
 
+.fs 80%
 .fn 349
 De Consid. lib. ii., c. ult.
 .fn-
+.fs
 .bn 383.png
 .pn +1
 
@@ -16931,9 +17629,11 @@ that, on the contrary, even according to the canonists, it
 is the truth of the facts which renders the bulls lawfully
 admissible.
 
+.fs 80%
 .fn 350
 Alas! alas!
 .fn-
+.fs
 
 In what way, then, are we to learn the truth of facts? It
 must be by the eyes, father, which are the legitimate judges
@@ -16993,9 +17693,11 @@ one which reason plainly teaches to be false, we must not persist
 in maintaining that this is the natural sense, but search
 out another with which reason will agree.”[351]
 
+.fs 80%
 .fn 351
 I. p. q. 68, a. l.
 .fn-
+.fs
 
 St. Thomas explains his meaning by the example of a
 passage in Genesis, where it is written that “God created
