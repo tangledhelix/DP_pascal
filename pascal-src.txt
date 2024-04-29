@@ -17266,6 +17266,14 @@ in the Church, their reply was....
 .ce
 THE END
 
+.if h
+.pb
+.sp 4
+.nf c
+<xl>Footnotes</xl>
+.nf-
+.if-
+
 .fm lz=th
 
 .bn 393.png
