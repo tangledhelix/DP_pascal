@@ -17982,15 +17982,17 @@ Footnotes
 .sp 4
 
 .ce
-<xl>CARTERS’ CATALOGUE.</xl>
+<xxl>CARTERS’ CATALOGUE.</xxl>
 
-.sp 2
+.hr
 
 .ce
 <l>REMOVAL.</l>
 
 <i>Robert Carter & Brothers have removed from No.
 285, to No. 530 Broadway, corner of Spring-street.</i>
+
+.hr
 
 .nf r
 .ce 2
@@ -18001,18 +18003,16 @@ August, 1856.
 .sp 2
 
 .nf c
-<xxl>ROBERT CARTER & BROTHERS’</xxl>
-<xl>New Publications.</xl>
+<xl>ROBERT CARTER & BROTHERS’</xl>
+<l>New Publications.</l>
 .nf-
 
-.sp 2
+.hr 50%
 
 .nf c
 <l>The Gospel in Ezekiel,</l>
 By Thomas Guthrie, D.D. \|12mo. \|$1\_00.
-.nf-
 
-.nf c
 <l>Typical Forms and Special Ends in Creation.</l>
 By James McCosh, LL.D., and Dr. Dickie. \|8vo. \|$2\_00.
 .nf-
@@ -18036,55 +18036,38 @@ and spiritual relations.”—<i>Argus.</i></s>
 .nf c
 <l>Dr. Williams’s Sermon on Missions.</l>
 18mo, cloth, gilt edge. \|25\_cents.
-.nf-
 
-.nf c
 <l>Dr. Rice’s Sermon on Preaching.</l>
 18mo, cloth, gilt edge. \|25\_cents.
-.nf-
 
-.nf c
 <l>Caird’s Sermon before the Queen.</l>
 18mo, cloth, gilt edge. \|25\_cents.
-.nf-
 
-.nf c
 <l>The Theology of Inventions; or, Manifestations of Deity in the works of Art.</l>
 By the Rev. John Blakely. \|12mo. \|75\_cents.
-.nf-
 
-.nf c
 <l>Emblems from Eden.</l>
 By James Hamilton, D.D. \|18mo. \|30\_cents.
-.nf-
 
-.nf c
 <l>The Christian’s Great Interest.</l>
 By the Rev. William Guthrie, with Introd. by Dr. Chalmers. \|50\_cts.
-.nf-
 .bn 394.png
 .pn +1
 
-.nf c
 <l>Evening Incense.</l>
 By the author of the “Morning and Night Watches.” \|40\_cents.
-.nf-
 
-.nf c
 <l>Lectures to Young Men Delivered, in London for 1856. \|$1\_00.</l>
-.nf-
 
-.nf c
 <l>Evenings with the Romanists.</l>
 By Rev. Hobart Seymour. \|12mo. \|$1\_00.
-.nf-
 
-.nf c
 Dr. Sprague’s great work.
 <l>The Annals of the American Pulpit.</l>
 By W. B. Sprague, D.D. \|Vols. 1 and 2, <sc>Congregationalists</sc>. \|8vo.
 .nf-
 
+.in +1
 <s>The first volume commences with John Robinson, the first New England
 Pastor, and extends to 1770; and the second volume from this period to the
 close of 1855.</s>
@@ -18099,37 +18082,26 @@ in all other cases the author has appropriated what has been written and publish
 by the cotemporaries of the subjects who could speak from actual
 knowledge. These volumes contain the most complete, as well as most interesting
 history of this branch of the Christian Church that has yet been published.</s>
+.in
 
 .nf c
 <l>The Power, Wisdom, and Goodness of God, as manifested in the Constitution of the Human Soul,</l>
 A Course of Lectures by R. S. Storrs, D.D. \|8vo.
-.nf-
 
-.nf c
 <l>Africa’s Mountain Valley.</l>
 By the author of “Ministering Children.” \|16mo. \|60\_cents.
-.nf-
 
-.nf c
 <l>The Christian Philosopher.</l>
 By Thomas Dick, D.D. \|Re-written and enlarged, with 170 illustrations.
-.nf-
 
-.nf c
 <l>Trade and Letters.</l>
 Three Lectures by W. A. Scott, D.D. \|16mo.
-.nf-
 
-.nf c
 <l>Lee on the Inspiration of Holy Scripture. \|8vo. \|$</l>
-.nf-
 
-.nf c
 <l>Essays; Theological and Miscellaneous.</l>
 By Charles Hodge, D.D. \|8vo.
-.nf-
 
-.nf c
 <l>Sacred Classics.</l>
 .nf-
 
@@ -18147,15 +18119,10 @@ will be in neat 12mo form, large type, and uniformly bound in cloth.</s>
 .bn 395.png
 .pn +1
 
-.sp 4
-
 .nf c
-<xxl>NEW JUVENILE BOOKS.</xxl>
-.nf-
+<xl>NEW JUVENILE BOOKS.</xl>
 
-.sp 2
 
-.nf c
 <l>Edward Clifford; or, Memories of Childhood,</l>
 With six illustrations. \|16mo. \|75\_cents.
 .nf-
@@ -18177,8 +18144,10 @@ mind so delicately strung.”—<i>Christian Observer.</i></s>
 Illustrated. \|16mo. \|75\_cents.
 .nf-
 
+.in +1
 <s>These sketches interest the mind with historic truth made winning and lively
 by a style of beautiful simplicity.</s>
+.in
 
 .nf c
 <l>Tales from English History.</l>
@@ -18210,14 +18179,10 @@ than stories of giants and castles, and more wonderful than fiction.”—<i>Obs
 .nf c
 <l>The Adopted Son, and other Tales.</l>
 By the author of the “Claremont Tales.” \|18mo. \|50\_cents.
-.nf-
 
-.nf c
 <l>Aunt Edith; or, Love to God the Best Motive.</l>
 By the author of “Florence Egerton.” \|18mo. \|50\_cents.
-.nf-
 
-.nf c
 New Editions, in cheaper form, of
 .nf-
 
@@ -18234,18 +18199,15 @@ New Editions, in cheaper form, of
 <sc>Ashton Cottage, a Tale.</sc>                | ”     | 40 | ”
 .ta-
 
+.pb
+
 .bn 396.png
 .pn +1
 
-.sp 2
-
 .nf c
-<xxl>EXPOSITORY WORKS.</xxl>
-.nf-
+<xl>EXPOSITORY WORKS.</xl>
 
-.sp 2
 
-.nf c
 <l>Dr. Hodge’s Commentary on Ephesians.</l>
 8vo. \|$2\_00.
 .nf-
@@ -18342,16 +18304,14 @@ Y. Observer.</i></s>
 .ti end
 .in
 
+.pb
+
 .bn 397.png
 .pn +1
 
-.sp 2
-
 .nf c
-<xxl>COMMENTARIES ON THE BIBLE.</xxl>
-.nf-
+<xl>COMMENTARIES ON THE BIBLE.</xl>
 
-.nf c
 <l>* Pool’s Annotations.</l>
 New edition, on larger paper, 3 vols. royal 8vo. \|Sheep. \|$10\_00.
 .nf-
@@ -18431,16 +18391,14 @@ of those intended for holy orders.”</s>
 .ti end
 .in
 
+.pb
+
 .bn 398.png
 .pn +1
 
-.sp 2
-
 .nf c
-<xxl>NEW RELIGIOUS BIOGRAPHIES.</xxl>
-.nf-
+<xl>NEW RELIGIOUS BIOGRAPHIES.</xl>
 
-.nf c
 <l>Dr. Cheever’s Life of Cowper.</l>
 12mo. \|Illustrated. \|$1\_00.
 .nf-
@@ -18513,9 +18471,7 @@ by their works a better right to be called a missionary than he.”—<i>Witness
 .nf c
 <l>The Victory Won.</l>
 By the Author of “Captain Vicars,” \|18mo. \|25\_cents.
-.nf-
 
-.nf c
 <l>Memoirs of Adelaide Leaper Newton.</l>
 By the Rev. John Baillie. \|75\_cents.
 .nf-
@@ -18534,6 +18490,8 @@ Recorder.</i></s>
 <l>The Martyr of Sumatra.</l>
 A Memoir of Henry Lyman.
 .nf-
+
+.pb
 
 .bn 399.png
 .pn +1
@@ -18626,15 +18584,15 @@ Delivered in London. Series of 1854–5–6. \|Each $1\_00.
 
 <b>WORDS TO WIN SOULS.</b> \|75\_cents.
 
+.pb
+
 .bn 400.png
 .pn +1
 
 .nf c
-<xxl>FIRESIDE LIBRARY.</xxl>
-.nf-
+<xl>FIRESIDE LIBRARY.</xl>
 
-.nf c
-<xl>FIRST SERIES.</xl>
+<l>FIRST SERIES.</l>
 <s>50 cents per volume.</s>
 .nf-
 
@@ -18679,7 +18637,7 @@ Delivered in London. Series of 1854–5–6. \|Each $1\_00.
 .ul-
 
 .nf c
-<xl>SECOND SERIES.</xl>
+<l>SECOND SERIES.</l>
 <s>40 cents per volume.</s>
 .nf-
 
@@ -18700,7 +18658,7 @@ Delivered in London. Series of 1854–5–6. \|Each $1\_00.
 .ul-
 
 .nf c
-<xl>THIRD SERIES.</xl>
+<l>THIRD SERIES.</l>
 <s>30 cents per volume.</s>
 .nf-
 
@@ -18721,7 +18679,7 @@ Delivered in London. Series of 1854–5–6. \|Each $1\_00.
 .ul-
 
 .nf c
-<xl>FOURTH SERIES.</xl>
+<l>FOURTH SERIES.</l>
 <s>25 cents per volume.</s>
 .nf-
 
@@ -18744,7 +18702,7 @@ Delivered in London. Series of 1854–5–6. \|Each $1\_00.
 .tb
 
 .nf c
-<xxl>JUVENILE LIBRARY.</xxl>
+<xl>JUVENILE LIBRARY.</xl>
 <s>Square, 50 cents each.</s>
 .nf-
 
@@ -18780,11 +18738,11 @@ Delivered in London. Series of 1854–5–6. \|Each $1\_00.
 .bn 401.png
 .pn +1
 
-.nf c
-<xxl>CARTERS’ PUBLICATIONS.</xxl>
-.nf-
+.sp 4
 
 .nf c
+<xl>CARTERS’ PUBLICATIONS.</xl>
+
 <l>The Rich Kinsman.</l>
 The History of Ruth the Moabitess, by Stephen H. Tyng, D.D. \|16mo. \|$1.
 .nf-
@@ -18857,14 +18815,10 @@ spiritual man.”—<i>Watchman and Observer.</i></s>
 .nf c
 <l>Fritz Harold; or, the Temptation.</l>
 By Mrs. Sarah A. Meyers. \|16mo. \|Illustrated. \|40\_cents.
-.nf-
 
-.nf c
 <l>May Dundas; or, Passages from Young Life.</l>
 By Mrs. Thomas Geldart. \|Illustrated. \|16mo. \|50\_cents.
-.nf-
 
-.nf c
 <l>The Christian Patriot.</l>
 A Memoir of William Wilberforce. \|75\_cents.
 .nf-
@@ -18908,9 +18862,7 @@ Christendom.”—<i>Watchman.</i></s>
 
 .nf c
 By the same author.
-.nf-
 
-.nf c
 <l>I. Morning and Evening Exercises.</l>
 A new edition in 4 royal 12mo vols. \|$4.
 .nf-
@@ -18993,9 +18945,7 @@ mistake, this will be reckoned among the best of them.”—<i>Puritan Recorder.
 
 .nf c
 By the same author.
-.nf-
 
-.nf c
 <l>I. The Words of Jesus.</l>
 16mo. \|40\_cents.
 .nf-
@@ -19012,9 +18962,7 @@ the soul, like the star of Bethlehem, to the meek and lowly Saviour.”—<i>Wat
 .nf c
 <l>II. The Mind of Jesus.</l>
 16mo. \|40\_cents.
-.nf-
 
-.nf c
 <l>III. Morning and Night Watches.</l>
 16mo. \|60\_cents.
 .nf-
@@ -19043,19 +18991,13 @@ Herald.</i></s>
 .nf c
 <l>V. The Woodcutter, and The Exiles.</l>
 18mo. \|50\_cents.
-.nf-
 
-.nf c
 <l>VI. The Great Journey:</l>
 <sc>A Pilgrimage through the Valley of Tears to Mount Zion, the City of the Living God.</sc> \|Illustrated. \|16mo. \|50\_cents.
-.nf-
 
-.nf c
 <l>Family Prayers.</l>
 By the Rev. John Swete, D.D. \|16mo. \|60\_cents.
-.nf-
 
-.nf c
 <l>Family Expositions of John and Jude.</l>
 By the Rev. Edward Bickersteth. \|16mo. \|60\_cents.
 .nf-
@@ -19094,14 +19036,10 @@ practical, and profitable.”—<i>Christian Annotator.</i></s>
 .nf c
 <l>Philip Colville, a Covenanter’s Story.</l>
 By Grace Kennedy, author of “Anna Ross.” \|18mo. \|30\_cts.
-.nf-
 
-.nf c
 <l>The Dead in Christ; their State, Present and Future.</l>
 By John Brown, D.D. \|16mo. \|50\_cents.
-.nf-
 
-.nf c
 <l>Memoir of John Frederick Oberlin, Pastor of the Waldbach in the Ban De La Roche.</l>
 18mo. \|40\_cents.
 .nf-
@@ -19116,14 +19054,10 @@ a heartlessness and apathy none will covet.”—<i>Halsey.</i></s>
 .nf c
 <l>Israel and the Gentiles.</l>
 Contributions to the History of the Jews from the earliest time to the present day. \|By Dr. Isaac Da Costa. \|$1.25.
-.nf-
 
-.nf c
 <l>Stray Arrows.</l>
 By the Rev. T. L. Cuyler, new and enlarged edition. \|18mo. \|40\_cents.
-.nf-
 
-.nf c
 <l>Emily Vernon; or, Filial Piety Exemplified.</l>
 By Mrs. Drummond. \|50\_cents.
 .nf-
