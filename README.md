@@ -17,9 +17,9 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 - [ ] See project comments - there is a longer title
     - [ ] Use in the book itself?
     - [ ] Use in submission to PG?
-- [ ] On 135 and 136, P1 entered Greek characters which were reverted in F1
-    - [ ] Can fetch 135 from P2 (P2 made an update, which P3 preserved)
-    - [ ] Can fetch 136 from P1 (was preserved through P3)
+- [x] On 135 and 136, P1 entered Greek characters which were reverted in F1
+    - [x] Can fetch 135 from P2 (P2 made an update, which P3 preserved)
+    - [x] Can fetch 136 from P1 (was preserved through P3)
 - [x] 348 - a question about a diacritical. See forum for more discussion.
 - [ ] No cover image was provided
 - [x] LOTE words
@@ -104,6 +104,8 @@ after consulting TIA.
 ### Transcriber's notes ###
 
 usual disclaimer... many unusual spellings were left as-is
+
+(mention use `=` as a marker for bold text)
 
 (insert list markup here)
 
