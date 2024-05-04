@@ -18877,7 +18877,7 @@ Bath, whose name and writings were known and loved all over Protestant
 Christendom.”—<i>Watchman.</i></s>
 
 <s>“As an autobiography, this will do to go along with that of Hugh Miller.”—<i>Journal.</i></s>
-.ti
+.ti end
 .in
 
 .nf c
