@@ -57,7 +57,7 @@ No. 530 BROADWAY.
 .h2
 CONTENTS.
 
-.ta h:66 rb:6
+.ta h:64 rb:6
  | PAGE
 #<sc>Preface</sc>,:Page_vii# | vii
 
