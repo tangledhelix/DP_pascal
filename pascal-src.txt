@@ -18111,7 +18111,7 @@ By Charles Hodge, D.D. \|8vo.
 <l>Sacred Classics.</l>
 .nf-
 
-.in 2
+.in +2
 .ti -2 begin
 <s>A series of the choicest productions of the great Divines of the seventeenth
 century, such as Jeremy Taylor, Bates, Beveridge, Bishop
@@ -18504,89 +18504,103 @@ A Memoir of Henry Lyman.
 
 <b>BICKERSTETH</b>, Rev. Edward.
 
-.ti 4
+.in +4
 <b>* Complete Works.</b> \|16 vols. \|$10\_00.
 
-.ti 4
 <b>Exposition of the Epistles of John and Jude.</b> \|60\_cents.
+.in
 
 <b>BINNEY</b>, Rev. Thomas.
 
-.ti 4
+.in +4
 <b>Is it possible to make the Best of Both Worlds?</b> \|60\_cts.
+.in
 
 <b>BRIDGES</b>, Rev. Charles.
 
-.ti 4
+.in +4
 <b>A Manual for the Young.</b> \|16mo. \|50\_cents.
+.in
 
 <b>CHART</b>
 
-.ti 4
+.in +4
 <b>Of the Sacred History of the World</b>. \|$1\_50.
+.in
 
 <b>DA COSTA</b>, Dr. Isaac.
 
-.ti 4
+.in +4
 <b>Israel and the Gentiles.</b> \|12mo. \|$1\_25.
 
-.ti 4
 <b>The Four Witnesses.</b> \|$2\_00.
+.in
 
 <b>FLETCHER</b>, Rev. Alexander.
 
-.ti 4
+.in +4
 <b>Addresses to the Young.</b> \|16mo. \|60\_cents.
+.in
 
 <b>HEWITSON</b>, Rev. W. H.
 
-.ti 4
+.in +4
 <b>Letters and Remains.</b> \|2 vols. \|$2\_00.
+.in
 
 <b>HOWELS</b>, Rev. William.
 
-.ti 4
+.in +4
 <b>Remains and Extracts from Sermons.</b> \|75\_cents.
+.in
 
 <b>LECTURES TO YOUNG MEN.</b>
 
-.ti 4
+.in +4
 Delivered in London. Series of 1854–5–6. \|Each $1\_00.
+.in
 
 <b>RYLE</b>, Rev. J. C.
 
-.ti 4
+.in +4
 <b>Expository Thoughts on the Gospels</b>; for Family and Private Use. \|12mo.
+.in
 
 <b>SMITH</b>, Rev. John Pye.
 
-.ti 4
+.in +4
 <b>* Scripture Testimony to the Messiah.</b> \|2 vols., 8vo. \|$5\_00.
+.in
 
 <b>* SELF-EXPLANATORY REFERENCE BIBLE.</b>
 
-.ti 4
+.in +4
 8vo. \|Half-calf, $4\_50; Turkey morocco, $6\_00.
+.in
 
 <b>SWETE</b>, Rev. John.
 
-.ti 4
+.in +4
 <b>Family Prayers.</b> \|16mo. \|60\_cents.
+.in
 
 <b>VILLAGE CHURCHYARD.</b>
 
-.ti 4
+.in +4
 40\_cents.
+.in
 
 <b>VILLAGE PASTOR.</b>
 
-.ti 4
+.in +4
 40\_cents.
+.in
 
 <b>VILLAGE OBSERVER.</b>
 
-.ti 4
+.in +4
 30\_cents.
+.in
 
 <b>WORDS TO WIN SOULS.</b> \|75\_cents.
 
