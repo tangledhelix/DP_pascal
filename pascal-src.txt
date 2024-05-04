@@ -135,6 +135,10 @@ Fragment of a nineteenth Provincial Letter, addressed to Père Annat, | 391
 .h2
 THE TRANSLATOR’S PREFACE.
 
+.pi
+// vertical spacing between paragraphs
+.nr psi .75em
+
 The following translation of the Provincial Letters was undertaken
 several years ago, in compliance with the suggestion of a revered parent,
 chiefly as a literary recreation in a retired country charge, and,
@@ -17965,6 +17969,8 @@ in the Church, their reply was....
 
 .ce
 THE END
+
+.ni
 
 .if h
 .sp 4
