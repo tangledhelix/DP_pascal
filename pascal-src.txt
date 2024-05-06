@@ -4,7 +4,7 @@
 // Author     : Pascal, Blaise; M‘Crie, Rev. Thomas, translator/editor
 // Project ID : 61524e807a9ac
 
-.dt The provincial letters of Blaise Pascal | Project Gutenberg
+.dt The provincial letters of Blaise Pascal. A new translation with historical introduction and notes. | Project Gutenberg
 
 .bn 001.png
 .pn i

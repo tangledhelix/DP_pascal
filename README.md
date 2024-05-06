@@ -4,6 +4,10 @@ This is a [Distributed Proofreaders](http://www.pgdp.net/) post-processing proje
 
 "The provincial letters of Blaise Pascal" by Pascal, Blaise; M'Crie, Rev. Thomas, translator/editor
 
+Full title, taken from project comments:
+
+"The provincial letters of Blaise Pascal. A new translation with historical introduction and notes."
+
 - [DP project page](http://www.pgdp.net/c/project.php?id=projectID61524e807a9ac)
 - [Forum thread](https://www.pgdp.net/phpBB3/viewtopic.php?t=75204)
 - [Trello board](https://trello.com/b/nT0nnebE)
@@ -14,9 +18,11 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-- [ ] See project comments - there is a longer title
-    - [ ] Use in the book itself?
-    - [ ] Use in submission to PG?
+- [x] See project comments - there is a longer title
+    - `THE PROVINCIAL LETTERS of BLAISE PASCAL. A NEW TRANSLATION WITH HISTORICAL INTRODUCTION AND NOTES.`
+    - Re-cased: `The provincial letters of Blaise Pascal. A new translation with historical introduction and notes.`
+    - [x] Use in the book itself?
+    - [x] Use in submission to PG?
 - [x] On 135 and 136, P1 entered Greek characters which were reverted in F1
     - [x] Can fetch 135 from P2 (P2 made an update, which P3 preserved)
     - [x] Can fetch 136 from P1 (was preserved through P3)
