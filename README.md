@@ -70,7 +70,12 @@ after consulting TIA.
 ### Illustrations ###
 
 - [x] A cover will need to be fabricated
-- [ ] 393 through 404: these are publisher's ads and have decorative borders
+- [x] 393 through 404: these are publisher's ads and have decorative borders
+    - After a forum post and some experimentation, I elected to drop the borders.
+      One forum posters pointed to a method that looked promising, but their use
+      case was different, and had smaller repeating images, not the longer/wider
+      non-repeating ones I had. After numerous attempts to make the CSS do what
+      was needed, it was not rendering well at all and I gave up on it.
 
 ### Proofer's notes ###
 
