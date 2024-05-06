@@ -19112,3 +19112,55 @@ pictorial illustrations, and accompanied by a concise Introductory
 Sketch, and copious notes. \|Folio. \|$1.50
 .ti end
 .in
+
+.pb
+.ni
+
+.de .tnotes { width: 80%; margin: auto; padding: 0 1em; background-color: #E3E4FA; border: 1px solid silver; }
+.dv class="tnotes"
+
+.ce
+<b>Transcriber’s Notes</b>
+
+Some inconsistencies in spelling, hyphenation, and punctuation have been
+retained.
+
+.if t
+This file uses <i>underscores</i> to indicate italic text and =equals signs=
+to indicate bold text.
+.if-
+
+Itemized changes from the original text:
+
+.ul
+.it p. ix: changed “Protestanism” to “Protestantism” (Protestantism, like the primitive Church,)
+.it p. xxxiii:
+.ul
+.it changed “Sarbonne” to “Sorbonne” (Expelled from the Sorbonne,)
+.it changed “be” to “he” (for the eucharist, he insinuated)
+.it changed “Sarbonne” to “Sorbonne” (expulsion from the Sorbonne,)
+.ul-
+.it p. xxxv: changed “Sarbonne” to “Sorbonne” (before the Sorbonne was in dependence,)
+.it p. 94: changed “perfeet” to “perfect” (the most perfect harmony)
+.it p. 103: added missing quote mark based on context and 1875 Chatto & Windus edition (written in letters of gold.”)
+.it p. 104: changed “terrribly” to “terribly” (I am terribly afraid)
+.it p. 110: changed “nnmber” to “number” (the number of our offences)
+.it p. 146: added missing quote mark based on context and 1875 Chatto & Windus edition (gone into desuetude’)
+.it p. 168: changed “sylllogism” to “syllogism” (a syllogism in due form,)
+.it p. 204: added missing quote mark based on context and 1875 Chatto & Windus edition (than to live well.’)
+.it p. 209: inserted missing opening quote mark (‘if the confessor imposes) based on context as well as 1847 John Johnstone edition, 1875 & 1898 Chatto & Windus editions
+.it p. 211: changed “was” to “has” (who has probed this question)
+.it p. 218: added missing quote mark based on context (sufficient with the sacrament.’)
+.it p. 286: changed “surmont” to “surmount” (to surmount external obstacles)
+.it p. 322: removed extraneous closing quote mark based on context and 1875 Chatto & Windus edition (adored in the sanctuary)
+.it p. 340: removed extraneous closing quote mark based on context and 1875 Chatto & Windus edition (you may profit by my example.)
+.it p. 345: removed extraneous closing quote mark based on context and 1875 Chatto & Windus edition (any more than his book?)
+.it p. 347: changed “M. de l aLane” to “M. de la Lane” based on 1890 Houghton, Osgood And Company edition.
+.it p. 349: added missing closing quote based on context and 1875 Chatto & Windus edition (purgare, sed facere”.)
+.ul-
+
+In the end-of-book publisher's catalog, some repeated words were indicated by
+quote marks (”). These were replaced with the repeated word, for formatting
+reasons.
+
+.dv-
