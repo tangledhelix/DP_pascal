@@ -14416,7 +14416,6 @@ The plan and materials of this letter were furnished by M. Nicole.
 .fn-
 .fs
 
-
 .rj
 <i>December 4, 1656.</i>
 
@@ -18136,7 +18135,6 @@ will be in neat 12mo form, large type, and uniformly bound in cloth.</s>
 .nf c
 <xl>NEW JUVENILE BOOKS.</xl>
 
-
 <l>Edward Clifford; or, Memories of Childhood,</l>
 With six illustrations. \|16mo. \|75\_cents.
 .nf-
@@ -18220,7 +18218,6 @@ New Editions, in cheaper form, of
 
 .nf c
 <xl>EXPOSITORY WORKS.</xl>
-
 
 <l>Dr. Hodge’s Commentary on Ephesians.</l>
 8vo. \|$2\_00.
