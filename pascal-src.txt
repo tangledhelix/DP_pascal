@@ -11169,10 +11169,18 @@ in this fashion: “The human personality was grafted, as
 it were, or <em>set on horseback</em>, upon the personality of the
 Word!”[235] And omitting many others, I might mention another
 passage from the same author, who, speaking on the
-subject of the name of Jesus, ordinarily written thus, I. [**cross symbol over H]. S.
+subject of the name of Jesus, ordinarily written thus,
+
+.nf c
+✝
+I. H. S.
+.nf-
+
+.ni
 observes that “some have taken away the cross from the
 top of it, leaving the characters barely thus, I. H. S.—which,”
 says he, “is a stripped Jesus!”
+.pi
 
 .fs 80%
 .fn 235
