@@ -7084,7 +7084,7 @@ I am, &c.
 .pn +1
 
 .sp 4
-.h2
+.h2 title="LETTER VII."
 LETTER VII.[162]
 
 .fs 80%
@@ -7897,7 +7897,7 @@ pp. 212–221.)
 .pn +1
 
 .sp 4
-.h2
+.h2 title="LETTER VIII."
 LETTER VIII.[173]
 
 .fs 80%
@@ -13604,7 +13604,7 @@ See Letter xiii., p. 264.
 .pn +1
 
 .sp 4
-.h2
+.h2 title="LETTER XV."
 LETTER XV.[267]
 
 .ce
@@ -14396,7 +14396,7 @@ prevent the discovery.
 .pn +1
 
 .sp 4
-.h2
+.h2 title="LETTER XVI."
 LETTER XVI.[277]
 
 .ce
@@ -15702,7 +15702,7 @@ into a stroke at the disingenuousness of his opponents.
 .pn +1
 
 .sp 4
-.h2
+.h2 title="LETTER XVII."
 LETTER XVII.[317]
 
 .ce
