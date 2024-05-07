@@ -138,6 +138,7 @@ Itemized changes from the original text:
 .it p. 103: added missing quote mark based on context and 1875 Chatto & Windus edition (written in letters of gold.”)
 .it p. 104: changed “terrribly” to “terribly” (I am terribly afraid)
 .it p. 110: changed “nnmber” to “number” (the number of our offences)
+.it p. 143: changed “Filiutus” to “Filiutius” (as Filiutius says.)
 .it p. 146: added missing quote mark based on context and 1875 Chatto & Windus edition (gone into desuetude’)
 .it p. 168: changed “sylllogism” to “syllogism” (a syllogism in due form,)
 .it p. 204: added missing quote mark based on context and 1875 Chatto & Windus edition (than to live well.’)

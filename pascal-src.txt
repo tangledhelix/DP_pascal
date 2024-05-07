@@ -1220,7 +1220,7 @@ for his translation of the Bible.
 
 .fs 80%
 .fn 28
-Moshein, Eccl. Hist., cent. xvii. §2.
+Mosheim, Eccl. Hist., cent. xvii. §2.
 .fn-
 .fs
 
@@ -4606,7 +4606,7 @@ In Nicole’s edition, this letter is signed with the initials “E. A. A.
 B. P. A. F. D. E. P.” which seem merely a chance medley of letters, to
 quiz those who were so anxious to discover the author. There may
 have been an allusion to the absurd story of a Jansenist conference
-held, it was said, at Bourg Fontaine, in 1621, to deliberate on ways and
+held, it was said, at Bourg-Fontaine, in 1621, to deliberate on ways and
 means for abolishing Christianity; among the persons present at which,
 indicated by initials, Anthony Arnauld was ridiculously accused of having
 been one under the initials A. A. (See Bayle’s Dict., art. <cite>Ant. Arnauld</cite>.)
@@ -6839,7 +6839,7 @@ more here: we have the laws of the Church.”
 “True,” he replied; “but this shows you do not know another
 capital maxim of our fathers, ‘that the laws of the
 Church lose their authority when they have gone into desuetude’—<lang=la><i>cum
-jam desuetudine abierunt</i></lang>—as Filiutus says.[159] We
+jam desuetudine abierunt</i></lang>—as Filiutius says.[159] We
 know the present exigencies of the Church much better than
 the ancients could do. Were we to be so strict in excluding
 priests from the altar, you can understand there would not be
@@ -7271,7 +7271,7 @@ even at the point of the sword—<lang=la><i>etiam cum gladio</i></lang>!’
 So far are we from permitting any one to cherish the design
 of taking vengeance on his enemies, that our fathers will not
 allow any even to <em>wish their death</em>—by a movement of hatred.
-‘If your enemy is disposed to injure you,’ says Escobar,‘you
+‘If your enemy is disposed to injure you,’ says Escobar, ‘you
 have no right to wish his death, by a movement of hatred;
 though you may, with a view to save yourself from harm.’
 So legitimate, indeed, is this wish, with such an intention,
@@ -8223,7 +8223,7 @@ was exposed before the courts of justice, during a long litigation, in the
 course of which it was discovered that the Jesuit fathers had been carrying
 on extensive mercantile transactions, and that instead of spending
 the money left them for <em>pious uses</em>—such as ransoming captives, and
-almsgiving—they had devoted it to the purposes of what they termed
+alms-giving—they had devoted it to the purposes of what they termed
 “our poor little house of profession.” (Theatre Jesuitique, p. 200, &c.)
 .fn-
 .fs
@@ -8685,7 +8685,7 @@ about a dozen passages in the letters, he leaves avowedly more
 than a hundred without daring to answer them. The pretext for thus
 failing to perform what he professed to do, and what he so loudly boasts,
 at the commencement, of his being able to do, is ingenious enough.
-“You will easily comprehend.” says one of his characters, “that this
+“You will easily comprehend,” says one of his characters, “that this
 confronting of texts and quotations is not a great treat for a man of my
 taste. I could not stand this <em>disagreeable labor</em> much longer.” (Entretiens
 de Cleandre et d’Eudoxe, p. 277.) We reserve our remarks on
@@ -19142,6 +19142,7 @@ Itemized changes from the original text:
 .it p. 103: added missing quote mark based on context and 1875 Chatto & Windus edition (written in letters of gold.”)
 .it p. 104: changed “terrribly” to “terribly” (I am terribly afraid)
 .it p. 110: changed “nnmber” to “number” (the number of our offences)
+.it p. 143: changed “Filiutus” to “Filiutius” (as Filiutius says.)
 .it p. 146: added missing quote mark based on context and 1875 Chatto & Windus edition (gone into desuetude’)
 .it p. 168: changed “sylllogism” to “syllogism” (a syllogism in due form,)
 .it p. 204: added missing quote mark based on context and 1875 Chatto & Windus edition (than to live well.’)
@@ -19156,7 +19157,7 @@ Itemized changes from the original text:
 .it p. 349: added missing closing quote based on context and 1875 Chatto & Windus edition (purgare, sed facere”.)
 .ul-
 
-In the end-of-book publisher's catalog, some repeated words were indicated by
+In the end-of-book publisher’s catalog, some repeated words were indicated by
 quote marks (”). These were replaced with the repeated word, for formatting
 reasons.
 
