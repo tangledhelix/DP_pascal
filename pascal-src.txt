@@ -436,6 +436,7 @@ reasoned high on similar points,
 .in
 .fs
 
+.ti 0
 Those who appealed to them for the settlement of the question,
 had too much reason to say, as the man in Terence does
 to his lawyers—“<lang=la><i>Fecistis probe; incertior sum multo quam
