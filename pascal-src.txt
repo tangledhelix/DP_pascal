@@ -6063,8 +6063,8 @@ were true, it will seldom or never happen to be obligatory in
 practice.’”
 
 .pm fns 147
-Luke xi. 41.—<lang=la><i>Quod superest, date eleemosynam</i></lang> (Vulgate); τα ἐνοντα
-ότε (Gr.); <lang=la><i>Ea quæ penes vos sunt date</i></lang> (Beza); “Give alms of such
+Luke xi. 41.—<lang=la><i>Quod superest, date eleemosynam</i></lang> (Vulgate); <lang=grc>τα ἐνοντα
+ότε</lang> (Gr.); <lang=la><i>Ea quæ penes vos sunt date</i></lang> (Beza); “Give alms of such
 things as ye have.” (Eng. Ver.)
 .pm fne
 
