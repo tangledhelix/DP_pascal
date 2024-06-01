@@ -2179,7 +2179,7 @@ which would have been very unjust and blamable.”[63]
 
 .pm fns 63
 Tabaraud, <cite>Dissertation sur la foi qui est due au Temoignage de
-Pascal dans ses Lettres Provinciales</cite>, p 12.—This work, published some
+Pascal dans ses Lettres Provinciales</cite>, p. 12.—This work, published some
 years ago in France, contains a complete justification of Pascal’s picture
 of the Jesuits in the Provincials, accompanied with a mass of authorities.
 The above sentiments have been introduced into Pascal’s
@@ -2286,11 +2286,11 @@ Eichhorn, Geschichte der Lit., i. 426.
 .pm fne
 
 .pm fns 68
-Prov. Let., p. 118.
+Prov. Let., #p. 118:Page_118#.
 .pm fne
 
 .pm fns 69
-Ib., p. 142.
+Ib., #p. 142:Page_142#.
 .pm fne
 
 .pm fns 70
@@ -6512,7 +6512,7 @@ to be safe, and one which may be followed in practice—<lang=la><i>et
 tuta et sequenda in praxi</i></lang>.”[158]
 
 .pm fns 158
-Treatise 10, p 474; ib., p. 441; Quest. 32, p. 457.
+Treatise 10, p. 474; ib., p. 441; Quest. 32, p. 457.
 .pm fne
 
 “Follow this opinion in practice!” cried I. “Will any
@@ -7076,7 +7076,7 @@ in such matters, says, that “It had done as much to depopulate
 the country as the civil and foreign wars, and that in the course of
 twenty years, ten of which had been disturbed by war, more Frenchmen
 perished by the hands of Frenchmen than by those of their enemies.”
-(Voltaire, Siècle de Louis XIV., p 42.) The abolition of this barbarous
+(Voltaire, Siècle de Louis XIV., p. 42.) The abolition of this barbarous
 custom was one of the greatest services which Louis XIV. rendered
 to his country. This was not fully accomplished till 1663, when a
 bloody combat of four against four determined him to put an end to the
@@ -9278,7 +9278,7 @@ almost as cleverly as they contracted them—<lang=la><i>plurimi vix citius
 maculas contrahunt quam eluunt</i></lang>.’”
 
 .pm fns 204
-See before, p 116.
+See before, #p. 116:Page_116#.
 .pm fne
 
 .pm fns 205
@@ -11175,7 +11175,7 @@ obliged to give even a fragment of our superfluity; such is
 his complaisance to the rich, such his hardness to the poor,
 such his contrariety to those feelings of charity which teach
 us to relish the truth contained in the following words of
-St. Gregory, harsh as it may sound to the rich of this world
+St. Gregory, harsh as it may sound to the rich of this world:
 “When we give the poor what is necessary to them, we are
 not so much bestowing on them what is our property, as
 rendering to them what is their own; and it may be said to
@@ -11315,7 +11315,7 @@ by these vain artifices; for I shall put some questions to you
 so simple, that they will not admit of coming under your <lang=la><i>distinguo</i></lang>.[243]
 
 .pm fns 243
-See before, page 73.
+See before, #page 73:Page_73#.
 .pm fne
 .bn 253.png
 .pn +1
@@ -11427,7 +11427,7 @@ to absolve their penitents, and to wash them from that
 spiritual leprosy of which the bodily disease is the type.
 
 .pm fns 244
-See before, page 140.
+See before, #page 140:Page_140#.
 .pm fne
 
 Seriously, fathers, it would be extremely easy to hold you
@@ -11535,7 +11535,7 @@ what becomes of your doctor, and your doctrine of probability?
 If you say, Yes—I delate you to the Parliament.[246]
 
 .pm fns 245
-See before, p. 177.
+See before, #p. 177:Page_177#.
 .pm fne
 
 .pm fns 246
@@ -13078,7 +13078,7 @@ it was, to say the very least, <em>a probable buffet</em>. This gets me
 off with a safe conscience.
 
 .pm fns 266
-See Letter xiii., p. 264.
+See Letter xiii., #p. 264:Page_264#.
 .pm fne
 
 .fm lz=t
@@ -14936,7 +14936,7 @@ saved, if the simple and very reasonable rule had been adopted of
 waiving investigation into the credibility of any narrative of supernatural
 or pretended supernatural events said to have taken place <em>upon
 consecrated ground, or under sacred roofs</em>.” (Natural Hist. of Enthusiasm,
-p. 236.) “It is well known,” says Mosheim “that the Jansenists
+p. 236.) “It is well known,” says Mosheim, “that the Jansenists
 and Augustinians have long pretended to confirm their doctrine by
 miracles; and they even acknowledge that these miracles have saved
 them when their affairs have been reduced to a desperate situation.”
@@ -15105,7 +15105,7 @@ M. Nicole furnished the materials for this letter. (Nicole, iv. 324.)
 .pm fne
 
 .pm fns 318
-<i>Francis Annat</i>, the same person formerly referred to at p. 102.
+<i>Francis Annat</i>, the same person formerly referred to at #p. 102:Page_102#.
 He became French provincial of the Jesuits, and confessor to Louis XIV.
 .pm fne
 
@@ -15176,7 +15176,7 @@ preceded your publication.
 
 .pm fns 319
 A threat, evidently, of administering to him the <lang=la><i>Mentiris impudentissime</i></lang>
-of the Capuchin, mentioned at p. 310.
+of the Capuchin, mentioned at #p. 310:Page_310#.
 .pm fne
 
 You must fall on some other way, then, to prove me a
@@ -15991,7 +15991,7 @@ their consciences, or be denounced as heretics for refusing to
 sign it?[335]
 
 .pm fns 334
-See Letter i., p. 74.
+See Letter i., #p. 74:Page_74#.
 .pm fne
 
 .pm fns 335
@@ -17290,14 +17290,6 @@ in the Church, their reply was....
 .ce
 THE END
 
-.if h
-.sp 4
-.h2
-Footnotes
-
-.fm lz=h rend=no
-.if-
-
 .ni
 
 .bn 393.png
@@ -18423,8 +18415,15 @@ Sketch, and copious notes. Folio. $1.50
 .ti end
 .in
 
+.if h
+.sp 4
+.h2
+Footnotes
+
+.fm lz=h rend=no
+.if-
+
 .pb
-.ni
 
 .de .tnotes { width: 80%; margin: auto; padding: 0 1em; background-color: #E3E4FA; border: 1px solid silver; }
 .dv class="tnotes"
