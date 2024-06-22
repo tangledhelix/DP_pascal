@@ -5890,7 +5890,7 @@ the monk. “Their names are, Villabolos, Conink, Llamas,
 Achokier, Dealkozer, Dellacrux, Veracruz, Ugolin, Tambourin,
 Fernandez, Martinez, Suarez, Henriquez, Vasquez, Lopez,
 Gomez, Sanchez, De Vechis, De Grassis, De Grassalis,
-De Pitigianis, De Graphæis, Squilanti, Bizozeri, Barcola, De
+De Pitigianis, De Graphœis, Squilanti, Bizozeri, Barcola, De
 Bobadilla, Simancha, Perez de Lara, Aldretta, Lorca, De
 Scarcia, Quaranta, Scophra, Pedezza, Cabrezza, Bisbe, Dias,
 De Clavasis, Villagut, Adam à Manden, Iribarne, Binsfeld,
@@ -18054,7 +18054,7 @@ Delivered in London. Series of 1854–5–6. Each $1\_00.
 .tb
 
 .ul style=none
-.it ANNIE’S FIRST BOOK. 85 cents.
+.it ANNIE’S FIRST BOOK. 35 cents.
 .it ANNIE’S SECOND BOOK. 40 cents.
 .it DUTY IS SAFETY. 25 cents.
 .it JACK THE SAILOR BOY. 25 cents.
