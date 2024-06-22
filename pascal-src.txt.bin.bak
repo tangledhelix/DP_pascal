@@ -395,18 +395,18 @@
  'Pg394' => {'offset' => '17692.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg395' => {'offset' => '17772.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg396' => {'offset' => '17868.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg397' => {'offset' => '17983.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg398' => {'offset' => '18077.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg399' => {'offset' => '18176.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg400' => {'offset' => '18265.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg401' => {'offset' => '18397.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg402' => {'offset' => '18479.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg403' => {'offset' => '18479.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg404' => {'offset' => '18479.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg397' => {'offset' => '17981.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg398' => {'offset' => '18075.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg399' => {'offset' => '18174.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg400' => {'offset' => '18263.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg401' => {'offset' => '18395.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg402' => {'offset' => '18477.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg403' => {'offset' => '18477.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg404' => {'offset' => '18477.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
 );
 
 
-$::bookmarks[0] = '17943.12';
+$::bookmarks[0] = '15461.28';
 $::bookmarks[1] = '17292.0';
 $::bookmarks[2] = '13371.0';
 $::bookmarks[3] = '7847.60';
