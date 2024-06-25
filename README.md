@@ -161,6 +161,9 @@ reasons.
 
 ### Smooth Reading ###
 
+- 129: `Graphæis` changed to `Graphœis`
+- 397: `ANNIE’S FIRST BOOK. 85 cents.` -- `85` changed `35`
+
 
 [1]: https://books.google.co.za/books?id=dIU9AAAAYAAJ
 [2]: https://books.google.co.za/books?id=dIU9AAAAYAAJ&pg=PR7&source=gbs_toc_r&cad=2#v=onepage&q&f=false
