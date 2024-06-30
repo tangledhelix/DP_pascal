@@ -17292,11 +17292,107 @@ THE END
 
 .ni
 
+// --- BEGIN ADS BORDER CSS
+
+// A container for a section of ads. For ebookmaker, we suppress the
+// border; it does not render well. As such, for ebookmaker we also
+// suppress the padding of this div.
+.de .adscontent {position:relative; padding:3em;}
+.de .x-ebookmaker .adscontent {position:static; padding:0;}
+
+// top/bottom border images are 2em high. left/right are 2em wide.
+// that way they scale together, and also with the text size.
+.de .adsbordertbimg {height:2em;}
+.de .x-ebookmaker .adsbordertbimg {visibility: hidden; display: none;}
+.de .adsborderlrimg {width:2em;}
+.de .x-ebookmaker .adsborderlrimg {visibility: hidden; display: none;}
+
+// top border includes the top corners as well. use absolute positioning.
+.de .adsbordertopleft {position: absolute; top: 0; left: 0;}
+.de .x-ebookmaker .adsbordertopleft {visibility: hidden; display: none; }
+.de .adsbordertopright {position: absolute; top: 0; right: 0;}
+.de .x-ebookmaker .adsbordertopright {visibility: hidden; display: none; }
+
+// left and right border each have a top image and bottom image.
+// because the top and bottom borders are 2em in height, offset these
+// by the same amount to align them.
+.de .adsborderlefttop {position: absolute; top: 2em; left: 0;}
+.de .x-ebookmaker .adsborderlefttop {visibility: hidden; display: none; }
+.de .adsborderleftbottom {position: absolute; bottom: 2em; left: 0;}
+.de .x-ebookmaker .adsborderleftbottom {visibility: hidden; display: none; }
+.de .adsborderrighttop {position: absolute; top: 2em; right: 0;}
+.de .x-ebookmaker .adsborderrighttop {visibility: hidden; display: none; }
+.de .adsborderrightbottom {position: absolute; bottom: 2em; right: 0;}
+.de .x-ebookmaker .adsborderrightbottom {visibility: hidden; display: none; }
+
+// bottom border includes the corners as well. use absolute positioning.
+.de .adsborderbottomleft {position: absolute; bottom: 0; left: 0;}
+.de .x-ebookmaker .adsborderbottomleft {visibility: hidden; display: none; }
+.de .adsborderbottomright {position: absolute; bottom: 0; right: 0;}
+.de .x-ebookmaker .adsborderbottomright {visibility: hidden; display: none; }
+
+// --- END ADS BORDER CSS
+
 .bn 393.png
 
 .pb
 
-.sp 4
+.dv class="adscontent"
+
+// --- BEGIN ADS BORDER HTML
+// The ad borders use .li(teral) HTML, so only do this part for HTML
+.if h
+
+// top border
+.dv class="adsbordertopleft"
+.li
+<img class="adsbordertbimg" alt="" src="images/kinsmanframe-top-left-combined.png">
+.li-
+.dv-
+.dv class="adsbordertopright"
+.li
+<img class="adsbordertbimg" alt="" src="images/kinsmanframe-top-right-combined.png">
+.li-
+.dv-
+
+// left border
+.dv class="adsborderlefttop"
+.li
+<img class="adsborderlrimg" alt="" src="images/kinsmanframe-left-border-top.png">
+.li-
+.dv-
+.dv class="adsborderleftbottom"
+.li
+<img class="adsborderlrimg" alt="" src="images/kinsmanframe-left-border-bottom.png">
+.li-
+.dv-
+
+// right border
+.dv class="adsborderrighttop"
+.li
+<img class="adsborderlrimg" alt="" src="images/kinsmanframe-right-border-top.png">
+.li-
+.dv-
+.dv class="adsborderrightbottom"
+.li
+<img class="adsborderlrimg" alt="" src="images/kinsmanframe-right-border-bottom.png">
+.li-
+.dv-
+
+// bottom border
+.dv class="adsborderbottomleft"
+.li
+<img class="adsbordertbimg" alt="" src="images/kinsmanframe-bottom-left-combined.png">
+.li-
+.dv-
+.dv class="adsborderbottomright"
+.li
+<img class="adsbordertbimg" alt="" src="images/kinsmanframe-bottom-right-combined.png">
+.li-
+.dv-
+
+// --- END AD BORDER HTML
+.if- // html
 
 .ce
 <xxl>CARTERS’ CATALOGUE.</xxl>
@@ -18055,15 +18151,68 @@ Delivered in London. Series of 1854–5–6. Each $1\_00.
 .it VERY LITTLE TALES. 2 vols. 75 cts.
 .ul-
 
+.dv- // adscontent
+
 .pb
 
 .bn 401.png
 
-.sp 4
+.dv class="adscontent"
 
-.de .kinsmancontent {position:relative; padding: 3em;}
+// --- BEGIN ADS BORDER HTML
+// The ad borders use .li(teral) HTML, so only do this part for HTML
+.if h
 
-.dv class="kinsmancontent"
+// top border
+.dv class="adsbordertopleft"
+.li
+<img class="adsbordertbimg" alt="" src="images/kinsmanframe-top-left-combined.png">
+.li-
+.dv-
+.dv class="adsbordertopright"
+.li
+<img class="adsbordertbimg" alt="" src="images/kinsmanframe-top-right-combined.png">
+.li-
+.dv-
+
+// left border
+.dv class="adsborderlefttop"
+.li
+<img class="adsborderlrimg" alt="" src="images/kinsmanframe-left-border-top.png">
+.li-
+.dv-
+.dv class="adsborderleftbottom"
+.li
+<img class="adsborderlrimg" alt="" src="images/kinsmanframe-left-border-bottom.png">
+.li-
+.dv-
+
+// right border
+.dv class="adsborderrighttop"
+.li
+<img class="adsborderlrimg" alt="" src="images/kinsmanframe-right-border-top.png">
+.li-
+.dv-
+.dv class="adsborderrightbottom"
+.li
+<img class="adsborderlrimg" alt="" src="images/kinsmanframe-right-border-bottom.png">
+.li-
+.dv-
+
+// bottom border
+.dv class="adsborderbottomleft"
+.li
+<img class="adsbordertbimg" alt="" src="images/kinsmanframe-bottom-left-combined.png">
+.li-
+.dv-
+.dv class="adsborderbottomright"
+.li
+<img class="adsbordertbimg" alt="" src="images/kinsmanframe-bottom-right-combined.png">
+.li-
+.dv-
+
+// --- END AD BORDER HTML
+.if- // html
 
 .nf c
 <xl>CARTERS’ PUBLICATIONS.</xl>
@@ -18407,76 +18556,7 @@ Sketch, and copious notes. Folio. $1.50
 .ti end
 .in
 
-.if h // advertisements borders
-
-// top border
-.de .bordertbimg {height:2em;}
-// top border, left side
-.de .bordertopleft {position: absolute; top: 0; left: 0;}
-.dv class="bordertopleft"
-.li
-<img class="bordertbimg" src="images/kinsmanframe-top-left-combined.png">
-.li-
-.dv-
-// top border, right side
-.de .bordertopright {position: absolute; top: 0; right: 0;}
-.dv class="bordertopright"
-.li
-<img class="bordertbimg" src="images/kinsmanframe-top-right-combined.png">
-.li-
-.dv-
-
-// left/right borders
-.de .borderlrimg {width:2em;}
-// left border, top end
-.de .borderlefttop {position: absolute; top: 2.01em; left: 0;}
-.dv class="borderlefttop"
-.li
-<img class="borderlrimg" src="images/kinsmanframe-left-border-top.png">
-.li-
-.dv-
-// left border, bottom end
-.de .borderleftbottom {position: absolute; bottom: 2.01em; left: 0;}
-.dv class="borderleftbottom"
-.li
-<img class="borderlrimg" src="images/kinsmanframe-left-border-bottom.png">
-.li-
-.dv-
-// right border, top end
-.de .borderrighttop {position: absolute; top: 2.01em; right: 0;}
-.dv class="borderrighttop"
-.li
-<img class="borderlrimg" src="images/kinsmanframe-right-border-top.png">
-.li-
-.dv-
-// right border, bottom end
-.de .borderrightbottom {position: absolute; bottom: 2.01em; right: 0;}
-.dv class="borderrightbottom"
-.li
-<img class="borderlrimg" src="images/kinsmanframe-right-border-bottom.png">
-.li-
-.dv-
-
-// bottom border
-.de .bordertbimg {height:2em;}
-// bottom border, left side
-.de .borderbottomleft {position: absolute; bottom: 0; left: 0;}
-.dv class="borderbottomleft"
-.li
-<img class="bordertbimg" src="images/kinsmanframe-bottom-left-combined.png">
-.li-
-.dv-
-// bottom border, right side
-.de .borderbottomright {position: absolute; bottom: 0; right: 0;}
-.dv class="borderbottomright"
-.li
-<img class="bordertbimg" src="images/kinsmanframe-bottom-right-combined.png">
-.li-
-.dv-
-
-.if- // borders
-
-.dv- // kinsmancontent
+.dv- // adscontent
 
 .if h
 .sp 4
