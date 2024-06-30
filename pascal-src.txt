@@ -17346,48 +17346,48 @@ THE END
 // top border
 .dv class="adsbordertopleft"
 .li
-<img class="adsbordertbimg" alt="" src="images/kinsmanframe-top-left-combined.png">
+<img class="adsbordertbimg" alt="" src="images/cartersframe-top-left-combined.png">
 .li-
 .dv-
 .dv class="adsbordertopright"
 .li
-<img class="adsbordertbimg" alt="" src="images/kinsmanframe-top-right-combined.png">
+<img class="adsbordertbimg" alt="" src="images/cartersframe-top-right-combined.png">
 .li-
 .dv-
 
 // left border
 .dv class="adsborderlefttop"
 .li
-<img class="adsborderlrimg" alt="" src="images/kinsmanframe-left-border-top.png">
+<img class="adsborderlrimg" alt="" src="images/cartersframe-left-border-top.png">
 .li-
 .dv-
 .dv class="adsborderleftbottom"
 .li
-<img class="adsborderlrimg" alt="" src="images/kinsmanframe-left-border-bottom.png">
+<img class="adsborderlrimg" alt="" src="images/cartersframe-left-border-bottom.png">
 .li-
 .dv-
 
 // right border
 .dv class="adsborderrighttop"
 .li
-<img class="adsborderlrimg" alt="" src="images/kinsmanframe-right-border-top.png">
+<img class="adsborderlrimg" alt="" src="images/cartersframe-right-border-top.png">
 .li-
 .dv-
 .dv class="adsborderrightbottom"
 .li
-<img class="adsborderlrimg" alt="" src="images/kinsmanframe-right-border-bottom.png">
+<img class="adsborderlrimg" alt="" src="images/cartersframe-right-border-bottom.png">
 .li-
 .dv-
 
 // bottom border
 .dv class="adsborderbottomleft"
 .li
-<img class="adsbordertbimg" alt="" src="images/kinsmanframe-bottom-left-combined.png">
+<img class="adsbordertbimg" alt="" src="images/cartersframe-bottom-left-combined.png">
 .li-
 .dv-
 .dv class="adsborderbottomright"
 .li
-<img class="adsbordertbimg" alt="" src="images/kinsmanframe-bottom-right-combined.png">
+<img class="adsbordertbimg" alt="" src="images/cartersframe-bottom-right-combined.png">
 .li-
 .dv-
 
