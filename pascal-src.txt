@@ -17293,7 +17293,6 @@ THE END
 .ni
 
 .bn 393.png
-.pn +1
 
 .pb
 
@@ -17370,7 +17369,6 @@ By James Hamilton, D.D. 18mo. 30\_cents.
 <l>The Christian’s Great Interest.</l>
 By the Rev. William Guthrie, with Introd. by Dr. Chalmers. 50\_cts.
 .bn 394.png
-.pn +1
 
 <l>Evening Incense.</l>
 By the author of the “Morning and Night Watches.” 40\_cents.
@@ -17435,7 +17433,6 @@ will be in neat 12mo form, large type, and uniformly bound in cloth.</s>
 .pb
 
 .bn 395.png
-.pn +1
 
 .nf c
 <xl>NEW JUVENILE BOOKS.</xl>
@@ -17519,7 +17516,6 @@ New Editions, in cheaper form, of
 .pb
 
 .bn 396.png
-.pn +1
 
 .nf c
 <xl>EXPOSITORY WORKS.</xl>
@@ -17623,7 +17619,6 @@ Y. Observer.</i></s>
 .pb
 
 .bn 397.png
-.pn +1
 
 .nf c
 <xl>COMMENTARIES ON THE BIBLE.</xl>
@@ -17710,7 +17705,6 @@ of those intended for holy orders.”</s>
 .pb
 
 .bn 398.png
-.pn +1
 
 .nf c
 <xl>NEW RELIGIOUS BIOGRAPHIES.</xl>
@@ -17810,7 +17804,6 @@ A Memoir of Henry Lyman.
 .pb
 
 .bn 399.png
-.pn +1
 
 <b>BICKERSTETH</b>, Rev. Edward.
 
@@ -17917,7 +17910,6 @@ Delivered in London. Series of 1854–5–6. Each $1\_00.
 .pb
 
 .bn 400.png
-.pn +1
 
 .nf c
 <xl>FIRESIDE LIBRARY.</xl>
@@ -18066,38 +18058,12 @@ Delivered in London. Series of 1854–5–6. Each $1\_00.
 .pb
 
 .bn 401.png
-.pn +1
 
 .sp 4
 
-.de .cornertopleft {padding-left: 32px;background-image: url("images/kinsmanframe-top-left-combined.png"); background-position: left;background-repeat:no-repeat;}
-.de .cornertopright {padding-right: 32px; background-image: url("images/cornertopright.png"); background-position: right;}
-.de .borderleft {padding-left: 32px; background-image: url("images/borderleft.png"); background-repeat: repeat-y; background-position: left;}
-.de .borderright {padding-right: 32px; background-image: url("images/borderright.png"); background-repeat: repeat-y; background-position: right;}
-.de .cornerbottomleft {padding-left: 32px; background-size:2em;background-image: url("images/kinsmanframe-bottom-left-corner.png"); background-position: left;background-repeat:no-repeat;}
-.de .cornerbottomright {padding-right: 32px; background-size:2em;background-image: url("images/kinsmanframe-bottom-right-corner.png"); background-position: right;background-repeat:no-repeat;}
+.de .kinsmancontent {position:relative; padding: 3em;}
 
-.dv class="cornertopleft"
-.dv class="cornertopright"
-.dv-
-.dv-
-.dv class="borderleft"
-.dv class="borderright"
-.dv class="whatever"
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-enim ad minim veniam, quis nostrud exercitation ullamco laboris
-nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
-.dv-
-.dv-
-.dv-
-.dv class="cornerbottomleft"
-.dv class="cornerbottomright"
-.dv-
-.dv-
+.dv class="kinsmancontent"
 
 .nf c
 <xl>CARTERS’ PUBLICATIONS.</xl>
@@ -18191,7 +18157,6 @@ of readers.</s>
 .in
 
 .bn 402.png
-.pn +1
 
 .nf c
 <l>The Autobiography and Reminiscences of the Rev. Wm. Jay.</l>
@@ -18279,7 +18244,6 @@ of the West.</i></s>
 .in
 
 .bn 403.png
-.pn +1
 
 .nf c
 <l>The Footsteps of St. Paul.</l>
@@ -18362,7 +18326,6 @@ By the Rev. Edward Bickersteth. 16mo. 60\_cents.
 .nf-
 
 .bn 404.png
-.pn +1
 
 .nf c
 <l>The Young Man’s Friend and Guide through Life to Immortality.</l>
@@ -18444,6 +18407,77 @@ Sketch, and copious notes. Folio. $1.50
 .ti end
 .in
 
+.if h // advertisements borders
+
+// top border
+.de .bordertbimg {height:2em;}
+// top border, left side
+.de .bordertopleft {position: absolute; top: 0; left: 0;}
+.dv class="bordertopleft"
+.li
+<img class="bordertbimg" src="images/kinsmanframe-top-left-combined.png">
+.li-
+.dv-
+// top border, right side
+.de .bordertopright {position: absolute; top: 0; right: 0;}
+.dv class="bordertopright"
+.li
+<img class="bordertbimg" src="images/kinsmanframe-top-right-combined.png">
+.li-
+.dv-
+
+// left/right borders
+.de .borderlrimg {width:2em;}
+// left border, top end
+.de .borderlefttop {position: absolute; top: 2.01em; left: 0;}
+.dv class="borderlefttop"
+.li
+<img class="borderlrimg" src="images/kinsmanframe-left-border-top.png">
+.li-
+.dv-
+// left border, bottom end
+.de .borderleftbottom {position: absolute; bottom: 2.01em; left: 0;}
+.dv class="borderleftbottom"
+.li
+<img class="borderlrimg" src="images/kinsmanframe-left-border-bottom.png">
+.li-
+.dv-
+// right border, top end
+.de .borderrighttop {position: absolute; top: 2.01em; right: 0;}
+.dv class="borderrighttop"
+.li
+<img class="borderlrimg" src="images/kinsmanframe-right-border-top.png">
+.li-
+.dv-
+// right border, bottom end
+.de .borderrightbottom {position: absolute; bottom: 2.01em; right: 0;}
+.dv class="borderrightbottom"
+.li
+<img class="borderlrimg" src="images/kinsmanframe-right-border-bottom.png">
+.li-
+.dv-
+
+// bottom border
+.de .bordertbimg {height:2em;}
+// bottom border, left side
+.de .borderbottomleft {position: absolute; bottom: 0; left: 0;}
+.dv class="borderbottomleft"
+.li
+<img class="bordertbimg" src="images/kinsmanframe-bottom-left-combined.png">
+.li-
+.dv-
+// bottom border, right side
+.de .borderbottomright {position: absolute; bottom: 0; right: 0;}
+.dv class="borderbottomright"
+.li
+<img class="bordertbimg" src="images/kinsmanframe-bottom-right-combined.png">
+.li-
+.dv-
+
+.if- // borders
+
+.dv- // kinsmancontent
+
 .if h
 .sp 4
 .h2
@@ -18498,7 +18532,7 @@ Itemized changes from the original text:
 .it #p. 349:Page_349#: added missing closing quote based on context and 1875 Chatto & Windus edition (purgare, sed facere”.)
 .ul-
 
-In the end-of-book #publisher’s catalog:Page_393#, some repeated words were indicated by
+In the end-of-book publisher’s catalog, some repeated words were indicated by
 quote marks (”). These were replaced with the repeated word, for formatting
 reasons.
 
