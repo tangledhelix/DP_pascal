@@ -13,6 +13,7 @@ Full title, taken from project comments:
 - [Trello board](https://trello.com/b/nT0nnebE)
 - [Good words](good_words.txt)
 - [Bad words](bad_words.txt)
+- [Project Gutenberg listing](https://www.gutenberg.org/ebooks/73959)
 
 Page references (e.g. `001`) refer to the scan numbers, not the original book's page numbers.
 
